@@ -6,8 +6,14 @@ inst: orchestra
 permalink: /price-violin-concerto-no1/
 ---
 
-## Year Composed
+## Composition Year
 - 1939
+
+## Instrumentation
+- 2.2.2.2-0.2.0.0-timp-strings
+
+## Length
+- 25 min.
 
 ## Manuscripts
 - MC988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
