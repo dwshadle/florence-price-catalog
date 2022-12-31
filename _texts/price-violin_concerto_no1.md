@@ -9,14 +9,14 @@ permalink: /price-violin-concerto-no1/
 ## Entries
 - [Movement I](https://dwshadle.github.io/test/price-violin-concerto-no1/mvt1)
 - [Movement II](https://dwshadle.github.io/test/price-violin-concerto-no1/mvt2)
-- [Movement III]("https://dwshadle.github.io/test/price-violin-concerto-no1/mvt3")
+- [Movement III](https://dwshadle.github.io/test/price-violin-concerto-no1/mvt3)
 
 ## Year Composed
 - 1939
 
 ## Manuscripts
 
-- MC988a: [Florence Beatrice Smith Price Papers Addendum](https://external.ink?to=/https://uark.as.atlas-sys.com/repositories/2/resources/1522), Special Collections, University of Arkansas
+- MC988a: [Florence Beatrice Smith Price Papers Addendum](https://external.ink?to=/uark.as.atlas-sys.com/repositories/2/resources/1522), Special Collections, University of Arkansas
     * Score, Solo Violin and Piano Reduction, complete (Dec. 1939): Box 9, Folder 1
     * Violin Solo, incomplete: Box 9, Folder 2
     * Piano Reduction, incomplete: Box 9, Folder 2
