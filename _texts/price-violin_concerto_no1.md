@@ -1,5 +1,5 @@
 ---
-layout: mei
+layout: page
 title: Violin Concerto No. 1
 author: Price, Florence B.
 inst: orchestra
