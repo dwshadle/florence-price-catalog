@@ -2,7 +2,7 @@
 layout: page
 title: Violin Concerto No. 1 in D Major
 author: Price, Florence B.
-inst: orchestra
+inst: orch-inst
 permalink: /price-violin-concerto-no1/
 ---
 
