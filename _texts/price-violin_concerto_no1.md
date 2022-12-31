@@ -30,4 +30,4 @@ permalink: /price-violin-concerto-no1/
 - <a href="https://www.albanyrecords.com/mm5/merchant.mvc?Screen=PROD&Product_Code=TROY1706" target="_blank">Florence Price: Violin Concertos.</a> Er-Gene Kahng, violin; Ryan Cockerham, conductor; The Janáček Philharmonic Orchestra. Albany Records TROY1706, 2018.
 
 ## Bibliography
-- Hill, Alexandra Kori. "Make the Familiar New: New Negro Modernism in the Concertos of Florence B. Price." PhD diss., University of North Carolina-Chapel Hill, 2022.
+- Hill, Alexandra Kori. "Make the Familiar New: New Negro Modernism in the Concertos of Florence B. Price." PhD diss., University of North Carolina-Chapel Hill, 2022. {:.bibliography}
