@@ -19,9 +19,9 @@ permalink: /price-symphony-no3/
 - 
 
 ## Published Editions
-- Full Score:
-    * *Symphonies No. 1 and 3.* Edited by Rae Linda Brown and Wayne Shirley. Recent Researches in American Music 66. Middleton, WI: Published for the American Musicological Society by A-R Editions, 2008.
-    * <a href="https://www.wisemusicclassical.com/work/58894/Symphony-No-3-in-C-minor" target="_blank">*Symphony No. 3 in C Minor.*</a> New York, NY: G. Schirmer, Inc., 2019.
+- *Symphonies Nos. 1 and 3.* Edited by Rae Linda Brown and Wayne Shirley. Music of the United States of America 19. Recent Researches in American Music 66. Middleton, WI: Published for the American Musicological Society by A-R Editions, 2008.
+    * OCLC: <a href="https://www.worldcat.org/title/277150358" target="_blank">277150358</a>
+- <a href="https://www.wisemusicclassical.com/work/58894/Symphony-No-3-in-C-minor" target="_blank">*Symphony No. 3 in C Minor.*</a> New York, NY: G. Schirmer, Inc., 2019.
 
 ## Recordings
 - 
