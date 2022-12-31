@@ -12,7 +12,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Catalog of Florence B. Price's Musical Works
+title: Florence B. Price Works Catalog
 email: 
 description: An open-access catalog to make high-quality infomration about Florence B. Price's works available to scholars and performers worldwide.
 baseurl: "/" # the subpath of your site, e.g. /blog
