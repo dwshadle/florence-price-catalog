@@ -22,7 +22,7 @@ Works are organized by instrumentation and genre.
     {% endfor %}
 </ul>
     
-<h3>Instrumental Soloist and Orchestra</h3>
+<h3>Solo Instrument and Orchestra</h3>
     <ul class="texts">
     {% for item in site.texts %}
       {% if item.inst == "orch-inst" %}
@@ -35,7 +35,7 @@ Works are organized by instrumentation and genre.
     {% endfor %}
 </ul>
     
-<h3>Vocal Soloist and Orchestra</h3>
+<h3>Solo Voice and Orchestra</h3>
     <ul class="texts">
     {% for item in site.texts %}
       {% if item.inst == "orch-voc" %}
