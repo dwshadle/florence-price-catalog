@@ -16,7 +16,7 @@ permalink: /price-violin-concerto-no1/
 
 ## Manuscripts
 
-- MC988a: [Florence Beatrice Smith Price Papers Addendum](https://external.ink?to=/uark.as.atlas-sys.com/repositories/2/resources/1522), Special Collections, University of Arkansas
+- MC988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
     * Score, Solo Violin and Piano Reduction, complete (Dec. 1939): Box 9, Folder 1
     * Violin Solo, incomplete: Box 9, Folder 2
     * Piano Reduction, incomplete: Box 9, Folder 2
