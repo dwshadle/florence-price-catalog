@@ -8,6 +8,7 @@ permalink: /price-violin-concerto-no1/
 
 ## Entries
 - <a href="https://dwshadle.github.io/test/price-violin-concerto-no1/mvt1" target="_blank">Movement I</a>
+- <a href="https://dwshadle.github.io/test/price-violin-concerto-no1/mvt2" target="_blank">Movement II</a>
 
 ## Manuscripts
 
