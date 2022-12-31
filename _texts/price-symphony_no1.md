@@ -30,6 +30,6 @@ permalink: /price-symphony-no1/
 - 
 
 ## Bibliography
-1. Brown, Rae Linda. *The Heart of a Woman: The Life and Music of Florence B. Price.* Music in American Life. Urbana: University of Illinois Press, 2020.
+1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
 2. Ege, Samantha. "<a href="https://doi.org/10.1353/wam.2020.0010" target="_blank">Composing a Symphonist: Florence Price and the Hand of Black Women's Fellowship.</a>" *Women and Music: A Journal of Gender and Culture* 24 (2020): 7-27.
 {:.bibliography}
