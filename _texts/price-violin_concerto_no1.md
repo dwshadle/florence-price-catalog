@@ -24,7 +24,9 @@ permalink: /price-violin-concerto-no1/
 
 ## Published Editions
 
-- <a href="https://www.wisemusicclassical.com/work/58910/Violin-Concerto-No-1--Florence-Price/" target="_blank">*Violin Concerto No. 1 in D Major.*</a> New York, NY: G. Schirmer, Inc. 2018.
+- Full Score: <a href="https://www.wisemusicclassical.com/work/58910/Violin-Concerto-No-1--Florence-Price/" target="_blank">*Violin Concerto No. 1 in D Major.*</a> New York, NY: G. Schirmer, Inc., 2018.
+- Reduction for Violin and Piano: <a href="https://classicalondemand.com/price-violin-concerto-no-1-3468.html" target="_blank">*Violin Concerto No. 1 in D Major.*</a> New York, NY: G. Schirmer, Inc., 2018.
+    * OCLC: <a href="https://www.worldcat.org/title/1138974910" target="_blank">1138974910</a>
 
 ## Recordings
 
