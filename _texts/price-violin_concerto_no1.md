@@ -6,11 +6,6 @@ inst: orchestra
 permalink: /price-violin-concerto-no1/
 ---
 
-## Entries
-- [Movement I](https://dwshadle.github.io/test/price-violin-concerto-no1/mvt1)
-- [Movement II](https://dwshadle.github.io/test/price-violin-concerto-no1/mvt2)
-- [Movement III](https://dwshadle.github.io/test/price-violin-concerto-no1/mvt3)
-
 ## Year Composed
 - 1939
 
@@ -29,5 +24,10 @@ permalink: /price-violin-concerto-no1/
 ## Recordings
 - <a href="https://www.albanyrecords.com/mm5/merchant.mvc?Screen=PROD&Product_Code=TROY1706" target="_blank">Florence Price: Violin Concertos.</a> Er-Gene Kahng, violin; Ryan Cockerham, conductor; The Janáček Philharmonic Orchestra. Albany Records TROY1706, 2018.
 
+## Thematic Incipits
+- [Movement I](https://dwshadle.github.io/test/price-violin-concerto-no1/mvt1)
+- [Movement II](https://dwshadle.github.io/test/price-violin-concerto-no1/mvt2)
+- [Movement III](https://dwshadle.github.io/test/price-violin-concerto-no1/mvt3)
+
 ## Bibliography
-- Hill, Alexandra Kori. "Make the Familiar New: New Negro Modernism in the Concertos of Florence B. Price." PhD diss., University of North Carolina-Chapel Hill, 2022. {:.bibliography}
+1. Hill, Alexandra Kori. "Make the Familiar New: New Negro Modernism in the Concertos of Florence B. Price." PhD diss., University of North Carolina-Chapel Hill, 2022. {:.bibliography}
