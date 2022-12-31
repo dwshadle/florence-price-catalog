@@ -3,7 +3,7 @@ layout: page
 title: Complete Works Index
 permanlink: /complete-works/
 ---
-This index is under development additional works will be added.
+This index is under development, and additional works will be added.
 
 Works are organized by instrumentation and genre. 
 
