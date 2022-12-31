@@ -30,4 +30,5 @@ permalink: /price-violin-concerto-no1/
 - [Movement III](https://dwshadle.github.io/test/price-violin-concerto-no1/mvt3)
 
 ## Bibliography
-1. Hill, Alexandra Kori. "Make the Familiar New: New Negro Modernism in the Concertos of Florence B. Price." PhD diss., University of North Carolina-Chapel Hill, 2022. {:.bibliography}
+1. Hill, Alexandra Kori. "Make the Familiar New: New Negro Modernism in the Concertos of Florence B. Price." PhD diss., University of North Carolina-Chapel Hill, 2022.
+{:.bibliography}
