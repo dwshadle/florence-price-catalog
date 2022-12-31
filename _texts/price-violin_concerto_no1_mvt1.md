@@ -2,6 +2,7 @@
 layout: mei
 title: Violin concerto no. 1, mvt. 1
 author: Price, Florence B.
+inst: orchestra
 permalink: /price-violin-concerto-no1-mvt1/
 document: price_violin_concerto_no1_mvt1.mei
 ---
