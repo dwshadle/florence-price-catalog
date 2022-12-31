@@ -12,7 +12,7 @@ permalink: /price-violin-concerto-no1/
 - <a href="https://dwshadle.github.io/test/price-violin-concerto-no1/mvt3" target="_blank">Movement III</a>
 
 ## Year Composed
-1939
+- 1939
 
 ## Manuscripts
 
