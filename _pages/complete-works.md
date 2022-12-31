@@ -9,10 +9,49 @@ Works are organized by instrumentation and genre.
 
 <div class="toc">
 
-<h3>Full Orchestra</h3>
+<h3>Orchestra</h3>
     <ul class="texts">
     {% for item in site.texts %}
-      {% if item.inst == "orchestra" %}
+      {% if item.inst == "orch" %}
+          <li class="text-title">
+          <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+              </a>
+    </li>
+      {% endif %}
+    {% endfor %}
+</ul>
+    
+<h3>Instrumental Soloist and Orchestra</h3>
+    <ul class="texts">
+    {% for item in site.texts %}
+      {% if item.inst == "orch-inst" %}
+          <li class="text-title">
+          <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+              </a>
+    </li>
+      {% endif %}
+    {% endfor %}
+</ul>
+    
+<h3>Vocal Soloist and Orchestra</h3>
+    <ul class="texts">
+    {% for item in site.texts %}
+      {% if item.inst == "orch-voc" %}
+          <li class="text-title">
+          <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+              </a>
+    </li>
+      {% endif %}
+    {% endfor %}
+</ul>
+    
+ <h3>Chorus and Orchestra</h3>
+    <ul class="texts">
+    {% for item in site.texts %}
+      {% if item.inst == "orch-chor" %}
           <li class="text-title">
           <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
