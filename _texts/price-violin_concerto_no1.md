@@ -11,9 +11,16 @@ permalink: /price-violin-concerto-no1/
 - <a href="https://dwshadle.github.io/test/price-violin-concerto-no1/mvt2" target="_blank">Movement II</a>
 - <a href="https://dwshadle.github.io/test/price-violin-concerto-no1/mvt3" target="_blank">Movement III</a>
 
+## Year Composed
+1939
+
 ## Manuscripts
 
-- MC 988a: Florence Beatrice Smith Price Papers Addendum, Special Collections, University of Arkansas 
+- <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">MC 988a: Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, University of Arkansas
+    * Score, Solo Violin and Piano Reduction, complete (Dec. 1939): Box 9, Folder 1
+    * Violin Solo, incomplete: Box 9, Folder 2
+    * Piano Reduction, incomplete: Box 9, Folder 2
+    * Orchestra Violin I, incomplete: Box 9, Folder 2
 
 ## Published Editions
 
@@ -24,4 +31,4 @@ permalink: /price-violin-concerto-no1/
 - <a href="https://www.albanyrecords.com/mm5/merchant.mvc?Screen=PROD&Product_Code=TROY1706" target="_blank">Florence Price: Violin Concertos.</a> Er-Gene Kahng, violin; Ryan Cockerham, conductor; The Janáček Philharmonic Orchestra. Albany Records TROY1706, 2018.
 
 ## Bibliography
-1. Hill, Alexandra Kori. "Make the Familiar New: New Negro Modernism in the Concertos of Florence B. Price." PhD diss., University of North Carolina-Chapel Hill, 2022.[.bibliography]
+- Hill, Alexandra Kori. "Make the Familiar New: New Negro Modernism in the Concertos of Florence B. Price." PhD diss., University of North Carolina-Chapel Hill, 2022.
