@@ -20,6 +20,9 @@ permalink: /price-symphony-no1/
     * Score, complete: Box 6, Folder 1
     * Parts, complete: Box 3, Folders 6-14; Box 4, Folders 1-11; Box 5, Folders 1-7
 
+## Premiere Performance
+- June 15, 1933; Auditorium Theatre, Chicago; Chicago Symphony Orchestra; Frederick Stock, conductor
+
 ## Published Editions
 - *Symphonies Nos. 1 and 3.* Edited by Rae Linda Brown and Wayne Shirley. Music of the United States of America 19. Recent Researches in American Music 66. Middleton, WI: Published for the American Musicological Society by A-R Editions, 2008.
     * OCLC: <a href="https://www.worldcat.org/title/277150358" target="_blank">277150358</a>
@@ -46,4 +49,5 @@ permalink: /price-symphony-no1/
 6. Farrah, Scott David. <a href="http://purl.flvc.org/fsu/fd/FSU_migr_etd-4499" target="_blank">"Signifyin(g): A Semiotic Analysis of Symphonic Works by William Grant Still, William Levi Dawson, and Florence B. Price."</a> PhD diss., Florida State University, 2007.
 7. Jackson, Barbara Garvey. "<a href="https://doi.org/10.2307/1214357" target="_blank">Florence Price, Composer.</a>" *The Black Perspective in Music* 5 (1977): 30-43.
 8. Schenbeck, Lawrence. "<a href="https://doi.org/10.1093/mq/81.3.344" target="_blank">Music, Gender, and 'Uplift' in the *Chicago Defender*, 1926-1937.</a>" *Musical Quarterly* 81 (1997): 344-70.
+9. Villella, Frank. "<a href="https://csoarchives.wordpress.com/2016/05/05/125-moments-072-prices-symphony-in-e-minor/" target="_blank">125 Moments: 072 Price's Symphony in E Minor.</a>" *From the Archives: Musings from the Rosenthal Archives of the Chicago Symphony Orchestra Association*. May 5, 2016.
 {:.bibliography}
