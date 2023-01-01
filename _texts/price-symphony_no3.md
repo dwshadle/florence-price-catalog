@@ -48,6 +48,7 @@ November 6, 1940; Detroit Institute of the Arts, Detroit; Detroit Civic Orchestr
 ## Thematic Incipits
 - [Movement I](https://dwshadle.github.io/test/price-symphony-no3/mvt1)
 - [Movement II](https://dwshadle.github.io/test/price-symphony-no3/mvt2)
+- Movement III in progress
 - [Movement IV](https://dwshadle.github.io/test/price-symphony-no3/mvt4)
 
 ## Bibliography
