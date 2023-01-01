@@ -38,7 +38,7 @@ Works are organized by instrumentation and genre.
 <h3>Solo Voice and Orchestra</h3>
     <ul class="texts">
     {% for item in site.texts %}
-      {% if item.layout == "mei" %}
+      {% if item.inst == "orch-voice" %}
           <li class="text-title">
           <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
@@ -77,7 +77,7 @@ Works are organized by instrumentation and genre.
   <h3>Solo Voice and Piano</h3>
     <ul class="texts">
     {% for item in site.texts %}
-      {% if item.century == "20th" %}
+      {% if item.inst == "pno-voice" %}
           <li class="text-title">
           <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
