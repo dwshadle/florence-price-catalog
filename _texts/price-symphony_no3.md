@@ -38,6 +38,7 @@ November 6, 1940; Detroit Institute of the Arts, Detroit; Detroit Civic Orchestr
     * Google Books: <a href="https://www.google.com/books/edition/Symphonies_nos_1_and_3/9lzwS6YzrG8C" target="_blank">Introduction only</a>
 - <a href="https://www.wisemusicclassical.com/work/58894/Symphony-No-3-in-C-minor" target="_blank">*Symphony No. 3 in C Minor.*</a> New York, NY: G. Schirmer, Inc., 2019.
 - <a href="https://www.kylegann.com/Price3.pdf" target="_blank">Keyboard Reduction by Kyle Gann (2019).</a>
+- <a href="http://hdl.handle.net/2077/69833" target="_blank">Transcription for Organ by Benjamin Kjell (2021).</a>
 
 ## Recordings
 - Florence Price: The Oak, Mississippi River Suite, Symphony No. 3. Apo Hsu, conductor; The Women's Philharmonic. Koch International Classics 3-7518-2 2111, 2007.
