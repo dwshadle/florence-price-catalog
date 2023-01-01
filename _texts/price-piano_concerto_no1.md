@@ -2,7 +2,7 @@
 layout: page
 title: Piano Concerto in One Movement
 author: Price, Florence B.
-inst: orch-solo
+inst: orch-inst
 permalink: /price-piano-concerto-no1/
 ---
 
@@ -16,7 +16,7 @@ permalink: /price-piano-concerto-no1/
 
 ## Instrumentation
 - Original: 1.1.2.1-2.2.2.0-timp.3perc-strings
-- Weston Orchestration: 
+- Weston: 
 
 ## Length
 - 18 min.
