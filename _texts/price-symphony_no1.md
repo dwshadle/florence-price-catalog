@@ -7,10 +7,10 @@ permalink: /price-symphony-no1/
 ---
 
 ## Composition Year
-- 
+- 1931-1932
 
 ## Instrumentation
-- 
+- 2+2pic.2.2.2-4.2.3.1-timp.3perc-strings
 
 ## Length
 - 40 min.
@@ -31,19 +31,6 @@ permalink: /price-symphony-no1/
 - [Movement II](https://dwshadle.github.io/test/price-symphony-no1/mvt2)
 - [Movement III](https://dwshadle.github.io/test/price-symphony-no1/mvt3)
 - [Movement IV](https://dwshadle.github.io/test/price-symphony-no1/mvt4)
-
-## More Incipits
-<ul class="texts">
-    {% for item in site.texts %}
-      {% if (item.layout == "mei" and item.title == "Symphony No. 1*" %}
-          <li class="text-title">
-          <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.title }}
-              </a>
-    </li>
-      {% endif %}
-    {% endfor %}
-</ul>
 
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
