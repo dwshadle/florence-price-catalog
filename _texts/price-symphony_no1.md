@@ -49,5 +49,6 @@ permalink: /price-symphony-no1/
 6. Farrah, Scott David. <a href="http://purl.flvc.org/fsu/fd/FSU_migr_etd-4499" target="_blank">"Signifyin(g): A Semiotic Analysis of Symphonic Works by William Grant Still, William Levi Dawson, and Florence B. Price."</a> PhD diss., Florida State University, 2007.
 7. Jackson, Barbara Garvey. "<a href="https://doi.org/10.2307/1214357" target="_blank">Florence Price, Composer.</a>" *The Black Perspective in Music* 5 (1977): 30-43.
 8. Schenbeck, Lawrence. "<a href="https://doi.org/10.1093/mq/81.3.344" target="_blank">Music, Gender, and 'Uplift' in the *Chicago Defender*, 1926-1937.</a>" *Musical Quarterly* 81 (1997): 344-70.
-9. Villella, Frank. "<a href="https://csoarchives.wordpress.com/2016/05/05/125-moments-072-prices-symphony-in-e-minor/" target="_blank">125 Moments: 072 Price's Symphony in E Minor.</a>" *From the Archives: Musings from the Rosenthal Archives of the Chicago Symphony Orchestra Association*. May 5, 2016.
+9. Shadle, Douglas. "<a href="https://newmusicusa.org/nmbx/plus-ca-change-florence-b-price-in-the-blacklivesmatter-era/" target="_blank">Plus Ça Change: Florence B. Price in the #BlackLivesMatter Era.</a>" *NewMusicBox*. Feb. 20, 2019.
+10. Villella, Frank. "<a href="https://csoarchives.wordpress.com/2016/05/05/125-moments-072-prices-symphony-in-e-minor/" target="_blank">125 Moments: 072 Price's Symphony in E Minor.</a>" *From the Archives: Musings from the Rosenthal Archives of the Chicago Symphony Orchestra Association*. May 5, 2016.
 {:.bibliography}
