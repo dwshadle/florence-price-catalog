@@ -38,7 +38,7 @@ Works are organized by instrumentation and genre.
 <h3>Solo Voice and Orchestra</h3>
     <ul class="texts">
     {% for item in site.texts %}
-      {% if item.inst == "orch-voc" %}
+      {% if item.layout == "mei" %}
           <li class="text-title">
           <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
