@@ -12,7 +12,7 @@ permalink: /price-piano-concerto-no1/
 - Piano Concerto No. 1 in D Minor
 
 ## Composition Year
-- 1933-34 (Weston Orch. 2011)
+- 1933-34 (Trevor Weston re-orchestration, 2010-11)
 
 ## Instrumentation
 - Original: 1.1.2.1-2.2.2.0-timp.3perc-strings
@@ -22,11 +22,20 @@ permalink: /price-piano-concerto-no1/
 - 18 min.
 
 ## Manuscripts
-- 
+- <a href="https://digitalcommons.colum.edu/cmbr_guides/index.3.html" target="_blank">Center for Black Music Research</a> (Location TBD)
+    * Solo piano
+    * Two-piano reduction
+    * Three-piano reduction
+- MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
+    * Two-piano reduction, damaged: Box 6B, Folders 21a-b
+    * Parts, damaged: Box 6B, Folders 22-35
+- MC2618: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/2618" target="_blank">Florence Price Collection</a>, Special Collections, Mullins Library, University of Arkansas
+    * ???: Box 3, Folder 1
+    * Parts, complete: Box 3, Folders 2-13
 
 ## Premiere Performance
 - June 24, 1934; Orchestra Hall, Chicago; Chicago Musical College Orchestra; Florence B. Price, piano; unknown conductor.
-- February 17, 2011; Harris Theater for Music and Dance, Chicago; New Black Music Repertory Ensemble; Karen Walwyn, piano; Leslie B. Dunner, conductor.
+- Weston: February 17, 2011; Harris Theater for Music and Dance, Chicago; New Black Music Repertory Ensemble; Karen Walwyn, piano; Leslie B. Dunner, conductor.
 
 ## Published Editions
 - Original: <a href="https://www.wisemusicclassical.com/work/60868/Piano-Concerto-in-One-Movement-original-version/" target="_blank">*Piano Concerto in One Movement.*</a> Edited by Clovis Lark and Nick Greer. New York, NY: G. Schirmer, Inc., 2020.
