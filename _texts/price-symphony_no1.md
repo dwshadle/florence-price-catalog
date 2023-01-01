@@ -35,7 +35,7 @@ permalink: /price-symphony-no1/
 ## More Incipits
 <ul class="texts">
     {% for item in site.texts %}
-      {% if (item.layout == "mei" and item.title == "Symphony No. 1" %}
+      {% if (item.layout == "mei" and item.title == "Symphony No. 1*" %}
           <li class="text-title">
           <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
