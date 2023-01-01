@@ -24,7 +24,7 @@ permalink: /price-symphony-no1/
 - June 15, 1933; Auditorium Theatre, Chicago; Chicago Symphony Orchestra; Frederick Stock, conductor
 
 ## Published Editions
-- *Symphonies Nos. 1 and 3.* Edited by Rae Linda Brown and Wayne Shirley. Music of the United States of America 19. Recent Researches in American Music 66. Middleton, WI: Published for the American Musicological Society by A-R Editions, 2008.
+- *Symphonies Nos. 1 and 3.* Edited by Rae Linda Brown and Wayne D. Shirley. Music of the United States of America 19. Recent Researches in American Music 66. Middleton, WI: Published for the American Musicological Society by A-R Editions, 2008.
     * OCLC: <a href="https://www.worldcat.org/title/277150358" target="_blank">277150358</a>
     * Google Books: <a href="https://www.google.com/books/edition/Symphonies_nos_1_and_3/9lzwS6YzrG8C" target="_blank">Introduction only</a>
 - <a href="https://www.wisemusicclassical.com/work/58893/Symphony-No-1-in-E-minor--Florence-Price/" target="_blank">*Symphony No. 1 in E Minor.*</a> New York, NY: G. Schirmer, Inc., 2019.
