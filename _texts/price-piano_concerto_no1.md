@@ -12,7 +12,7 @@ permalink: /price-piano-concerto-no1/
 - Piano Concerto No. 1 in D Minor
 
 ## Composition Year
-- 1934 (Weston Orch. 2011)
+- 1933-34 (Weston Orch. 2011)
 
 ## Instrumentation
 - Original: 1.1.2.1-2.2.2.0-timp.3perc-strings
@@ -25,13 +25,17 @@ permalink: /price-piano-concerto-no1/
 - 
 
 ## Premiere Performance
-- 
+- June 24, 1934; Orchestra Hall, Chicago; Chicago Musical College Orchestra; Florence B. Price, piano; unknown conductor.
+- February 17, 2011; Harris Theater for Music and Dance, Chicago; New Black Music Repertory Ensemble; Karen Walwyn, piano; Leslie B. Dunner, conductor.
 
 ## Published Editions
-- <a href="https://www.wisemusicclassical.com/work/60868/Piano-Concerto-in-One-Movement-original-version/" target="_blank">*Piano Concerto in One Movement.*</a> Edited by Clovis Lark and Nick Greer. New York, NY: G. Schirmer, Inc., 2020.
+- Original: <a href="https://www.wisemusicclassical.com/work/60868/Piano-Concerto-in-One-Movement-original-version/" target="_blank">*Piano Concerto in One Movement.*</a> Edited by Clovis Lark and Nick Greer. New York, NY: G. Schirmer, Inc., 2020.
+- Weston: 
 
 ## Recordings
-- <a href="https://www.albanyrecords.com/mm5/merchant.mvc?Screen=PROD&Product_Code=TROY1295" target="_blank">Florence B Price: Concerto in One Movement/Symphony in E Minor.</a> Karen Walwyn, piano; Leslie B. Dunner, conductor; New Black Music Repertory Ensemble. Albany Records TROY 1295, 2011.
+- <a href="https://www.albanyrecords.com/mm5/merchant.mvc?Screen=PROD&Product_Code=TROY1295" target="_blank">Florence B Price: Concerto in One Movement/Symphony in E Minor.</a> Karen Walwyn, piano; Leslie B. Dunner, conductor; New Black Music Repertory Ensemble. Albany Records TROY 1295, 2011. (Weston)
+- <a href="https://www.avie-records.com/releases/works-by-florence-price-valerie-coleman-jessie-montgomery/" target="_blank">Works by Florence Price, Jessie Montgomery, Valerie Coleman.</a> Michelle Cann, piano; Michael Repper, conductor; New York Youth Symphony. Avie Records AC2503, 2022. (Original)
+- <a href="https://www.amazon.com/dp/B09VLM8Q4F/ref=sr_1_2" target="_blank">Florence Price: Concerto in One Movement</a>. Karen Walwyn, piano; Geoffrey Robson, conductor; Arkansas Symphony Orchestra. DistroKid 3724517 Records DK, 2022. (Original, digital only)
 
 ## Thematic Incipits
 - In Progress
@@ -39,4 +43,7 @@ permalink: /price-piano-concerto-no1/
 ## Bibliography
 1. Brown, Rae Linda. "Florence B. Price and Margaret Bonds: The Chicago Years." *Black Music Research Journal* 12 (<a href="https://digitalcommons.colum.edu/cbmrnews/31/" target="_blank">Fall 1990</a>): 11-14.
 2. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
+3. Brown, Rae Linda. "<a href="https://doi.org/10.2307/3052554" target="_blank">The Woman's Symphony Orchestra of Chicago and Florence B. Price's Piano Concerto in One Movement.</a>" *American Music* 11 (1993): 185-205.
+4. Flandreau, Suzanne. "<a href="https://doi.org/10.2307/900345" target="_blank">Black Music in the Academy: The Center for Black Music Research.</a>" *Notes* Second Series 55 (1998): 26-36.
+5. Morton, Vanessa. "<a href="https://columbiachronicle.com/0b41149d-8896-57bd-9211-bb890e440613" target="_blank">Florence Price Reborn.</a>" *Columbia Chronicle*, March 13, 2011.
 {:.bibliography}
