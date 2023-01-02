@@ -10,13 +10,14 @@ permalink: /price-symphony-no4/
 - 
 
 ## Instrumentation
-- 3+pic.2+ca.2+bcl.2-4.3.2+btbn.1-timp.2perc-cel.hp-strings
+- 3+pic.2+ca.2+bcl.2 - 4.3.2+btbn.1 - timp.2perc - cel.hp - strings
 
 ## Length
 - 31 min.
 
 ## Manuscripts
-- 
+- MC988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
+    * Score, complete: Box 11, Folder 3
 
 ## Premiere Performance
 - May 12, 2018; ArcBest Corp. Performing Arts Center, Fort Smith, Arkansas; Fort Smith Symphony; John Jeter, conductor.
