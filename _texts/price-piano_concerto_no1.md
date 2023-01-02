@@ -31,7 +31,7 @@ permalink: /price-piano-concerto-no1/
     * Parts, damaged: Box 6B, Folders 22-35
 - MC2618: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/2618" target="_blank">Florence Price Collection</a>, Special Collections, Mullins Library, University of Arkansas
     * ???: Box 3, Folder 1
-    * Parts, complete: Box 3, Folders 2-13
+    * Parts, complete: Box 3, Folders 2-13[^fn1]
 
 ## Premiere Performance
 - June 24, 1934; Orchestra Hall, Chicago; Chicago Musical College Orchestra; Florence B. Price, piano; unknown conductor.
@@ -57,3 +57,5 @@ permalink: /price-piano-concerto-no1/
 5. Hill, Alexandra Kori. "Make the Familiar New: New Negro Modernism in the Concertos of Florence B. Price." PhD diss., University of North Carolina-Chapel Hill, 2022.
 6. Morton, Vanessa. "<a href="https://columbiachronicle.com/0b41149d-8896-57bd-9211-bb890e440613" target="_blank">Florence Price Reborn.</a>" *Columbia Chronicle*, March 13, 2011.
 {:.bibliography}
+
+[^fn1]: The editors at G. Schirmer, Inc., used this set of parts to create the published edition of Price's original orchestration.
