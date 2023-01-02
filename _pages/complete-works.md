@@ -5,7 +5,7 @@ permanlink: /complete-works/
 ---
 The catalog is under development, and additional works will be added as information is processed.
 
-Works are organized by instrumentation and genre. 
+Works are organized by instrumentation. 
 
 <div class="toc">
 
