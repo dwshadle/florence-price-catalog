@@ -21,9 +21,8 @@ permalink: /price-songs-to-the-dark-virgin/
 ## Lyricist and Source
 
 - Langston Hughes (1901&ndash;1967)
- - *The Weary Blues.* New York: Alfred A. Knopf, 1926.
+ - [*The Weary Blues.*](https://www.google.com/books/edition/The_Weary_Blues/HjPuAAAAMAAJ) New York: Alfred A. Knopf, 1926.
      * OCLC: <a href="https://www.worldcat.org/title/304250" target="_blank">304250</a>
-     * [Google Books](https://www.google.com/books/edition/The_Weary_Blues/HjPuAAAAMAAJ)
 
 ## Manuscripts
 - 
@@ -33,6 +32,9 @@ permalink: /price-songs-to-the-dark-virgin/
 
 ## Published Editions
 - *Songs to the Dark Virgin.* New York: G. Schirmer, Inc., 1941.
+- Patterson, Willis C., ed. <a href="https://www.worldcat.org/title/4416705" target="_blank">*Anthology of Art Songs by Black American Composers.*</a> New York: E.B. Marks Music Corp., 1977.
+- Heard, Richard, ed. <a href="https://www.classicalvocalrep.com/products/44-Art-Songs-and-Spirituals-by-Florence-B-Price-for-Medium-High-Voice-and-Piano-Richard-Heard-205398.html" target="_blank">*44 Art Songs and Spirituals by Florence Price.*</a> Fayetteville, AR: ClarNan Editions, 2015.
+    * OCLC: <a href="https://www.worldcat.org/title/902815587" target="_blank">902815587</a>
 
 ## Recordings
 - 
