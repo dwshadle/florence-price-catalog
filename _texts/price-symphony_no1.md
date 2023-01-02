@@ -11,7 +11,7 @@ permalink: /price-symphony-no1/
 - Symphony No. 3 in E Minor[^fn1]
 
 ## Composition Year
-- 1931-1932
+- 1931&ndash1932
 
 ## Instrumentation
 - 2+2pic.2.2.2 - 4.2.3.1 - timp.3perc - strings
