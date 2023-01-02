@@ -12,6 +12,7 @@ Each catalog entry contains the following data (where known):
 - Composition year
 - Instrumentation
 - Length
+- Lyric author and source
 - Manuscript sources
 - Premiere performance
 - Published editions
