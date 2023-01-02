@@ -13,7 +13,7 @@ permalink: /price-songs-of-the-oak/
 - 1943
 
 ## Instrumentation
-- 
+- 3+pic.2+ca.2+bcl.2+cbn - 4.3.3+btn.1 - timp.6perc - cel[=org] - hp - strings
 
 ## Length
 - 

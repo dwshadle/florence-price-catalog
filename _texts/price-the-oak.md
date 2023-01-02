@@ -13,7 +13,7 @@ permalink: /price-the-oak/
 - 1943
 
 ## Instrumentation
-- 
+- 3+pic.2+ca.2+bcl.2 - 4.3.3.1 - timp.4perc - hp - strings
 
 ## Length
 - 

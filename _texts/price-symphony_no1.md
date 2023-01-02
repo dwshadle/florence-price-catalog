@@ -10,7 +10,7 @@ permalink: /price-symphony-no1/
 - 1931-1932
 
 ## Instrumentation
-- 2+2pic.2.2.2-4.2.3.1-timp.3perc-strings
+- 2+2pic.2.2.2 - 4.2.3.1 - timp.3perc - strings
 
 ## Length
 - 40 min.

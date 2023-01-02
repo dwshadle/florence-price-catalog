@@ -15,7 +15,7 @@ permalink: /price-piano-concerto-no1/
 - 1933-34 (Trevor Weston re-orchestration, 2010-11)
 
 ## Instrumentation
-- Original: 1.1.2.1-2.2.2.0-timp.3perc-strings
+- Original: 1.1.2.1 - 2.2.2.0 - timp.3perc- strings
 - Weston: 
 
 ## Length

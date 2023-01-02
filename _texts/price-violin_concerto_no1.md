@@ -10,7 +10,7 @@ permalink: /price-violin-concerto-no1/
 - 1939
 
 ## Instrumentation
-- 2.2.2.2-0.2.0.0-timp-strings
+- 2.2.2.2 - 0.2.0.0 - timp - strings
 
 ## Length
 - 25 min.
