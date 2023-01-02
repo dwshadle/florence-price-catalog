@@ -6,6 +6,10 @@ inst: orch
 permalink: /price-symphony-no1/
 ---
 
+## Alternate Title
+- Symphony in E Minor
+- Symphony No. 3 in E Minor[^fn1]
+
 ## Composition Year
 - 1931-1932
 
@@ -52,3 +56,8 @@ permalink: /price-symphony-no1/
 9. Shadle, Douglas. "<a href="https://newmusicusa.org/nmbx/plus-ca-change-florence-b-price-in-the-blacklivesmatter-era/" target="_blank">Plus Ça Change: Florence B. Price in the #BlackLivesMatter Era.</a>" *NewMusicBox*. Feb. 20, 2019.
 10. Villella, Frank. "<a href="https://csoarchives.wordpress.com/2016/05/05/125-moments-072-prices-symphony-in-e-minor/" target="_blank">125 Moments: 072 Price's Symphony in E Minor.</a>" *From the Archives: Musings from the Rosenthal Archives of the Chicago Symphony Orchestra Association*. May 5, 2016.
 {:.bibliography}
+
+---
+
+## Notes
+[^fn1]: Price's daughter Florence Louise Robinson occasionally mixed up the first and third symphonies in her correspondence by referring to the E Minor symphony as No. 3.
