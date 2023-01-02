@@ -3,7 +3,7 @@ layout: default
 permalink: /
 ---
 
-This open-access catalog aims to present high-quality information about the musical works written by composer Florence B. Price. Since interest in Price's oeuvre has grown rapidly since 2018, a digital catalog that can keep pace with the evolving landscape of Price performance and scholarship is essential.
+This open-access catalog aims to present high-quality information about the musical works written by composer Florence B. Price. A digital catalog that can keep pace with the evolving landscape of Price performance and scholarship is essential to serve growing interest in Price and her music around the world.
 
 <p style="text-align: center;"><b>View the <a href="https://dwshadle.github.io/test/_pages/complete-works/">table of contents.</a></b></p>
 
