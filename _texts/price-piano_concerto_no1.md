@@ -58,4 +58,8 @@ permalink: /price-piano-concerto-no1/
 6. Morton, Vanessa. "<a href="https://columbiachronicle.com/0b41149d-8896-57bd-9211-bb890e440613" target="_blank">Florence Price Reborn.</a>" *Columbia Chronicle*, March 13, 2011.
 {:.bibliography}
 
+---
+
+## Notes
+
 [^fn1]: The editors at G. Schirmer, Inc., used this set of parts to create the published edition of Price's original orchestration.
