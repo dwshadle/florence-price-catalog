@@ -22,7 +22,7 @@ permalink: /price-symphony-no4/
 - May 12, 2018; ArcBest Corp. Performing Arts Center, Fort Smith, Arkansas; Fort Smith Symphony; John Jeter, conductor.
 
 ## Published Editions
-- <a href="https://www.wisemusicclassical.com/work/59057/Symphony-No-4-in-D-minor/" target="_blank">*Symphony No. 4 in D Minor.* New York, NY: G. Schirmer, Inc., 2018.
+- <a href="https://www.wisemusicclassical.com/work/59057/Symphony-No-4-in-D-minor/" target="_blank">*Symphony No. 4 in D Minor.*</a> New York, NY: G. Schirmer, Inc., 2018.
 
 ## Recordings
 - <a href="https://www.naxos.com/CatalogueDetail/?id=8.559827" target="_blank">Price: Symphonies Nos. 1 and 4.</a> John Jeter, conductor; Fort Smith Symphony. Naxos Records 8.559827, 2019.
