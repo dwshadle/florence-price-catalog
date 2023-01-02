@@ -7,7 +7,7 @@ permalink: /price-the-oak/
 ---
 
 ## Alternate Title
-- 
+- None[^fn1]
 
 ## Composition Year
 - 1943
@@ -36,3 +36,8 @@ permalink: /price-the-oak/
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
 {:.bibliography}
+
+---
+
+## Notes
+[^fn1]: Some commentators have erroneously remarked that *The Oak* is the same piece as [*Songs of the Oak.*](http://dwshadle.github.io/test/price-songs-of-the-oak/) They are two distinct pieces.
