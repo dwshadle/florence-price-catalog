@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Complete Works Index
+title: Complete Works
 permanlink: /complete-works/
 ---
-This index is under development, and additional works will be added.
+The catalog is under development, and additional works will be added as information is processed.
 
 Works are organized by instrumentation and genre. 
 
