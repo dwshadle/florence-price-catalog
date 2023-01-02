@@ -29,7 +29,6 @@ permalink: /price-the-oak/
 
 ## Recordings
 - Florence Price: The Oak, Mississippi River Suite, Symphony No. 3. Apo Hsu, conductor; The Women's Philharmonic. Koch International Classics 3-7518-2 2111, 2007.
-- <a href="https://www.naxos.com/CatalogueDetail/?id=8.559897" target="_blank">Florence Beatrice Price: Symphony No. 3 - The Mississippi River - Ethiopia's Shadow in America.</a> John Jeter, conductor; ORF Vienna Radio Symphony Orchestra. Naxos 8.559897, 2021.
 
 ## Thematic Incipits
 - In Progress
