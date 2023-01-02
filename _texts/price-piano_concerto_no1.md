@@ -62,4 +62,4 @@ permalink: /price-piano-concerto-no1/
 
 ## Notes
 
-[^fn1]: The editors at G. Schirmer, Inc., used this set of parts to create the published edition of Price's original orchestration.
+[^fn1]: The editors at G. Schirmer, Inc., <a href="https://www.wisemusicclassical.com/features/2020/02/florence-price-original-manuscripts/" target="_blank">used this set of parts</a> to create the published edition of Price's original orchestration.
