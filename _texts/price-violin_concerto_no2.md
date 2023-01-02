@@ -20,7 +20,7 @@ permalink: /price-violin-concerto-no2/
 
 ## Published Editions
 - Full Score: <a href="https://www.wisemusicclassical.com/work/59062/Violin-Concerto-No-2/" target="_blank">*Violin Concerto No. 2.*</a> New York, NY: G. Schirmer, Inc., 2022.
-- Reduction for Violin and Piano: <a href="https://classicalondemand.com/price-violin-concerto-no-2-3476.html" target="_blank">*Violin Concerto No. 1 in D Major.*</a> New York, NY: G. Schirmer, Inc., 2019.
+- Reduction for Violin and Piano: <a href="https://classicalondemand.com/price-violin-concerto-no-2-3476.html" target="_blank">*Violin Concerto No. 2.*</a> New York, NY: G. Schirmer, Inc., 2019.
     * OCLC: <a href="https://www.worldcat.org/title/1141478938" target="_blank">1141478938</a>
 
 ## Recordings
