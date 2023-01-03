@@ -11,7 +11,7 @@ permalink: /price-symphony-no1/
 - Symphony No. 3 in E Minor[^fn1]
 
 ## Composition Year
-- 1931&ndash;1932
+- 1931&ndash;1932[^fn2]
 
 ## Instrumentation
 - 2+2pic.2.2.2 - 4.2.3.1 - timp.3perc - strings
@@ -53,12 +53,15 @@ permalink: /price-symphony-no1/
 6. Farrah, Scott David. <a href="http://purl.flvc.org/fsu/fd/FSU_migr_etd-4499" target="_blank">"Signifyin(g): A Semiotic Analysis of Symphonic Works by William Grant Still, William Levi Dawson, and Florence B. Price."</a> PhD diss., Florida State University, 2007.
 7. Hobbs, Erin. "<a href="https://www.proquest.com/docview/1908924625" target="_blank">Rehearing Florence Price: A Closer Look at Her Symphony in E Minor."</a> MM thesis, California State University, Long Beach, 2017.
 8. Jackson, Barbara Garvey. "<a href="https://doi.org/10.2307/1214357" target="_blank">Florence Price, Composer.</a>" *The Black Perspective in Music* 5 (1977): 30-43.
-9. Schenbeck, Lawrence. "<a href="https://doi.org/10.1093/mq/81.3.344" target="_blank">Music, Gender, and 'Uplift' in the *Chicago Defender*, 1926&ndash;1937.</a>" *Musical Quarterly* 81 (1997): 344&ndash;70.
-10. Shadle, Douglas. "<a href="https://newmusicusa.org/nmbx/plus-ca-change-florence-b-price-in-the-blacklivesmatter-era/" target="_blank">Plus Ça Change: Florence B. Price in the #BlackLivesMatter Era.</a>" *NewMusicBox*. Feb. 20, 2019.
-11. Villella, Frank. "<a href="https://csoarchives.wordpress.com/2016/05/05/125-moments-072-prices-symphony-in-e-minor/" target="_blank">125 Moments: 072 Price's Symphony in E Minor.</a>" *From the Archives: Musings from the Rosenthal Archives of the Chicago Symphony Orchestra Association*. May 5, 2016.
+9. McGinty, Doris Evans. <a href="https://www.worldcat.org/title/54778506" target="_blank">*A Documentary History of the National Association of Negro Musicians.*</a> Chicago: Center for Black Music Research, Columbia College Chicago, 2004.
+10. Morgan-Ellis, Esther, ed. <a href="https://ung.edu/university-press/books/resonances-engaging-music.php" target="_blank">*Resonances: Engaging Music in Its Cultural Contexts.*</a> Dahlonega: University of North Georgia Press. <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International.</a>
+11. Schenbeck, Lawrence. "<a href="https://doi.org/10.1093/mq/81.3.344" target="_blank">Music, Gender, and 'Uplift' in the *Chicago Defender*, 1926&ndash;1937.</a>" *Musical Quarterly* 81 (1997): 344&ndash;70.
+12. Shadle, Douglas. "<a href="https://newmusicusa.org/nmbx/plus-ca-change-florence-b-price-in-the-blacklivesmatter-era/" target="_blank">Plus Ça Change: Florence B. Price in the #BlackLivesMatter Era.</a>" *NewMusicBox*. Feb. 20, 2019.
+13. Villella, Frank. "<a href="https://csoarchives.wordpress.com/2016/05/05/125-moments-072-prices-symphony-in-e-minor/" target="_blank">125 Moments: 072 Price's Symphony in E Minor.</a>" *From the Archives: Musings from the Rosenthal Archives of the Chicago Symphony Orchestra Association*. May 5, 2016.
 {:.bibliography}
 
 ---
 
 ## Notes
 [^fn1]: Price's daughter Florence Louise Robinson occasionally mixed up the first and third symphonies in her correspondence by referring to the E Minor symphony as No. 3.
+[^fn2]: The piece won first prize ($500) for the orchestral music category in the 1932 Rodman Wanamaker competition.
