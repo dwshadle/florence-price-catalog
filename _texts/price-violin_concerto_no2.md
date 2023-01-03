@@ -10,7 +10,7 @@ permalink: /price-violin-concerto-no2/
 1952
 
 ## Instrumentation
-- 2.1+ca.2.2-4.2.3.1-timp.3perc-hp.pf-str 
+- 2.1+ca.2.2 - 4.2.3.1 - timp.3perc - hp.pf - strings 
 
 ## Length
 - 14 min.
