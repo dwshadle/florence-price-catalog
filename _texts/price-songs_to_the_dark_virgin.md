@@ -56,7 +56,7 @@ permalink: /price-songs-to-the-dark-virgin/
 5. Mashego, Shana Thomas. "<a href="https://repository.arizona.edu/handle/10150/193978" target="_blank">Music from the Soul of Woman: The influence of the African American Presbyterian and Methodist Traditions on the Classical Compositions of Florence Price and Dorothy Rudd Moore.</a>" DMA diss., University of Arizona, 2010. 
 6. Peters, Penelope. "<a href="https://doi.org/10.7202/1014417ar" target="_blank">Deep Rivers: Selected Songs of Florence Price and Margaret Bonds.</a>" *Canadian university music review/Revue de musique des universités canadiennes* 16 (1995): 74&ndash;95.
 7. Rodriguez, James D. and Gwendolyn Alfred. "A Brief Overview of Selected Art Songs by Black Female Composers for Beginner, Intermediate, and Advanced Students." *Journal of Singing* 77 (2021): 605&ndash;17.
-8. Shadle, Douglas. "<a href="https://newmusicusa.org/nmbx/plus-ca-change-florence-b-price-in-the-blacklivesmatter-era/" target="_blank">Plus Ça Change: Florence B. Price in the #BlackLivesMatter Era.</a>" *NewMusicBox*. Feb. 20, 2019.
+8. Shadle, Douglas. "<a href="https://newmusicusa.org/nmbx/plus-ca-change-florence-b-price-in-the-blacklivesmatter-era/" target="_blank">Plus Ça Change: Florence B. Price in the #BlackLivesMatter Era.</a>" *NewMusicBox*. February 20, 2019.
 9. Smith, Bethany Jo. "<a href="http://rave.ohiolink.edu/etdc/view?acc_num=ucin1186770755" target="_blank">'Song to the Dark Virgin': Race and Gender in Five Art Songs of Florence B. Price.</a>" MM thesis, University of Cincinnati, College-Conservatory of Music, 2007.
 {:.bibliography}
 

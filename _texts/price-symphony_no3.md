@@ -10,7 +10,7 @@ permalink: /price-symphony-no3/
 - ca. 1940
 
 ## Instrumentation
-3+pic.2+ca.2+bcl.2 - 4.3.3.1 - timp.5perc -hp - strings
+- 3+pic.2+ca.2+bcl.2 - 4.3.3.1 - timp.5perc -hp - strings
 
 ## Length
 - 22 min.
@@ -30,7 +30,7 @@ permalink: /price-symphony-no3/
     * Parts, miscellaneous (undated): Box 2, Folders 1-6
 
 ## Premiere Performance
-November 6, 1940; Detroit Institute of the Arts, Detroit; Detroit Civic Orchestra (Michigan WPA Symphony Orchestra); Valter Poole, conductor
+- November 6, 1940; Detroit Institute of the Arts, Detroit; Detroit Civic Orchestra (Michigan WPA Symphony Orchestra); Valter Poole, conductor
 
 ## Published Editions
 - *Symphonies Nos. 1 and 3.* Edited by Rae Linda Brown and Wayne Shirley. Music of the United States of America 19. Recent Researches in American Music 66. Middleton, WI: Published for the American Musicological Society by A-R Editions, 2008.
@@ -54,6 +54,6 @@ November 6, 1940; Detroit Institute of the Arts, Detroit; Detroit Civic Orchestr
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
 2. Gann, Kyle. "<a href="https://www.kylegann.com/Price3.html" target="_blank">Florence Price: Symphony No. 3 (1940).</a>" *American Symphonies*. 2019.
-3. Jackson, Barbara Garvey. "<a href="https://doi.org/10.2307/1214357" target="_blank">Florence Price, Composer.</a>" *The Black Perspective in Music* 5 (1977): 30-43.
-4. Shadle, Douglas. "<a href="https://newmusicusa.org/nmbx/plus-ca-change-florence-b-price-in-the-blacklivesmatter-era/" target="_blank">Plus Ça Change: Florence B. Price in the #BlackLivesMatter Era.</a>" *NewMusicBox*. Feb. 20, 2019.
+3. Jackson, Barbara Garvey. "<a href="https://doi.org/10.2307/1214357" target="_blank">Florence Price, Composer.</a>" *The Black Perspective in Music* 5 (1977): 30&ndash;43.
+4. Shadle, Douglas. "<a href="https://newmusicusa.org/nmbx/plus-ca-change-florence-b-price-in-the-blacklivesmatter-era/" target="_blank">Plus Ça Change: Florence B. Price in the #BlackLivesMatter Era.</a>" *NewMusicBox*. February 20, 2019.
 {:.bibliography}
