@@ -29,7 +29,7 @@ permalink: /price-piano-sonata-in-E-minor/
     * Holograph facsimile: Call # <a href="https://lccn.loc.gov/2019563781" target="_blank">ML96.5 .P865 no. 14 Case</a>
 
 ## Premiere Performance
--
+- 
 
 ## Published Editions
 - 
