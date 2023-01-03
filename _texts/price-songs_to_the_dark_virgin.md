@@ -31,7 +31,7 @@ permalink: /price-songs-to-the-dark-virgin/
     * Score (undated): <a href="https://franklin.library.upenn.edu/catalog/FRANKLIN_9923566723503681" target="_blank">Box 61, Folder 1433</a>
 
 ## Premiere Performance
-- Earliest known: November 19, 1939; Memorial Auditorium, Burlington, Vermont; Marian Anderson, contralto; Kosti Vehanen, piano.
+- Earliest known: November 19, 1939; Memorial Auditorium, Burlington, Vermont; Marian Anderson, contralto; Kosti Vehanen, piano.[^fn2]
 - New York: <a href="https://colenda.library.upenn.edu/catalog/81431-p3g15tb4x" target="_blank">November 29, 1939</a>; Carnegie Hall, New York City; Marian Anderson, contralto; Kosti Vehanen, piano.
 
 ## Published Editions
@@ -48,7 +48,7 @@ permalink: /price-songs-to-the-dark-virgin/
 
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
-2. Peters, Penelope. "<a href="https://doi.org/10.7202/1014417ar" target="_blank"Deep Rivers: Selected Songs of Florence Price and Margaret Bonds.</a>" *Canadian university music review/Revue de musique des universités canadiennes* 16 (1995): 74&ndash;95.
+2. Peters, Penelope. "<a href="https://doi.org/10.7202/1014417ar" target="_blank">Deep Rivers: Selected Songs of Florence Price and Margaret Bonds.</a>" *Canadian university music review/Revue de musique des universités canadiennes* 16 (1995): 74&ndash;95.
 3. Shadle, Douglas. "<a href="https://newmusicusa.org/nmbx/plus-ca-change-florence-b-price-in-the-blacklivesmatter-era/" target="_blank">Plus Ça Change: Florence B. Price in the #BlackLivesMatter Era.</a>" *NewMusicBox*. Feb. 20, 2019.
 {:.bibliography}
 
@@ -56,3 +56,4 @@ permalink: /price-songs-to-the-dark-virgin/
 
 ## Notes
 [^fn1]: Some commentators erroneously refer to this piece as *Song to the Dark Virgin*. The first word should be plural.
+[^fn2]: See "Record Audience Expected to Hear Marian Anderson Sing in City Sunday," *Burlington Free Press*, November 17, 1939.
