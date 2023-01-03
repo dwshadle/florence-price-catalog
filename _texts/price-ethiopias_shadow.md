@@ -39,6 +39,7 @@ permalink: /price-ethiopias-shadow/
 
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
+2. McGinty, Doris Evans. <a href="https://www.worldcat.org/title/54778506" target="_blank">*A Documentary History of the National Association of Negro Musicians.*</a> Chicago: Center for Black Music Research, Columbia College Chicago, 2004.
 {:.bibliography}
 
 ---
