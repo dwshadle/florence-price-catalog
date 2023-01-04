@@ -46,13 +46,13 @@ permalink: /price-symphony-no1/
 
 ## Bibliography
 1. Brown, Rae Linda. "Florence B. Price and Margaret Bonds: The Chicago Years." *Black Music Research Journal* 12 (<a href="https://digitalcommons.colum.edu/cbmrnews/31/" target="_blank">Fall 1990</a>): 11&ndash;14.
-2. Brown, Rae Linda. "Florence B. Price's Negro Symphony." In <a href="https://www.worldcat.org/title/44811631" target="_blank">*Temples for Tomorrow: Looking Back at the Harlem Renaissance*</a>, edited by Geneviève Fabre and Michael Feith, 84&ndash;98. Bloomington: Indiana University Press, 2001.
-3. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
-4. Brown, Rae Linda. "William Grant Still, Florence Price, and William Dawson: Echoes of the Harlem Renaissance." In <a href="https://www.worldcat.org/title/19779051" target="_blank">*Black Music in the Harlem Renaissance: A Collection of Essays*</a>, edited by Samuel A. Floyd, 71&ndash;86. Westport, CT: Greenwood Press, 1990.
+2. &mdash;&mdash;&mdash;. "Florence B. Price's Negro Symphony." In <a href="https://www.worldcat.org/title/44811631" target="_blank">*Temples for Tomorrow: Looking Back at the Harlem Renaissance*</a>, edited by Geneviève Fabre and Michael Feith, 84&ndash;98. Bloomington: Indiana University Press, 2001.
+3. &mdash;&mdash;&mdash;. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
+4. &mdash;&mdash;&mdash;. "William Grant Still, Florence Price, and William Dawson: Echoes of the Harlem Renaissance." In <a href="https://www.worldcat.org/title/19779051" target="_blank">*Black Music in the Harlem Renaissance: A Collection of Essays*</a>, edited by Samuel A. Floyd, 71&ndash;86. Westport, CT: Greenwood Press, 1990.
 5. Ege, Samantha. "<a href="https://doi.org/10.1353/wam.2020.0010" target="_blank">Composing a Symphonist: Florence Price and the Hand of Black Women's Fellowship.</a>" *Women and Music: A Journal of Gender and Culture* 24 (2020): 7&ndash;27.
 6. Farrah, Scott David. <a href="http://purl.flvc.org/fsu/fd/FSU_migr_etd-4499" target="_blank">"Signifyin(g): A Semiotic Analysis of Symphonic Works by William Grant Still, William Levi Dawson, and Florence B. Price."</a> PhD diss., Florida State University, 2007.
 7. Hobbs, Erin. "<a href="https://www.proquest.com/docview/1908924625" target="_blank">Rehearing Florence Price: A Closer Look at Her Symphony in E Minor."</a> MM thesis, California State University, Long Beach, 2017.
-8. Jackson, Barbara Garvey. "<a href="https://doi.org/10.2307/1214357" target="_blank">Florence Price, Composer.</a>" *The Black Perspective in Music* 5 (1977): 30-43.
+8. Jackson, Barbara Garvey. "<a href="https://doi.org/10.2307/1214357" target="_blank">Florence Price, Composer.</a>" *The Black Perspective in Music* 5 (1977): 30&ndash;43.
 9. McGinty, Doris Evans. <a href="https://www.worldcat.org/title/54778506" target="_blank">*A Documentary History of the National Association of Negro Musicians.*</a> Chicago: Center for Black Music Research, Columbia College Chicago, 2004.
 10. Morgan-Ellis, Esther, ed. <a href="https://ung.edu/university-press/books/resonances-engaging-music.php" target="_blank">*Resonances: Engaging Music in Its Cultural Contexts.*</a> Dahlonega: University of North Georgia Press. <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International.</a>
 11. Schenbeck, Lawrence. "<a href="https://doi.org/10.1093/mq/81.3.344" target="_blank">Music, Gender, and 'Uplift' in the *Chicago Defender*, 1926&ndash;1937.</a>" *Musical Quarterly* 81 (1997): 344&ndash;70.
@@ -63,5 +63,5 @@ permalink: /price-symphony-no1/
 ---
 
 ## Notes
-[^fn1]: Price's daughter Florence Louise Robinson occasionally mixed up the first and third symphonies in her correspondence by referring to the E Minor symphony as No. 3.
+[^fn1]: One of Price's daughters, Florence Louise Robinson, occasionally mixed up the first and third symphonies in her correspondence by referring to the E Minor symphony as No. 3.
 [^fn2]: The piece won first prize ($500) for the orchestral music category in the 1932 Rodman Wanamaker competition.
