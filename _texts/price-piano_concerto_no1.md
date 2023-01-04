@@ -12,7 +12,7 @@ permalink: /price-piano-concerto-no1/
 - Piano Concerto No. 1 in D Minor
 
 ## Composition Year
-- 1933&ndash;34 (Trevor Weston re-orchestration, 2010-11)
+- 1933&ndash;34 (Trevor Weston re-orchestration, 2010&ndash;11)
 
 ## Instrumentation
 - Original: 1.1.2.1 - 2.2.2.0 - timp.3perc- strings
@@ -29,11 +29,11 @@ permalink: /price-piano-concerto-no1/
     * Parts, miscellaneous: Box 8, Folder 8
     * Two-piano reduction, incomplete: Box 8, Folder 8
 - MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
-    * Two-piano reduction, damaged: Box 6B, Folders 21a-b
-    * Parts, damaged: Box 6B, Folders 22-35
+    * Two-piano reduction, damaged: Box 6B, Folders 21a&ndash;b
+    * Parts, damaged: Box 6B, Folders 22&ndash;35
 - MC2618: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/2618" target="_blank">Florence Price Collection</a>, Special Collections, Mullins Library, University of Arkansas
     * ???: Box 3, Folder 1
-    * Parts, complete: Box 3, Folders 2-13[^fn1]
+    * Parts, complete: Box 3, Folders 2&ndash;13[^fn1]
 
 ## Premiere Performance
 - June 24, 1934; Orchestra Hall, Chicago; Chicago Musical College Orchestra; Florence B. Price, piano; unknown conductor.
@@ -53,8 +53,8 @@ permalink: /price-piano-concerto-no1/
 
 ## Bibliography
 1. Brown, Rae Linda. "Florence B. Price and Margaret Bonds: The Chicago Years." *Black Music Research Journal* 12 (<a href="https://digitalcommons.colum.edu/cbmrnews/31/" target="_blank">Fall 1990</a>): 11&ndash;14.
-2. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
-3. Brown, Rae Linda. "<a href="https://doi.org/10.2307/3052554" target="_blank">The Woman's Symphony Orchestra of Chicago and Florence B. Price's Piano Concerto in One Movement.</a>" *American Music* 11 (1993): 185&ndash;205.
+2. &mdash;&mdash;&mdash;. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
+3. &mdash;&mdash;&mdash;. "<a href="https://doi.org/10.2307/3052554" target="_blank">The Woman's Symphony Orchestra of Chicago and Florence B. Price's Piano Concerto in One Movement.</a>" *American Music* 11 (1993): 185&ndash;205.
 4. Flandreau, Suzanne. "<a href="https://doi.org/10.2307/900345" target="_blank">Black Music in the Academy: The Center for Black Music Research.</a>" *Notes* Second Series 55 (1998): 26&ndash;36.
 5. Hill, Alexandra Kori. "Make the Familiar New: New Negro Modernism in the Concertos of Florence B. Price." PhD diss., University of North Carolina-Chapel Hill, 2022.
 6. Morton, Vanessa. "<a href="https://columbiachronicle.com/0b41149d-8896-57bd-9211-bb890e440613" target="_blank">Florence Price Reborn.</a>" *Columbia Chronicle*, March 13, 2011.
