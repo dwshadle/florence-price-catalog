@@ -25,7 +25,7 @@ permalink: /price-mississippi-river/
 - MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
     * Score, complete: Box 3A, Folder 3
     * Score, damaged and incomplete: Box 6B, Folder 36
-    * Parts, complete: Box 1D, Folders 36-49; Box 6A, Folders 2-3
+    * Parts, complete: Box 1D, Folders 36&ndash;49; Box 6A, Folders 2&ndash;3
 
 ## Premiere Performance
 - Unknown
