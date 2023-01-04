@@ -35,14 +35,16 @@ permalink: /price-piano-sonata-in-E-minor/
 - <a href="https://www.worldcat.org/title/37434377" target="_blank">*Sonata in E Minor for Piano.*</a> Edited by Rae Linda Brown. New York: G. Schirmer, Inc., 1997.
 
 ## Recordings
-- 
+- Under Construction
 
 ## Thematic Incipits
 - In Progress
 
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
-2. Jackson, Barbara Garvey. "<a href="https://doi.org/10.2307/1214357" target="_blank">Florence Price, Composer.</a>" *The Black Perspective in Music* 5 (1977): 30&ndash;43.
+2. Holzer, Linda. "<a href="https://www.proquest.com/docview/304183848" target="_blank">Selected Solo Piano Music of Florence B. Price (1887&ndash;1963)</a>." DMA diss., Florida State University, 1995.
+3. Jackson, Barbara Garvey. "<a href="https://doi.org/10.2307/1214357" target="_blank">Florence Price, Composer.</a>" *The Black Perspective in Music* 5 (1977): 30&ndash;43.
+4. Maxile, Horace J., Jr. "Culture and Craft in Florence Price’s Piano Sonata in E Minor (First Movement)." In <a href="https://www.worldcat.org/title/1291579115" target="_blank">*Analytical Essays on Music by Women Composers: Concert Music, 1900&ndash;1960*</a>, edited by Laurel Parsons and Brenda Ravenscroft, 139&ndash;63. New York: Oxford University Press, 2022.
 {:.bibliography}
 
 ---
