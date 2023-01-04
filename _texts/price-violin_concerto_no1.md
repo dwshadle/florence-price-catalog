@@ -6,6 +6,9 @@ inst: orch-inst
 permalink: /price-violin-concerto-no1/
 ---
 
+## Alternate Title
+- None
+
 ## Composition Year
 - 1939
 
@@ -22,6 +25,9 @@ permalink: /price-violin-concerto-no1/
     * Piano Reduction, incomplete: Box 9, Folder 2
     * Orchestra Violin I, incomplete: Box 9, Folder 2
 
+## Premiere Performance
+- Unknown
+
 ## Published Editions
 - Full Score: <a href="https://www.wisemusicclassical.com/work/58910/Violin-Concerto-No-1--Florence-Price/" target="_blank">*Violin Concerto No. 1 in D Major.*</a> New York, NY: G. Schirmer, Inc., 2018.
 - Reduction for Violin and Piano: <a href="https://classicalondemand.com/price-violin-concerto-no-1-3468.html" target="_blank">*Violin Concerto No. 1 in D Major.*</a> New York, NY: G. Schirmer, Inc., 2018.
@@ -36,5 +42,5 @@ permalink: /price-violin-concerto-no1/
 - [Movement III](https://dwshadle.github.io/test/price-violin-concerto-no1/mvt3)
 
 ## Bibliography
-1. Hill, Alexandra Kori. "Make the Familiar New: New Negro Modernism in the Concertos of Florence B. Price." PhD diss., University of North Carolina-Chapel Hill, 2022.
+1. Hill, Alexandra Kori. "Make the Familiar New: New Negro Modernism in the Concertos of Florence B. Price." PhD diss., University of North Carolina&ndash;Chapel Hill, 2022.
 {:.bibliography}
