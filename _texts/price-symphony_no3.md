@@ -6,6 +6,9 @@ inst: orch
 permalink: /price-symphony-no3/
 ---
 
+## Alternate Title
+- None
+
 ## Composition Year
 - ca. 1940
 
