@@ -37,5 +37,6 @@ permalink: /price-violin-concerto-no2/
 - In progress
 
 ## Bibliography
-1. Hill, Alexandra Kori. "Make the Familiar New: New Negro Modernism in the Concertos of Florence B. Price." PhD diss., University of North Carolina-Chapel Hill, 2022.
+1. Baranello, Micaela. "<a href="https://www.nytimes.com/2018/02/09/arts/music/florence-price-arkansas-symphony-concerto.html" target="_blank">Welcoming a Black Female Composer into the Canon. Finally.</a>" *New York Times*, February 9, 2018.
+2. Hill, Alexandra Kori. "Make the Familiar New: New Negro Modernism in the Concertos of Florence B. Price." PhD diss., University of North Carolina-Chapel Hill, 2022.
 {:.bibliography}
