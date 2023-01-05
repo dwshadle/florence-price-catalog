@@ -21,6 +21,8 @@ permalink: /price-fantasie-negre-no1/
 ## Manuscripts
 - <a href="https://digitalcommons.colum.edu/cmbr_guides/index.3.html" target="_blank">Cheryl A. Wall Collection of Margaret Bonds and Florence Price Scores</a>, Center for Black Music Research, Columbia College Chicago
     * Score (February 9&ndash;10, 1929)
+- <a href="https://lccn.loc.gov/2020570150" target="_blank">Florence B. Price Music Manuscripts</a>, Music Division, Library of Congress
+    * Score (February 9&ndash;10, 1929): Call # <a href="https://lccn.loc.gov/91757007" target="_blank">ML96.P8328 no. 8</a>
 
 ## Premiere Performance
 - December 9, 1932; Stevens Hotel, Chicago; Florence B. Price and Margaret Bonds, piano.[^fn1]
