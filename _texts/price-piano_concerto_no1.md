@@ -22,7 +22,7 @@ permalink: /price-piano-concerto-no1/
 - 18 min.
 
 ## Manuscripts
-- <a href="https://digitalcommons.colum.edu/cmbr_guides/index.3.html" target="_blank">Center for Black Music Research</a> (Location TBD)
+- <a href="https://digitalcommons.colum.edu/cmbr_guides/index.3.html" target="_blank">Cheryl A. Wall Collection of Margaret Bonds and Florence Price Scores</a>, Center for Black Music Research, Columbia College Chicago
     * Three-piano reduction
 - MC988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
     * Two-piano reduction, complete: Box 8, Folder 8
