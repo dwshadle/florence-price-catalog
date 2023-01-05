@@ -3,7 +3,7 @@ layout: page
 title: Fantasie Nègre No. 1 in E Minor 
 author: Price, Florence B.
 inst: piano-conc
-permalink: /price-fantasie-negre_no1/
+permalink: /price-fantasie-negre-no1/
 ---
 
 ## Alternate Title
