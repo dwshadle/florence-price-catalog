@@ -22,7 +22,7 @@ permalink: /price-violin-concerto-no2/
 - 
 
 ## Premiere Performance
-- 
+- Full orchestra: February 17, 2018; Arend Arts Center, Bentonville, Arkansas; Arkansas Philharmonic Orchestra; Er-Gene Kahng, violin; Steven Byess, conductor.
 
 ## Published Editions
 - Full Score: <a href="https://www.wisemusicclassical.com/work/59062/Violin-Concerto-No-2/" target="_blank">*Violin Concerto No. 2.*</a> New York, NY: G. Schirmer, Inc., 2022.
