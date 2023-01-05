@@ -41,7 +41,7 @@ permalink: /price-fantasie-negre-no1/
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
 2. Das, Joanna Dee. <a href="https://www.worldcat.org/title/961408226" target="_blank">*Katherine Dunham: Dance and the African Diaspora.*</a> New York: Oxford University Press, 2017.
 3. Ege, Samantha. "<a href="https://etheses.whiterose.ac.uk/27318/" target="_blank">The Aesthetics of Florence Price: Negotiating the Dissonances of a New World Nationalism.</a>" PhD diss., University of York (UK), 2020.
-4. Ege, Samantha. "<a href="https://www.samanthaege.com/post/fantasie-negre-realization-of-a-black-girl-s-fantasy" target="_blank">Fantasie Negre: Realization of a Black Girl's Fantasy.</a> *Music HerStories.* February 6, 2019.
+4. Ege, Samantha. "<a href="https://www.samanthaege.com/post/fantasie-negre-realization-of-a-black-girl-s-fantasy" target="_blank">Fantasie Negre: Realization of a Black Girl's Fantasy.</a>" *Music HerStories.* February 6, 2019.
 {:.bibliography}
 
 ---
