@@ -33,7 +33,11 @@ permalink: /price-fantasie-negre-no1/
     * OCLC: <a href="https://www.worldcat.org/title/28026306" target="_blank">28026306</a>
 
 ## Recordings
-- Under Construction
+- <a href="https://www.worldcat.org/title/33233082" target="_blank">*Kaleidoscope: Music by African-American Women.*</a> Helen Walker-Hill, piano. Leonarda, 1995.
+- <a href="https://www.worldcat.org/title/961162215" target="_blank">*America Again.*</a> Lara Downes, piano. Sono Luminus, 2016.
+- <a href="https://www.worldcat.org/title/1045797678" target="_blank">*Nasty Women.*</a> Joanna Goldstein, piano. Centaur Records, 2018.
+- <a href="https://www.worldcat.org/title/1258127936" target="_blank">*Fantasie Nègre: The Piano Music of Florence Price.*</a> Samantha Ege, piano. Lorelt, 2021.
+- <a href="https://www.worldcat.org/title/1335708444" target="_blank">*Soulscapes 2: Piano Music by Women of African Descent.*</a> Maria Thompson Corley, piano. MSR Classics, 2021.
 
 ## Thematic Incipits
 - In Progress
