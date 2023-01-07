@@ -13,7 +13,7 @@ permalink: /price-symphony-no3/
 - ca. 1940
 
 ## Instrumentation
-- 3+pic.2+ca.2+bcl.2 - 4.3.3.1 - timp.5perc -hp - strings
+- 3+pic.2+ca.2+bcl.2 - 4.3.3.1 - timp.5perc - hp - strings
 
 ## Length
 - 22 min.
