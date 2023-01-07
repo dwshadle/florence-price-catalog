@@ -36,7 +36,7 @@ permalink: /price-the-oak/
 
 ## Recordings
 - Florence Price: The Oak, Mississippi River Suite, Symphony No. 3. Apo Hsu, conductor; The Women's Philharmonic. Koch International Classics 3-7518-2 2111, 2007.
-- <a href="https://www.naxos.com/CatalogueDetail/?id=8.559920" target="_blank"*Price: Songs of the Oak - Concert Overtures Nos. 1&ndash;2.*</a> Württembergische Philharmonie Reutlingen; John Jeter, conductor. Naxos 8.559920, 2022.
+- <a href="https://www.naxos.com/CatalogueDetail/?id=8.559920" target="_blank">*Price: Songs of the Oak - Concert Overtures Nos. 1&ndash;2.*</a> Württembergische Philharmonie Reutlingen; John Jeter, conductor. Naxos 8.559920, 2022.
 
 ## Thematic Incipits
 - In Progress
