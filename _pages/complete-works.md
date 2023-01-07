@@ -113,7 +113,7 @@ Works are organized by instrumentation.
     {% endfor %}
 </ul>
 
- <h3>Piano and Solo Voice</h3>
+ <h3>Solo Voice and Piano</h3>
     <ul class="texts">
     {% for item in site.texts %}
       {% if item.inst == "pno-voice" %}
