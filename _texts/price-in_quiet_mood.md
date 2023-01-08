@@ -3,7 +3,7 @@ layout: page
 title: In Quiet Mood
 author: Price, Florence B.
 inst: organ
-permalink: /price-piano-sonata-in-E-minor/
+permalink: /price-in-quiet-mood/
 ---
 
 ## Alternate Title
