@@ -29,6 +29,10 @@ permalink: /price-violin-concerto-no2/
 - MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
     * Score, complete: Box 2A, Folder 4; Box 4A, Folder 8
     * Piano reduction, complete (May 1952): Box 3B, Folder 14
+- MC2618: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/2618" target="_blank">Florence Price Collection</a>, Special Collections, Mullins Library, University of Arkansas
+    * Score, complete (undated): Box 4, Folder 4
+    * Solo violin part, complete: Box 4, Folder 5
+    * Piano reduction, complete (May 1952): Box 4, Folder 6
 
 ## Premiere Performance
 - Violin and piano: November, 2, 1953; Curtiss Hall, Fine Arts Building (410 S. Michigan Ave.), Chicago. Musicians Club of Women. Minnie Cedargreen Jernberg, violin, and Florence Henline, piano.[^fn1]
