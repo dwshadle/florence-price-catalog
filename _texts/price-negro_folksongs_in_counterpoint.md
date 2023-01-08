@@ -42,4 +42,4 @@ permalink: /price-negro-folksongs-in-counterpoint/
 ---
 
 ## Notes
-[^fn1]: This piece is sometimes erroneously conflated with [*Five Folksongs in Counterpoint*](/price-five-folksongs-in-counterpoint/). They are two separate pieces.
+[^fn1]: This piece is sometimes erroneously conflated with [*Five Folksongs in Counterpoint*](https://dwshadle.github.io/florence-price-catalog/price-five-folksongs-in-counterpoint/). They are two separate pieces.
