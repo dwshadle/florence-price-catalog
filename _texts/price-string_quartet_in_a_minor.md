@@ -20,8 +20,9 @@ permalink: /price-string-quartet-in-a-minor/
 
 ## Manuscripts
 - MC988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
-    * Score, complete (September 4&ndash;October 8, 1935: Box 7, Folder 7
+    * Score, complete (September 4&ndash;October 8, 1935): Box 7, Folder 7
     * Parts, incomplete: Box 7, Folder 7
+    * Sketches: Box 7, Folder 7
 
 ## Premiere Performance
 - Unknown
