@@ -49,10 +49,10 @@ permalink: /price-symphony-no3/
 - <a href="https://www.deutschegrammophon.com/en/catalogue/products/price-symphonies-nos-1-3-nezet-seguin-12476" target="_blank">Florence Price: Symphonies Nos. 1 and 3.</a> Yannick Nézet-Séguin, conductor; Philadelphia Orchestra. Deutsche Grammophon 4862029, 2022.
 
 ## Thematic Incipits
-- [Movement I](https://dwshadle.github.io/test/price-symphony-no3/mvt1)
-- [Movement II](https://dwshadle.github.io/test/price-symphony-no3/mvt2)
+- [Movement I](https://dwshadle.github.io/florence-price-catalog/price-symphony-no3/mvt1)
+- [Movement II](https://dwshadle.github.io/florence-price-catalog/price-symphony-no3/mvt2)
 - Movement III in progress
-- [Movement IV](https://dwshadle.github.io/test/price-symphony-no3/mvt4)
+- [Movement IV](https://dwshadle.github.io/florence-price-catalog/price-symphony-no3/mvt4)
 
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.

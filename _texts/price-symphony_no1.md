@@ -39,10 +39,10 @@ permalink: /price-symphony-no1/
 - <a href="https://www.deutschegrammophon.com/en/catalogue/products/price-symphonies-nos-1-3-nezet-seguin-12476" target="_blank">Florence Price: Symphonies Nos. 1 and 3.</a> Yannick Nézet-Séguin, conductor; Philadelphia Orchestra. Deutsche Grammophon 4862029, 2022.
 
 ## Thematic Incipits
-- [Movement I](https://dwshadle.github.io/test/price-symphony-no1/mvt1)
-- [Movement II](https://dwshadle.github.io/test/price-symphony-no1/mvt2)
-- [Movement III](https://dwshadle.github.io/test/price-symphony-no1/mvt3)
-- [Movement IV](https://dwshadle.github.io/test/price-symphony-no1/mvt4)
+- [Movement I](https://dwshadle.github.io/florence-price-catalog/price-symphony-no1/mvt1)
+- [Movement II](https://dwshadle.github.io/florence-price-catalog/price-symphony-no1/mvt2)
+- [Movement III](https://dwshadle.github.io/florence-price-catalog/price-symphony-no1/mvt3)
+- [Movement IV](https://dwshadle.github.io/florence-price-catalog/price-symphony-no1/mvt4)
 
 ## Bibliography
 1. Brown, Rae Linda. "Florence B. Price and Margaret Bonds: The Chicago Years." *Black Music Research Journal* 12 (<a href="https://digitalcommons.colum.edu/cbmrnews/31/" target="_blank">Fall 1990</a>): 11&ndash;14.
