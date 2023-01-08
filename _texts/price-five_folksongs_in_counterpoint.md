@@ -7,7 +7,7 @@ permalink: /price-five-folksongs-in-counterpoint/
 ---
 
 ## Alternate Title
-- None
+- None[^fn1]
 
 ## Composition Year
 - 1951
@@ -50,3 +50,4 @@ permalink: /price-five-folksongs-in-counterpoint/
 ---
 
 ## Notes
+[^fn1]: This piece is sometimes erroneously conflated with [*Negro Folksongs in Counterpoint*](https://dwshadle.github.io/florence-price-catalog/price-negro-folksongs-in-counterpoint/). They are two separate pieces.
