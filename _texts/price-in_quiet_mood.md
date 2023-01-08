@@ -10,7 +10,7 @@ permalink: /price-in-quiet-mood/
 - None
 
 ## Composition Year
-- 1951 (?)
+- 1950
 
 ## Instrumentation
 - Solo organ
