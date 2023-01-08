@@ -7,7 +7,7 @@ permalink: /price-five-folksongs-in-counterpoint/
 ---
 
 ## Alternate Title
-- None[^fn1]
+- Five American Folksongs in Counterpoint[^fn1]
 
 ## Composition Year
 - 1951
