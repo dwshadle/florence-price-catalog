@@ -5,7 +5,7 @@ permalink: /
 
 This open-access catalog aims to present high-quality information about the musical works written by composer Florence B. Price. A digital catalog that can keep pace with the evolving landscape of Price performance and scholarship is essential to serve growing global interest in Price and her music.
 
-[View the Table of Contents](/_pages/complete-works/)
+[View the Table of Contents](florence-price-catalog/_pages/complete-works/)
 
 Each catalog entry contains the following data (where known):
 - Title
