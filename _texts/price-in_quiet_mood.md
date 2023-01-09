@@ -27,6 +27,7 @@ permalink: /price-in-quiet-mood/
 ## Published Editions
 - *In Quiet Mood.* New York: Galaxy Music Corp., 1951.
 -  Johnson, Calvert, ed. <a href="https://www.worldcat.org/title/33248388" target="_blank">*Music of Florence Beatrice Price. Volume 2: Short Organ Works.*</a> Fayetteville, AR: ClarNan Editions, 1995.
+-  Abbington, James, ed. <a href="https://www.giamusic.com/store/resource/king-of-kings-volume-2-print-g7489" target="_blank">*King of Kings: Organ Music of Black Composers, Past and Present: Volume 2.*</a> Chicago: GIA Publications, 2008.
 
 ## Recordings
 - Under Construction
