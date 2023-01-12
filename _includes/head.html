@@ -1,6 +1,16 @@
 <head prefix="og: http://ogp.me/ns#; dc: http://purl.org/dc/terms/#">
   {% capture resource_url %}{{ site.url }}{{ site.baseurl }}{{ page.url }}{% endcapture %}
   {% capture directory_url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-52XP81HYV6"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    
+    gtag('config', 'G-52XP81HYV6');
+  </script>
+
   <!-- Canonical link to help search engines -->
   <link rel="canonical" href="{{ resource_url }}" />
 
