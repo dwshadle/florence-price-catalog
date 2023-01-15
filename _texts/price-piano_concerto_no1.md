@@ -47,6 +47,7 @@ permalink: /price-piano-concerto-no1/
 - <a href="https://www.albanyrecords.com/mm5/merchant.mvc?Screen=PROD&Product_Code=TROY1295" target="_blank">Florence B Price: Concerto in One Movement/Symphony in E Minor.</a> Karen Walwyn, piano; Leslie B. Dunner, conductor; New Black Music Repertory Ensemble. Albany Records TROY 1295, 2011. (Weston)
 - <a href="https://www.avie-records.com/releases/works-by-florence-price-valerie-coleman-jessie-montgomery/" target="_blank">Works by Florence Price, Jessie Montgomery, Valerie Coleman.</a> Michelle Cann, piano; Michael Repper, conductor; New York Youth Symphony. Avie Records AC2503, 2022. (Original)
 - <a href="https://www.amazon.com/dp/B09VLM8Q4F/ref=sr_1_2" target="_blank">Florence Price: Concerto in One Movement</a>. Karen Walwyn, piano; Geoffrey Robson, conductor; Arkansas Symphony Orchestra. DistroKid 3724517 Records DK, 2022. (Original, digital only)
+- <a href="https://www.prestomusic.com/classical/products/9361778--black-renaissance-woman" target="_blank">*Black Renaissance Woman.*</a> Samantha Ege (solo) and John Paul Ekin (orch.), pianos; Lorelt LNT145, 2022.
 
 ## Thematic Incipits
 - In Progress
