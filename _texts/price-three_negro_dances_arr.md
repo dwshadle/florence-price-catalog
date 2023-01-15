@@ -40,5 +40,7 @@ permalink: /price-three-negro-dances-arr/
 2. Sewell, Amanda. "<a href="https://www.interlochenpublicradio.org/2022-07-27/interlochen-archives-florence-price-music-at-interlochen" target="_blank">From Interlochen's Archives: Florence Price's Music at Interlochen.</a>" Interlochen (MI) Public Radio, July 27, 2022.
 {:.bibliography}
 
+---
+
 ## Notes
 [^fn1]: The *Pittsburgh Courier* (August 12, 1939) reports that the U.S. Marine Band performed this arrangement "last Saturday," presumably August 5.
