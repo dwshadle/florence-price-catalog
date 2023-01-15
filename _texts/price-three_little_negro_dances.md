@@ -8,7 +8,7 @@ permalink: /price-three-little-negro-dances/
 
 ## Alternate Title
 - See also "[Three Negro Dances](/price-three-negro-dances/)" (band)
-- See also "Suite of Negro Dances" (orchestra)
+- See also "[Suite of Negro Dances](/price-suite-of-negro-dances/)" (orchestra)
 
 ## Composition Year
 - ca. 1933

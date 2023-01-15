@@ -8,7 +8,7 @@ permalink: /price-three-negro-dances/
 
 ## Alternate Title
 - See also "[Three Little Negro Dances](/price-three-little-negro-dances/)" (piano)
-- See also "Suite of Negro Dances" (orchestra)
+- See also "[Suite of Negro Dances](/price-suite-of-negro-dances/)" (orchestra)
 
 ## Composition Year
 - 1939 (orig. ca. 1933)
