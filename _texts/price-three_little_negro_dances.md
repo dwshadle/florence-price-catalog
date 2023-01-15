@@ -28,7 +28,9 @@ permalink: /price-three-little-negro-dances/
 - 
 
 ## Published Editions
-- 
+- "<a href="https://archive.org/details/EtudeApril1934/page/n10/mode/1up" target="_blank">Hoe Cake.</a>" *The Etude* 52 (April 1934): 229.
+- "<a href="https://archive.org/details/EtudeJuly1934/page/n11/mode/1up" target="_blank">Rabbit Foot.</a>" *The Etude* 52 (July 1934): 413.
+- "<a href="https://archive.org/details/EtudeSeptember1951/page/n18/mode/1up" target="_blank">Ticklin' Toes.</a>" *The Etude* 69 (September 1951): 34&ndash;35.
 - Two pianos, four hands: *Three Little Negro Dances.* Bryn Mawr, PA: Theodore Presser, 1949.
 
 ## Recordings
