@@ -7,7 +7,7 @@ permalink: /price-three-negro-dances/
 ---
 
 ## Alternate Title
-- See also "[Three Little Negro Dances](/price-three-little-negro-dances/)"
+- See also "[Three Little Negro Dances](/price-three-little-negro-dances/)" (piano)
 - See also "Suite of Negro Dances" (orchestra)
 
 ## Composition Year
