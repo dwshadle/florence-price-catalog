@@ -13,10 +13,10 @@ permalink: /price-suite-for-brasses-and-piano/
 - 
 
 ## Instrumentation
-- 
+- 2.2.2.1 - pno
 
 ## Length
-- 
+- 14 min.
 
 ## Manuscripts
 - 
@@ -25,7 +25,7 @@ permalink: /price-suite-for-brasses-and-piano/
 - 
 
 ## Published Editions
-- 
+- <a href="https://www.wisemusicclassical.com/work/61531/Octet-for-Brasses-and-Piano/" target="_blank">*Octet for Brasses and Piano.*</a> New York: G. Schirmer, Inc., 2021.
 
 ## Recordings
 - 
