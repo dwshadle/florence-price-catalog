@@ -7,15 +7,16 @@ permalink: /price-three-little-negro-dances/
 ---
 
 ## Alternate Title
-- See also "[Three Negro Dances](/price-three-negro-dances-arr/)" (band)
-- See also "Three Negro Dances" (2 pianos, 4 hands)
+- See also "[Three Negro Dances](/price-three-negro-dances/)" (band)
 - See also "Suite of Negro Dances" (orchestra)
 
 ## Composition Year
 - ca. 1933
+- Two-piano, ca. 1949
 
 ## Instrumentation
 - Solo piano
+- Two pianos, four hands
 
 ## Length
 - 3-4 min.
@@ -28,6 +29,7 @@ permalink: /price-three-little-negro-dances/
 
 ## Published Editions
 - 
+- Two pianos, four hands: *Three Little Negro Dances.* Bryn Mawr, PA: Theodore Presser, 1949.
 
 ## Recordings
 - 

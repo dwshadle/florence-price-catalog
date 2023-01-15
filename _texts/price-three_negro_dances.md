@@ -3,12 +3,11 @@ layout: page
 title: Three Negro Dances
 author: Price, Florence B.
 inst: band
-permalink: /price-three-negro-dances-arr/
+permalink: /price-three-negro-dances/
 ---
 
 ## Alternate Title
-- See also "[Three Little Negro Dances](/price-three-little-negro-dances/)" (piano)
-- See also "Three Little Negro Dances" (2 pianos, 4 hands)
+- See also "[Three Little Negro Dances](/price-three-little-negro-dances/)"
 - See also "Suite of Negro Dances" (orchestra)
 
 ## Composition Year
