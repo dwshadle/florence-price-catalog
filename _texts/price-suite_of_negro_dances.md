@@ -26,14 +26,14 @@ permalink: /price-suite-of-negro-dances/
 
 ## Premiere Performance
 - 
-- Band arr.: December 16, 2021; McCormick Place West, Chicago; U.S. Army Field Band; Marie-Perle Broadley, conductor.
+- Band arr.: December 16, 2021; McCormick Place West, Chicago; Marie-Perle Broadley, conductor; U.S. Army Field Band.
 
 ## Published Editions
 - <a href="https://www.wisemusicclassical.com/work/58892/Suite-of-Dances-for-orchestra/" target="_blank">*Suite of Dances.*</a> New York, NY: G. Schirmer, Inc., 2019.
 - Hernandez, Adrian, arr. <a href="https://www.wisemusicclassical.com/work/63171/" target="_blank">*Suite of Dances.*</a> New York, NY: G. Schirmer, Inc., 2021.
 
 ## Recordings
-- 
+- Excerpts: *Two Negro Dances.* Chicago Symphony Orchestra; George Schick, cond. WGN-TV, 1953.
 
 ## Thematic Incipits
 - In Progress
