@@ -126,10 +126,23 @@ Works are organized by instrumentation.
     {% endfor %}
 </ul>
 
- <h3>Solo Voice and Piano</h3>
+ <h3>Solo Voice and Piano - Arrangements</h3>
     <ul class="texts">
     {% for item in site.texts %}
-      {% if item.inst == "pno-voice" %}
+      {% if item.inst == "pno-voice-arr" %}
+          <li class="text-title">
+          <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+              </a>
+    </li>
+      {% endif %}
+    {% endfor %}
+</ul>
+    
+ <h3>Solo Voice and Piano - Original</h3>
+    <ul class="texts">
+    {% for item in site.texts %}
+      {% if item.inst == "pno-voice-orig" %}
           <li class="text-title">
           <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
