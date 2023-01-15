@@ -39,5 +39,7 @@ permalink: /price-in-quiet-mood/
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
 {:.bibliography}
 
+---
+
 ## Notes
 [^fn1]: An <a href="https://digitalcollections.uark.edu/digital/collection/p17212coll3/id/51/rec/1" target="_blank">ASCAP document</a> lists 1950 as the year of composition despite the 1951 publication date.
