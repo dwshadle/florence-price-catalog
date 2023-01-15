@@ -3,7 +3,7 @@ layout: page
 title: Quintet for Piano and Strings No. 1
 author: Price, Florence B.
 inst: cham-inst
-permalink: /price-for-piano-and-strings-no1/
+permalink: /price-quintet-for-piano-and-strings-no1/
 ---
 
 ## Alternate Title
