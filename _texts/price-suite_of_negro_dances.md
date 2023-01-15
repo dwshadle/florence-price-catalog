@@ -35,7 +35,8 @@ permalink: /price-suite-of-negro-dances/
 - Hernandez, Adrian, arr. <a href="https://www.wisemusicclassical.com/work/63171/" target="_blank">*Suite of Dances.*</a> New York, NY: G. Schirmer, Inc., 2021.
 
 ## Recordings
-- Excerpts: *Two Little Negro Dances.* Chicago Symphony Orchestra; George Schick, cond. WGN-TV, 1953.[^fn1]
+- *Two Little Negro Dances.* Chicago Symphony Orchestra; George Schick, cond. WGN-TV, 1953.[^fn1] ("Rabbit Foot" and "Ticklin' Toes" only)
+- <a href="https://www.naxos.com/CatalogueDetail/?id=8.559920" target="_blank">*Price: Songs of the Oak - Concert Overtures Nos. 1&ndash;2.*</a> Württembergische Philharmonie Reutlingen; John Jeter, conductor. Naxos 8.559920, 2022.
 
 ## Thematic Incipits
 - In Progress
