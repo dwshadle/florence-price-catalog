@@ -7,7 +7,7 @@ permalink: /price-three-negro-dances-arr/
 ---
 
 ## Alternate Title
-- See also "Three Little Negro Dances" (piano)
+- See also "[Three Little Negro Dances](/price-three-little-negro-dances/)" (piano)
 - See also "Three Negro Dances" (2 pianos, 4 hands)
 - See also "Suite of Negro Dances" (orchestra)
 
