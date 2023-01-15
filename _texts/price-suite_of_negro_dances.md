@@ -16,6 +16,7 @@ permalink: /price-suite-of-negro-dances/
 
 ## Instrumentation
 - 2.0.2.1 - 2.2.0.0 - timp.4perc - strings
+- Band arr.: 2+pic.2+ca.3+Ebcl+bcl.2+cbn.2asx.tsx.barsx - 4.3.2+btbn.1.euph - timp.5perc - db
 
 ## Length
 - 3-4 min.
@@ -25,9 +26,11 @@ permalink: /price-suite-of-negro-dances/
 
 ## Premiere Performance
 - 
+- Band arr.: December 16, 2021; McCormick Place West, Chicago; U.S. Army Field Band; Marie-Perle Broadley, conductor.
 
 ## Published Editions
 - <a href="https://www.wisemusicclassical.com/work/58892/Suite-of-Dances-for-orchestra/" target="_blank">*Suite of Dances.*</a> New York, NY: G. Schirmer, Inc., 2019.
+- Hernandez, Adrian, arr. <a href="https://www.wisemusicclassical.com/work/63171/" target="_blank">*Suite of Dances.*</a> New York, NY: G. Schirmer, Inc., 2021.
 
 ## Recordings
 - 
