@@ -2,7 +2,7 @@
 layout: page
 title: Songs to the Dark Virgin
 author: Price, Florence B.
-inst: pno-voice
+inst: pno-voice-orig
 permalink: /price-songs-to-the-dark-virgin/
 ---
 

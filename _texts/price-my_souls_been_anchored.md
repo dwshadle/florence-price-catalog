@@ -2,7 +2,7 @@
 layout: page
 title: My Soul's Been Anchored in the Lord
 author: Price, Florence B.
-inst: pno-voice
+inst: pno-voice-arr
 permalink: /price-my-souls-been-anchored/
 ---
 
