@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Quintet for Piano and Strings No. 1
+title: Quintet for Piano and Strings No. 2
 author: Price, Florence B.
 inst: cham-inst
-permalink: /price-for-piano-and-strings-no1/
+permalink: /price-quintet-for-piano-and-strings-no2/
 ---
 
 ## Alternate Title
-- Quintet in A Minor
+- 
 
 ## Composition Year
 - 
