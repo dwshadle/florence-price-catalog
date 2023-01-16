@@ -72,20 +72,7 @@ permalink: /price-symphony-no1/
 <div>
   <div id="app" class="panel" style="border: 1px solid lightblue; min-height: 200px;"></div>
 <script type="module">
-  import 'https://www.verovio.org/javascript/app/verovio-app.js';
-
-  const options = {
-      defaultView: 'responsive', // default is 'responsive', alternative is 'document'
-      defaultZoom: 3, // 0-7, default is 4
-      enableResponsive: true, // default is true
-      enableDocument: true, // default is true
-  }
-
-  // Create the app - here with an empty option object
-  const app = new Verovio.App(document.getElementById("app"), options);
-
-  // Load a file (MEI or MusicXML)
-  fetch("{{site.baseurl}}/assets/mei/price_symphony_no1_mvt1.mei")
+   fetch("{{site.baseurl}}/assets/mei/price_symphony_no1_mvt1.mei")
       .then(function(response) {
           return response.text();
       })
