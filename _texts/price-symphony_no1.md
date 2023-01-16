@@ -60,7 +60,7 @@ document4: price_symphony_no1_mvt4.mei
   }
 
   // Create the app - here with an empty option object
-  const app = new Verovio.App(document.getElementById("app"), options);
+  const app = new Verovio.App(document1.getElementById("app"), options);
 
   // Load a file (MEI or MusicXML)
   fetch("{{site.baseurl}}/assets/mei/{{page.document1}}")
@@ -89,7 +89,7 @@ document4: price_symphony_no1_mvt4.mei
   }
 
   // Create the app - here with an empty option object
-  const app = new Verovio.App(document.getElementById("app"), options);
+  const app = new Verovio.App(document2.getElementById("app"), options);
 
   // Load a file (MEI or MusicXML)
   fetch("{{site.baseurl}}/assets/mei/{{page.document2}}")
@@ -118,7 +118,7 @@ document4: price_symphony_no1_mvt4.mei
   }
 
   // Create the app - here with an empty option object
-  const app = new Verovio.App(document.getElementById("app"), options);
+  const app = new Verovio.App(document3.getElementById("app"), options);
 
   // Load a file (MEI or MusicXML)
   fetch("{{site.baseurl}}/assets/mei/{{page.document3}}")
@@ -147,7 +147,7 @@ document4: price_symphony_no1_mvt4.mei
   }
 
   // Create the app - here with an empty option object
-  const app = new Verovio.App(document.getElementById("app"), options);
+  const app = new Verovio.App(document4.getElementById("app"), options);
 
   // Load a file (MEI or MusicXML)
   fetch("{{site.baseurl}}/assets/mei/{{page.document4}}")
