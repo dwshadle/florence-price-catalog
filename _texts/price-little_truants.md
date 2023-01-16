@@ -34,7 +34,7 @@ document: price_little_truants.mei
 
 ## Thematic Incipit
 <div>
-  <div id="app" class="panel" style="border: 1px solid lightgray; min-height: 800px;"></div>
+  <div id="app" class="panel" style="border: 1px solid lightgray; min-height: 300px;"></div>
 </div>
 
 <script type="module">
