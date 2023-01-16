@@ -36,6 +36,7 @@ permalink: /price-symphony-no4/
 - [Movement II](https://dwshadle.github.io/florence-price-catalog/price-symphony-no4/mvt2)
 - [Movement III](https://dwshadle.github.io/florence-price-catalog/price-symphony-no4/mvt3)
 - [Movement IV](https://dwshadle.github.io/florence-price-catalog/price-symphony-no4/mvt4)
+
 ## Bibliography
 1. Under Construction
 {:.bibliography}
