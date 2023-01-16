@@ -39,7 +39,34 @@ permalink: /price-symphony-no1/
 - <a href="https://www.deutschegrammophon.com/en/catalogue/products/price-symphonies-nos-1-3-nezet-seguin-12476" target="_blank">Florence Price: Symphonies Nos. 1 and 3.</a> Yannick Nézet-Séguin, conductor; Philadelphia Orchestra. Deutsche Grammophon 4862029, 2022.
 
 ## Thematic Incipits
-- [Movement I](https://dwshadle.github.io/florence-price-catalog/price-symphony-no1/mvt1)
+- Movement I
+
+<div>
+  <div id="app" class="panel" style="border: 1px solid lightblue; min-height: 200px;"></div>
+<script type="module">
+  import 'https://www.verovio.org/javascript/app/verovio-app.js';
+
+  const options = {
+      defaultView: 'responsive', // default is 'responsive', alternative is 'document'
+      defaultZoom: 3, // 0-7, default is 4
+      enableResponsive: true, // default is true
+      enableDocument: true, // default is true
+  }
+
+  // Create the app - here with an empty option object
+  const app = new Verovio.App(document.getElementById("app"), options);
+
+  // Load a file (MEI or MusicXML)
+  fetch("{{site.baseurl}}/assets/mei/price_symphony_no1_mvt1.mei")
+      .then(function(response) {
+          return response.text();
+      })
+      .then(function(text) {
+          app.loadData(text);
+      });
+</script>
+   </div>
+
 - [Movement II](https://dwshadle.github.io/florence-price-catalog/price-symphony-no1/mvt2)
 - [Movement III](https://dwshadle.github.io/florence-price-catalog/price-symphony-no1/mvt3)
 - [Movement IV](https://dwshadle.github.io/florence-price-catalog/price-symphony-no1/mvt4)
