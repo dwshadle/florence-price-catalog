@@ -4,10 +4,6 @@ title: Symphony No. 1 in E Minor
 author: Price, Florence B.
 inst: orch
 permalink: /price-symphony-no1/
-documenta: price_symphony_no1_mvt1.mei
-documentb: price_symphony_no1_mvt2.mei
-documentc: price_symphony_no1_mvt3.mei
-documentd: price_symphony_no1_mvt4.mei
 ---
 
 ## Alternate Title
@@ -63,7 +59,7 @@ documentd: price_symphony_no1_mvt4.mei
   const app = new Verovio.App(document.getElementById("app"), options);
 
   // Load a file (MEI or MusicXML)
-  fetch("{{site.baseurl}}/assets/mei/{{page.documenta}}")
+  fetch("{{site.baseurl}}/assets/mei/price_symphony_no1_mvt1.mei")
       .then(function(response) {
           return response.text();
       })
@@ -92,7 +88,7 @@ documentd: price_symphony_no1_mvt4.mei
   const app = new Verovio.App(document.getElementById("app"), options);
 
   // Load a file (MEI or MusicXML)
-  fetch("{{site.baseurl}}/assets/mei/{{page.documentb}}")
+  fetch("{{site.baseurl}}/assets/mei/price_symphony_no1_mvt2.mei")
       .then(function(response) {
           return response.text();
       })
@@ -121,7 +117,7 @@ documentd: price_symphony_no1_mvt4.mei
   const app = new Verovio.App(document.getElementById("app"), options);
 
   // Load a file (MEI or MusicXML)
-  fetch("{{site.baseurl}}/assets/mei/{{page.documentc}}")
+  fetch("{{site.baseurl}}/assets/mei/price_symphony_no1_mvt3.mei")
       .then(function(response) {
           return response.text();
       })
@@ -150,7 +146,7 @@ documentd: price_symphony_no1_mvt4.mei
   const app = new Verovio.App(document.getElementById("app"), options);
 
   // Load a file (MEI or MusicXML)
-  fetch("{{site.baseurl}}/assets/mei/{{page.documentd}}")
+  fetch("{{site.baseurl}}/assets/mei/price_symphony_no1_mvt4.mei")
       .then(function(response) {
           return response.text();
       })
