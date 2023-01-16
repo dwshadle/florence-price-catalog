@@ -12,7 +12,7 @@
                <persName role="reviewer"></persName>
             </respStmt>
          </titleStmt>
-         <pubStmt><date isodate="2023-01-16" type="encoding-date">2023-01-16</date> <publisher>Rebalancing the Music Canon</publisher>
+         <pubStmt><date isodate="2023-01-16" type="encoding-date">2023-01-16</date> <publisher>Florence B. Price Works Catalog</publisher>
             <availability>
                <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
             </availability>
@@ -36,9 +36,9 @@
             <score xml:id="sw6n1s2">
                <scoreDef xml:id="seh9xho">
 		<pgHead xml:id="pghead-0000000817018380">
-                     <rend xml:id="rend-0000000025556641" halign="center" valign="top">Symphony no. 4 in D minor</rend>
+                     <rend xml:id="rend-0000000025556641" halign="center" valign="top">Symphony No. 4 in D Minor</rend>
                      <rend xml:id="rend-0000001130540495" halign="center" valign="top">I. Tempo moderato</rend>
-                     <rend xml:id="rend-0000001627785340" halign="right" valign="bottom">Florence Price</rend>
+                     <rend xml:id="rend-0000001627785340" halign="right" valign="bottom">Florence B. Price</rend>
                      <rend xml:id="rend-0000002138482983" halign="left" valign="top"></rend>
                   </pgHead>
                   <staffGrp xml:id="srmwj6q">
@@ -111,7 +111,7 @@
                      <dynam xml:id="d1y7wric" place="below" staff="1" tstamp="1.000000" val="80" vgrp="200">mf</dynam>
                      <hairpin xml:id="hdooqhu" staff="1" tstamp="1.000000" tstamp2="0m+4.5000" form="dim" place="below" vgrp="200" />
                   </measure>
-                  <measure xml:id="m1x5iszq" right="end" n="4">
+                  <measure xml:id="m1x5iszq" right="single" n="4">
                      <staff xml:id="st084no" n="1">
                         <layer xml:id="l1284ucj" n="1">
                            <beam xml:id="blvkx77">

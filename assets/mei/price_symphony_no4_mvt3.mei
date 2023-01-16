@@ -5,19 +5,19 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Symphony no. 4 in D minor</title>
+            <title>Symphony No. 4 in D Minor</title>
             <respStmt>
-               <persName role="composer">Florence Price</persName>
+               <persName role="composer">Florence B. Price</persName>
                <persName role="transcriber">Chet Humphries</persName>
                <persName role="reviewer"></persName>
             </respStmt>
          </titleStmt>
-         <pubStmt><date isodate="2023-01-15" type="encoding-date">2023-01-15</date> <publisher>Rebalancing the Music Canon</publisher>
+         <pubStmt><date isodate="2023-01-15" type="encoding-date">2023-01-15</date> <publisher>Florence B. Price Works Catalog</publisher>
             <availability>
                <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
             </availability>
             <identifier>
-            <ref target="https://rebalancing-music-canon.com/"/>
+            <ref target="https://fbpricecatalog.net"/>
             </identifier>
          </pubStmt>
       </fileDesc>
@@ -36,9 +36,9 @@
             <score xml:id="sw6n1s2">
                <scoreDef xml:id="seh9xho">
 		<pgHead xml:id="pghead-0000000817018380">
-                     <rend xml:id="rend-0000000025556641" halign="center" valign="top">Symphony no. 4 in D minor</rend>
+                     <rend xml:id="rend-0000000025556641" halign="center" valign="top">Symphony No. 4 in D Minor</rend>
                      <rend xml:id="rend-0000001130540495" halign="center" valign="top">III. Juba</rend>
-                     <rend xml:id="rend-0000001627785340" halign="right" valign="bottom">Florence Price</rend>
+                     <rend xml:id="rend-0000001627785340" halign="right" valign="bottom">Florence B. Price</rend>
                      <rend xml:id="rend-0000002138482983" halign="left" valign="top">Violin 1</rend>
                   </pgHead>
                   <staffGrp xml:id="s1lxwa7r">
@@ -137,7 +137,7 @@
                      <slur xml:id="s1kui8p6" startid="#nplsgct" endid="#nek7opm" curvedir="below" />
                      <slur xml:id="s1uk3dq1" startid="#n4binhl" endid="#n6sktm8" curvedir="below" />
                   </measure>
-                  <measure xml:id="mb36cu8" right="end" n="5">
+                  <measure xml:id="mb36cu8" right="single" n="5">
                      <staff xml:id="scbtigj" n="1">
                         <layer xml:id="l1b0pghq" n="1">
                            <beam xml:id="b123atox">
