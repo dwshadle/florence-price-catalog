@@ -5,9 +5,9 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Symphony no. 4 in D minor</title>
+            <title>Symphony No. 4 in D Minor</title>
             <respStmt>
-               <persName role="composer">Florence Price</persName>
+               <persName role="composer">Florence B. Price</persName>
                <persName role="transcriber">Chet Humphries</persName>
                <persName role="reviewer"></persName>
             </respStmt>
@@ -17,7 +17,7 @@
                <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
             </availability>
             <identifier>
-            <ref target="https://rebalancing-music-canon.com/"/>
+            <ref target="https://fbpricecatalog.net/"/>
             </identifier>
          </pubStmt>
       </fileDesc>
