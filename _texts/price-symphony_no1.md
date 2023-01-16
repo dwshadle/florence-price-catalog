@@ -4,10 +4,10 @@ title: Symphony No. 1 in E Minor
 author: Price, Florence B.
 inst: orch
 permalink: /price-symphony-no1/
-document1: price_symphony_no1_mvt1.mei
-document2: price_symphony_no1_mvt2.mei
-document3: price_symphony_no1_mvt3.mei
-document4: price_symphony_no1_mvt4.mei
+documenta: price_symphony_no1_mvt1.mei
+documentb: price_symphony_no1_mvt2.mei
+documentc: price_symphony_no1_mvt3.mei
+documentd: price_symphony_no1_mvt4.mei
 ---
 
 ## Alternate Title
@@ -60,10 +60,10 @@ document4: price_symphony_no1_mvt4.mei
   }
 
   // Create the app - here with an empty option object
-  const app = new Verovio.App(document1.getElementById("app"), options);
+  const app = new Verovio.App(document.getElementById("app"), options);
 
   // Load a file (MEI or MusicXML)
-  fetch("{{site.baseurl}}/assets/mei/{{page.document1}}")
+  fetch("{{site.baseurl}}/assets/mei/{{page.documenta}}")
       .then(function(response) {
           return response.text();
       })
@@ -89,10 +89,10 @@ document4: price_symphony_no1_mvt4.mei
   }
 
   // Create the app - here with an empty option object
-  const app = new Verovio.App(document2.getElementById("app"), options);
+  const app = new Verovio.App(document.getElementById("app"), options);
 
   // Load a file (MEI or MusicXML)
-  fetch("{{site.baseurl}}/assets/mei/{{page.document2}}")
+  fetch("{{site.baseurl}}/assets/mei/{{page.documentb}}")
       .then(function(response) {
           return response.text();
       })
@@ -118,10 +118,10 @@ document4: price_symphony_no1_mvt4.mei
   }
 
   // Create the app - here with an empty option object
-  const app = new Verovio.App(document3.getElementById("app"), options);
+  const app = new Verovio.App(document.getElementById("app"), options);
 
   // Load a file (MEI or MusicXML)
-  fetch("{{site.baseurl}}/assets/mei/{{page.document3}}")
+  fetch("{{site.baseurl}}/assets/mei/{{page.documentc}}")
       .then(function(response) {
           return response.text();
       })
@@ -147,10 +147,10 @@ document4: price_symphony_no1_mvt4.mei
   }
 
   // Create the app - here with an empty option object
-  const app = new Verovio.App(document4.getElementById("app"), options);
+  const app = new Verovio.App(document.getElementById("app"), options);
 
   // Load a file (MEI or MusicXML)
-  fetch("{{site.baseurl}}/assets/mei/{{page.document4}}")
+  fetch("{{site.baseurl}}/assets/mei/{{page.documentd}}")
       .then(function(response) {
           return response.text();
       })
