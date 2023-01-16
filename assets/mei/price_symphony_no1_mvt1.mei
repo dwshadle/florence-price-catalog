@@ -36,7 +36,7 @@
             <score xml:id="score-0000000243611696">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001230989989">
-                     <rend xml:id="rend-0000000642937173" halign="center" valign="top">Symphony no. 1 in E minor</rend>
+                     <rend xml:id="rend-0000000642937173" halign="center" valign="top">Symphony No. 1 in E Minor</rend>
                      <rend xml:id="rend-0000001553710553" halign="center" valign="top">I. Allegro [ma] non troppo</rend>
                      <rend xml:id="rend-0000001574972124" halign="right" valign="bottom">Florence Price</rend>
                      <rend xml:id="rend-0000002139286917" halign="left" valign="top">Violin 1</rend>
