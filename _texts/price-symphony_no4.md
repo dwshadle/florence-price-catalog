@@ -32,8 +32,10 @@ permalink: /price-symphony-no4/
 - <a href="https://www.naxos.com/CatalogueDetail/?id=8.559827" target="_blank">Price: Symphonies Nos. 1 and 4.</a> John Jeter, conductor; Fort Smith Symphony. Naxos Records 8.559827, 2019.
 
 ## Thematic Incipits
-- In Progress
-
+- [Movement I](https://dwshadle.github.io/florence-price-catalog/price-symphony-no4/mvt1)
+- [Movement II](https://dwshadle.github.io/florence-price-catalog/price-symphony-no4/mvt2)
+- [Movement III](https://dwshadle.github.io/florence-price-catalog/price-symphony-no4/mvt3)
+- [Movement IV](https://dwshadle.github.io/florence-price-catalog/price-symphony-no4/mvt4)
 ## Bibliography
 1. Under Construction
 {:.bibliography}
