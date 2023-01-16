@@ -51,7 +51,7 @@ permalink: /price-symphony-no3/
 ## Thematic Incipits
 - [Movement I](https://dwshadle.github.io/florence-price-catalog/price-symphony-no3/mvt1)
 - [Movement II](https://dwshadle.github.io/florence-price-catalog/price-symphony-no3/mvt2)
-- Movement III in progress
+- [Movement III](https://dwshadle.github.io/florence-price-catalog/price-symphony-no3/mvt3)
 - [Movement IV](https://dwshadle.github.io/florence-price-catalog/price-symphony-no3/mvt4)
 
 ## Bibliography
