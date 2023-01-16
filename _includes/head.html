@@ -10,24 +10,7 @@
     
     gtag('config', 'G-52XP81HYV6');
   </script>
-  <!--Verovio Embedding -->
-  <script src="http://www.verovio.org/javascript/latest/verovio-toolkit-wasm.js" defer></script>
-    <script>
-      document.addEventListener("DOMContentLoaded", (event) => {
-          verovio.module.onRuntimeInitialized = async _ => {
-            let tk = new verovio.toolkit();
-            console.log("Verovio has loaded!");
-
-            fetch ("{{site.baseurl}}/assets/mei/{{page.document}}")
-              .then( (response) => response.text() )
-              .then( (meiXML) => {
-                let svg = tk.renderData(meiXML, {});
-                document.getElementById("notation").innerHTML = svg;
-              });
-          }
-      });
-    </script>
-  
+    
   <!-- Canonical link to help search engines -->
   <link rel="canonical" href="{{ resource_url }}" />
 
