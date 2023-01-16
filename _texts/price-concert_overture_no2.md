@@ -20,7 +20,7 @@ permalink: /price-concert-overture-no2/
 
 ## Manuscripts
 - MC988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
-    * Score, complete (January 1&ndash;February 20, 1943): Box 10, Folder 8
+    * Score, complete (January 11, 1943; February 20, 1943): Box 10, Folder 8
 
 ## Premiere Performance
 - Unknown
