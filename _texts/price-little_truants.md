@@ -2,7 +2,7 @@
 layout: page
 title: Little Truants
 author: Price, Florence B.
-inst: piano-teach
+inst: piano-char
 permalink: /price-little-truants/
 document: price_little_truants.mei
 ---
