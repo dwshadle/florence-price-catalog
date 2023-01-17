@@ -100,6 +100,19 @@ Works are organized by instrumentation.
     {% endfor %}
 </ul>
     
+ <h3>Piano - Character Pieces</h3>
+    <ul class="texts">
+    {% for item in site.texts %}
+      {% if item.inst == "piano-char" %}
+          <li class="text-title">
+          <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+              </a>
+    </li>
+      {% endif %}
+    {% endfor %}
+</ul>
+    
  <h3>Piano - Concert Works</h3>
     <ul class="texts">
     {% for item in site.texts %}
@@ -113,19 +126,6 @@ Works are organized by instrumentation.
     {% endfor %}
 </ul>
     
-<h3>Piano - Character Pieces</h3>
-    <ul class="texts">
-    {% for item in site.texts %}
-      {% if item.inst == "piano-char" %}
-          <li class="text-title">
-          <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.title }}
-              </a>
-    </li>
-      {% endif %}
-    {% endfor %}
-</ul>
-
  <h3>Solo Voice and Piano - Arrangements</h3>
     <ul class="texts">
     {% for item in site.texts %}
