@@ -2,7 +2,7 @@
 layout: page
 title: Three Little Negro Dances
 author: Price, Florence B.
-inst: piano-teach
+inst: piano-char
 permalink: /price-three-little-negro-dances/
 ---
 
