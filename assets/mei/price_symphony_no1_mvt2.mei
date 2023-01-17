@@ -7,7 +7,7 @@
          <titleStmt>
             <title>Symphony No. 1 in E Minor, Mvt. II</title>
             <respStmt>
-               <persName role="composer">Florence Price</persName>
+               <persName role="composer">Florence B. Price</persName>
                <persName role="transcriber">Phillip G. Wright</persName>
                <persName role="reviewer">Anna Kijas</persName>
             </respStmt>
@@ -36,26 +36,20 @@
             <score xml:id="score-0000000471769352">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001549907388">
-                     <rend xml:id="rend-0000002021537341" halign="center" valign="top">Symphony no. 1 in E minor</rend>
+                     <rend xml:id="rend-0000002021537341" halign="center" valign="top">Symphony No. 1 in E Minor</rend>
                      <rend xml:id="rend-0000000416216982" halign="center" valign="top">II. Largo, maestoso</rend>
-                     <rend xml:id="rend-0000001055422082" halign="right" valign="bottom">Florence Price</rend>
+                     <rend xml:id="rend-0000001055422082" halign="right" valign="bottom">Florence B. Price</rend>
                      <rend xml:id="rend-0000000794391702" halign="left" valign="top">Horn in F 1</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000001227980260">
-                     <staffGrp xml:id="staffgrp-0000000019148629">
-                        <grpSym xml:id="grpsym-0000001543238636" symbol="bracket" />
-                        <staffGrp xml:id="staffgrp-0000001598019734">
-                           <grpSym xml:id="grpsym-0000002038921238" symbol="bracketsq" />
-                           <staffDef xml:id="P1" n="1" lines="5" ppq="2" trans.diat="-4.000000" trans.semi="-7.000000">
-                              <label xml:id="label-0000001069596888">Horn in F 1, 2</label>
-                              <labelAbbr xml:id="labelAbbr-0000001132701937">F Hn. 1</labelAbbr>
-                              <instrDef xml:id="instrdef-0000001408436049" midi.channel="0" midi.instrnum="60" midi.volume="78.00%" />
-                              <clef xml:id="clef-0000000426094344" shape="G" line="2" />
-                              <keySig xml:id="keysig-0000001789016772" sig="5s" />
-                              <meterSig xml:id="msig-0000000557253410" count="3" unit="2" />
-                           </staffDef>
-                        </staffGrp>
-                     </staffGrp>
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="2" trans.diat="-4.000000" trans.semi="-7.000000">
+                       <label xml:id="label-0000001069596888">Horn in F 1, 2</label>
+                       <labelAbbr xml:id="labelAbbr-0000001132701937">F Hn. 1</labelAbbr>
+                       <instrDef xml:id="instrdef-0000001408436049" midi.channel="0" midi.instrnum="60" midi.volume="78.00%" />
+                       <clef xml:id="clef-0000000426094344" shape="G" line="2" />
+                       <keySig xml:id="keysig-0000001789016772" sig="5s" />
+                       <meterSig xml:id="msig-0000000557253410" count="3" unit="2" />
+                    </staffDef>
                   </staffGrp>
                </scoreDef>
                <section xml:id="section-0000000195135968">
