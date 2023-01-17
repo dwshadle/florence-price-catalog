@@ -7,7 +7,7 @@
          <titleStmt>
             <title>Symphony No. 1 in E Minor, Mvt. IV</title>
             <respStmt>
-               <persName role="composer">Florence Price</persName>
+               <persName role="composer">Florence B. Price</persName>
                <persName role="transcriber">Phillip G. Wright</persName>
                <persName role="reviewer">Anna Kijas</persName>
             </respStmt>
@@ -36,26 +36,20 @@
             <score xml:id="score-0000002132246393">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000002116445122">
-                     <rend xml:id="rend-0000001999217666" halign="center" valign="top">Symphony no. 1 in E minor</rend>
+                     <rend xml:id="rend-0000001999217666" halign="center" valign="top">Symphony No. 1 in E Minor</rend>
                      <rend xml:id="rend-0000001213094868" halign="center" valign="top">IV. Finale</rend>
-                     <rend xml:id="rend-0000001212382649" halign="right" valign="bottom">Florence Price</rend>
+                     <rend xml:id="rend-0000001212382649" halign="right" valign="bottom">Florence B. Price</rend>
                      <rend xml:id="rend-0000001712323930" halign="left" valign="top">Violin 1</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000002000293136">
-                     <staffGrp xml:id="staffgrp-0000000885216942">
-                        <grpSym xml:id="grpsym-0000001092122522" symbol="bracket" />
-                        <staffGrp xml:id="staffgrp-0000001885253112">
-                           <grpSym xml:id="grpsym-0000000182890357" symbol="bracketsq" />
-                           <staffDef xml:id="P1" n="1" lines="5" ppq="2">
-                              <label xml:id="label-0000000357259924">Violin 1</label>
-                              <labelAbbr xml:id="labelAbbr-0000001608522080">Vln. 1</labelAbbr>
-                              <instrDef xml:id="instrdef-0000000085198211" midi.channel="0" midi.instrnum="40" midi.volume="78.00%" />
-                              <clef xml:id="clef-0000000341343581" shape="G" line="2" />
-                              <keySig xml:id="keysig-0000001472362785" sig="1s" />
-                              <meterSig xml:id="msig-0000000581218139" count="6" unit="8" />
-                           </staffDef>
-                        </staffGrp>
-                     </staffGrp>
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                        <label xml:id="label-0000000357259924">Violin 1</label>
+                        <labelAbbr xml:id="labelAbbr-0000001608522080">Vln. 1</labelAbbr>
+                        <instrDef xml:id="instrdef-0000000085198211" midi.channel="0" midi.instrnum="40" midi.volume="78.00%" />
+                        <clef xml:id="clef-0000000341343581" shape="G" line="2" />
+                        <keySig xml:id="keysig-0000001472362785" sig="1s" />
+                        <meterSig xml:id="msig-0000000581218139" count="6" unit="8" />
+                     </staffDef>
                   </staffGrp>
                </scoreDef>
                <section xml:id="section-0000001677366315">
