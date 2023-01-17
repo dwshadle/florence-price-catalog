@@ -49,7 +49,7 @@
                        <clef xml:id="clef-0000000426094344" shape="G" line="2" />
                        <keySig xml:id="keysig-0000001789016772" sig="5s" />
                        <meterSig xml:id="msig-0000000557253410" count="3" unit="2" />
-                    </staffDef>
+                     </staffDef>
                   </staffGrp>
                </scoreDef>
                <section xml:id="section-0000000195135968">
