@@ -113,10 +113,10 @@ Works are organized by instrumentation.
     {% endfor %}
 </ul>
     
-<h3>Piano - Teaching Pieces</h3>
+<h3>Piano - Character Pieces</h3>
     <ul class="texts">
     {% for item in site.texts %}
-      {% if item.inst == "piano-teach" %}
+      {% if item.inst == "piano-char" %}
           <li class="text-title">
           <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
