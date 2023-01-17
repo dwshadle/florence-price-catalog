@@ -2,7 +2,7 @@
 layout: page
 title: Two Busy Little Hands
 author: Price, Florence B.
-inst: piano-teach
+inst: piano-char
 permalink: /price-two-busy-little-hands/
 document: price_two_busy_little_hands.mei
 ---
