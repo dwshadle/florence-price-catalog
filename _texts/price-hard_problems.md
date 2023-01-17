@@ -2,7 +2,7 @@
 layout: page
 title: Hard Problems
 author: Price, Florence B.
-inst: piano-teach
+inst: piano-char
 permalink: /price-hard-problems/
 document: price_hard_problems.mei
 ---
