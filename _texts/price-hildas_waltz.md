@@ -78,7 +78,7 @@ BBB
   }
 
   // Create the app - here with an empty option object
-  const app2 = new Verovio.App(document.getElementById("app2"), options);
+  const app = new Verovio.App(document.getElementById("app2"), options);
 
   // Load a file (MEI or MusicXML)
   fetch("{{site.baseurl}}/assets/mei/{{page.document}}")
@@ -86,7 +86,7 @@ BBB
           return response.text();
       })
       .then(function(text) {
-          app2.loadData(text);
+          app.loadData(text);
       });
 
 ## Bibliography
