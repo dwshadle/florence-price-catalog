@@ -51,7 +51,7 @@ AAA
   // Create the app - here with an empty option object
   const app = new Verovio.App(document.getElementById("app"), options);
 
-  export default app
+ export { options, app };
 
   // Load a file (MEI or MusicXML)
   fetch("{{site.baseurl}}/assets/mei/{{page.document}}")
@@ -66,10 +66,10 @@ AAA
 
 BBB
 <div>
-  <div id="app" class="panel" style="border: 1px solid lightblue; min-height: 200px;"></div>
+  <div class="panel" style="border: 1px solid lightblue; min-height: 200px;"></div>
 </div>
 <script type="module">
-import default app
+import { options, app };
 
 // Load a file (MEI or MusicXML)
   fetch("{{site.baseurl}}/assets/mei/{{page.document}}")
