@@ -4,6 +4,10 @@ title: Symphony No. 3 in C Minor
 author: Price, Florence B.
 inst: orch
 permalink: /price-symphony-no3/
+document: price_symphony_no3_mvt1.mei
+document2: price_symphony_no3_mvt2.mei
+document3: price_symphony_no3_mvt3.mei
+document4: price_symphony_no3_mvt4.mei
 ---
 
 ## Alternate Title
@@ -49,10 +53,121 @@ permalink: /price-symphony-no3/
 - <a href="https://www.deutschegrammophon.com/en/catalogue/products/price-symphonies-nos-1-3-nezet-seguin-12476" target="_blank">Florence Price: Symphonies Nos. 1 and 3.</a> Yannick Nézet-Séguin, conductor; Philadelphia Orchestra. Deutsche Grammophon 4862029, 2022.
 
 ## Thematic Incipits
-- [Movement I](https://dwshadle.github.io/florence-price-catalog/price-symphony-no3/mvt1)
-- [Movement II](https://dwshadle.github.io/florence-price-catalog/price-symphony-no3/mvt2)
-- [Movement III](https://dwshadle.github.io/florence-price-catalog/price-symphony-no3/mvt3)
-- [Movement IV](https://dwshadle.github.io/florence-price-catalog/price-symphony-no3/mvt4)
+I
+<div>
+  <div id="incipit1" class="panel" style="border: 1px solid lightblue; min-height: 200px;"></div>
+</div>
+
+<script type="module">
+  import 'https://www.verovio.org/javascript/app/verovio-app.js';
+
+  const options = {
+      defaultView: 'responsive', // default is 'responsive', alternative is 'document'
+      defaultZoom: 3, // 0-7, default is 4
+      enableResponsive: true, // default is true
+      enableDocument: true, // default is true
+  }
+
+  // Create the app - here with an empty option object
+  const app = new Verovio.App(document.getElementById("incipit1"), options);
+
+  // Load a file (MEI or MusicXML)
+  fetch("{{site.baseurl}}/assets/mei/{{page.document}}")
+      .then(function(response) {
+          return response.text();
+      })
+      .then(function(text) {
+          app.loadData(text);
+      });
+
+</script>
+<br>
+II
+<div>
+  <div id="incipit2" class="panel" style="border: 1px solid lightblue; min-height: 200px;"></div>
+</div>
+
+<script type="module">
+  import 'https://www.verovio.org/javascript/app/verovio-app.js';
+
+  const options = {
+      defaultView: 'responsive', // default is 'responsive', alternative is 'document'
+      defaultZoom: 3, // 0-7, default is 4
+      enableResponsive: true, // default is true
+      enableDocument: true, // default is true
+  }
+
+  // Create the app - here with an empty option object
+  const app = new Verovio.App(document.getElementById("incipit2"), options);
+
+  // Load a file (MEI or MusicXML)
+  fetch("{{site.baseurl}}/assets/mei/{{page.document2}}")
+      .then(function(response) {
+          return response.text();
+      })
+      .then(function(text) {
+          app.loadData(text);
+      });
+
+</script>
+<br>
+III
+<div>
+  <div id="incipit3" class="panel" style="border: 1px solid lightblue; min-height: 200px;"></div>
+</div>
+
+<script type="module">
+  import 'https://www.verovio.org/javascript/app/verovio-app.js';
+
+  const options = {
+      defaultView: 'responsive', // default is 'responsive', alternative is 'document'
+      defaultZoom: 3, // 0-7, default is 4
+      enableResponsive: true, // default is true
+      enableDocument: true, // default is true
+  }
+
+  // Create the app - here with an empty option object
+  const app = new Verovio.App(document.getElementById("incipit3"), options);
+
+  // Load a file (MEI or MusicXML)
+  fetch("{{site.baseurl}}/assets/mei/{{page.document3}}")
+      .then(function(response) {
+          return response.text();
+      })
+      .then(function(text) {
+          app.loadData(text);
+      });
+
+</script>
+<br>
+IV
+<div>
+  <div id="incipit4" class="panel" style="border: 1px solid lightblue; min-height: 200px;"></div>
+</div>
+
+<script type="module">
+  import 'https://www.verovio.org/javascript/app/verovio-app.js';
+
+  const options = {
+      defaultView: 'responsive', // default is 'responsive', alternative is 'document'
+      defaultZoom: 3, // 0-7, default is 4
+      enableResponsive: true, // default is true
+      enableDocument: true, // default is true
+  }
+
+  // Create the app - here with an empty option object
+  const app = new Verovio.App(document.getElementById("incipit4"), options);
+
+  // Load a file (MEI or MusicXML)
+  fetch("{{site.baseurl}}/assets/mei/{{page.document4}}")
+      .then(function(response) {
+          return response.text();
+      })
+      .then(function(text) {
+          app.loadData(text);
+      });
+
+</script>
 
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
