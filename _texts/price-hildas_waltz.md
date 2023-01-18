@@ -33,14 +33,12 @@ document: price_hildas_waltz.mei
 - <a href="https://www.albanyrecords.com/mm5/merchant.mvc?Screen=PROD&Product_Code=TROY1910-12" target="_black">*Bach to Black: Suites for Piano, Vol. II.*</a> Rochelle Sennet, piano. Albany Records TROY1910-12, 2022.
 
 ## Thematic Incipit
-<div id="incipit1"></div>
-<script src="http://www.verovio.org/javascript/latest/verovio-toolkit-wasm.js" defer></script>
-    <script>
+<script type="module">
+import 'http://www.verovio.org/javascript/latest/verovio-toolkit-wasm.js'
       document.addEventListener("DOMContentLoaded", (event) => {
           verovio.module.onRuntimeInitialized = async _ => {
             let tk = new verovio.toolkit();
-            console.log("Verovio has loaded!");
-
+            
             fetch("{{site.baseurl}}/assets/mei/{{page.document}}")
               .then( (response) => response.text() )
               .then( (meiXML) => {
@@ -49,7 +47,8 @@ document: price_hildas_waltz.mei
               });
           }
       });
-    </script>
+</script>
+<div id="incipit1"></div>
 
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
