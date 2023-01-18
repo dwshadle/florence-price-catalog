@@ -5,6 +5,7 @@ author: Price, Florence B.
 inst: piano-char
 permalink: /price-hildas-waltz/
 document: price_hildas_waltz.mei
+document2: price_in_quiet_mood.mei
 ---
 
 ## Alternate Title
@@ -81,7 +82,7 @@ BBB
   const app = new Verovio.App(document.getElementById("incipit2"), options);
 
   // Load a file (MEI or MusicXML)
-  fetch("{{site.baseurl}}/assets/mei/{{page.document}}")
+  fetch("{{site.baseurl}}/assets/mei/{{page.document2}}")
       .then(function(response) {
           return response.text();
       })
