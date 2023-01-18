@@ -36,7 +36,7 @@ document2: price_in_romance_land.mei
 ## Thematic Incipit
 AAA
 <div>
-  <div id="incipit1" class="panel" style="border: 1px solid lightblue; min-height: 200px; padding-bottom: 5px"></div>
+  <div id="incipit1" class="panel" style="border: 1px solid lightblue; min-height: 200px; padding-bottom: 10px;"></div>
 </div>
 
 <script type="module">
