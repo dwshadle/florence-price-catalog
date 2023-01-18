@@ -27,7 +27,7 @@ permalink: /price-my-souls-been-anchored/
 ## Published Editions
 - <a href="https://www.worldcat.org/title/83241985" target="_blank">*My Soul's Been Anchored in the Lord.*</a> New York: Remick Music, 1937.[^fn1]
 - <a href="https://www.worldcat.org/title/22470542" target="_blank">*My Soul's Been Anchored in the Lord.*</a> Chicago: Gamble Hinged Music Co., 1937.
-- Taylor, Vivian, ed. <a href=https://www.worldcat.org/title/680422390" target="_blank">*Art Songs and Spirituals by African-American Woman Composers.*</a> Bryn Mawr, PA: Hildegard Publishing Co., 1995.
+- Taylor, Vivian, ed. <a href="https://www.worldcat.org/title/680422390" target="_blank">*Art Songs and Spirituals by African-American Woman Composers.*</a> Bryn Mawr, PA: Hildegard Publishing Co., 1995.
 
 ## Recordings
 - 
