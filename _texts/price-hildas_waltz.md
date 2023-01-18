@@ -79,7 +79,7 @@ BBB
   }
 
   // Create the app - here with an empty option object
-  const app = new Verovio.App(document.getElementById("incipit2"), options);
+  const app = new Verovio.App(document2.getElementById("incipit2"), options);
 
   // Load a file (MEI or MusicXML)
   fetch("{{site.baseurl}}/assets/mei/{{page.document2}}")
