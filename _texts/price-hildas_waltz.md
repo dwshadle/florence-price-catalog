@@ -35,7 +35,7 @@ document: price_hildas_waltz.mei
 ## Thematic Incipit
 AAA
 <div>
-  <div id="Doug" class="panel" style="border: 1px solid lightblue; min-height: 200px;"></div>
+  <div id="incipit1" class="panel" style="border: 1px solid lightblue; min-height: 200px;"></div>
 </div>
 
 <script type="module">
@@ -49,7 +49,36 @@ AAA
   }
 
   // Create the app - here with an empty option object
-  const app = new Verovio.App(document.getElementById("Doug"), options);
+  const app = new Verovio.App(document.getElementById("incipit1"), options);
+
+  // Load a file (MEI or MusicXML)
+  fetch("{{site.baseurl}}/assets/mei/{{page.document}}")
+      .then(function(response) {
+          return response.text();
+      })
+      .then(function(text) {
+          app.loadData(text);
+      });
+
+</script>
+
+BBB
+<div>
+  <div id="incipit2" class="panel" style="border: 1px solid lightblue; min-height: 200px;"></div>
+</div>
+
+<script type="module">
+  import 'https://www.verovio.org/javascript/app/verovio-app.js';
+
+  const options = {
+      defaultView: 'responsive', // default is 'responsive', alternative is 'document'
+      defaultZoom: 3, // 0-7, default is 4
+      enableResponsive: true, // default is true
+      enableDocument: true, // default is true
+  }
+
+  // Create the app - here with an empty option object
+  const app = new Verovio.App(document.getElementById("incipit2"), options);
 
   // Load a file (MEI or MusicXML)
   fetch("{{site.baseurl}}/assets/mei/{{page.document}}")
