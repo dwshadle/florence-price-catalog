@@ -51,6 +51,8 @@ AAA
   // Create the app - here with an empty option object
   const app = new Verovio.App(document.getElementById("app"), options);
 
+  export default app
+
   // Load a file (MEI or MusicXML)
   fetch("{{site.baseurl}}/assets/mei/{{page.document}}")
       .then(function(response) {
@@ -59,6 +61,7 @@ AAA
       .then(function(text) {
           app.loadData(text);
       });
+
 </script>
 
 BBB
@@ -66,7 +69,9 @@ BBB
   <div id="app" class="panel" style="border: 1px solid lightblue; min-height: 200px;"></div>
 </div>
 <script type="module">
- // Load a file (MEI or MusicXML)
+import default app
+
+// Load a file (MEI or MusicXML)
   fetch("{{site.baseurl}}/assets/mei/{{page.document}}")
       .then(function(response) {
           return response.text();
