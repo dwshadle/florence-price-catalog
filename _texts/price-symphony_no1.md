@@ -4,10 +4,6 @@ title: Symphony No. 1 in E Minor
 author: Price, Florence B.
 inst: orch
 permalink: /price-symphony-no1/
-document: price_symphony_no1_mvt1.mei
-document2: price_symphony_no1_mvt2.mei
-document3: price_symphony_no1_mvt3.mei
-document4: price_symphony_no1_mvt4.mei
 ---
 
 ## Alternate Title
@@ -43,121 +39,10 @@ document4: price_symphony_no1_mvt4.mei
 - <a href="https://www.deutschegrammophon.com/en/catalogue/products/price-symphonies-nos-1-3-nezet-seguin-12476" target="_blank">Florence Price: Symphonies Nos. 1 and 3.</a> Yannick Nézet-Séguin, conductor; Philadelphia Orchestra. Deutsche Grammophon 4862029, 2022.
 
 ## Thematic Incipits
-I
-<div>
-  <div id="incipit1" class="panel" style="border: 1px solid lightblue; min-height: 200px;"></div>
-</div>
-
-<script type="module">
-  import 'https://www.verovio.org/javascript/app/verovio-app.js';
-
-  const options = {
-      defaultView: 'responsive', // default is 'responsive', alternative is 'document'
-      defaultZoom: 3, // 0-7, default is 4
-      enableResponsive: true, // default is true
-      enableDocument: true, // default is true
-  }
-
-  // Create the app - here with an empty option object
-  const app = new Verovio.App(document.getElementById("incipit1"), options);
-
-  // Load a file (MEI or MusicXML)
-  fetch("{{site.baseurl}}/assets/mei/{{page.document}}")
-      .then(function(response) {
-          return response.text();
-      })
-      .then(function(text) {
-          app.loadData(text);
-      });
-
-</script>
-<br>
-II
-<div>
-  <div id="incipit2" class="panel" style="border: 1px solid lightblue; min-height: 200px;"></div>
-</div>
-
-<script type="module">
-  import 'https://www.verovio.org/javascript/app/verovio-app.js';
-
-  const options = {
-      defaultView: 'responsive', // default is 'responsive', alternative is 'document'
-      defaultZoom: 3, // 0-7, default is 4
-      enableResponsive: true, // default is true
-      enableDocument: true, // default is true
-  }
-
-  // Create the app - here with an empty option object
-  const app = new Verovio.App(document.getElementById("incipit2"), options);
-
-  // Load a file (MEI or MusicXML)
-  fetch("{{site.baseurl}}/assets/mei/{{page.document2}}")
-      .then(function(response) {
-          return response.text();
-      })
-      .then(function(text) {
-          app.loadData(text);
-      });
-
-</script>
-<br>
-III
-<div>
-  <div id="incipit3" class="panel" style="border: 1px solid lightblue; min-height: 200px;"></div>
-</div>
-
-<script type="module">
-  import 'https://www.verovio.org/javascript/app/verovio-app.js';
-
-  const options = {
-      defaultView: 'responsive', // default is 'responsive', alternative is 'document'
-      defaultZoom: 3, // 0-7, default is 4
-      enableResponsive: true, // default is true
-      enableDocument: true, // default is true
-  }
-
-  // Create the app - here with an empty option object
-  const app = new Verovio.App(document.getElementById("incipit3"), options);
-
-  // Load a file (MEI or MusicXML)
-  fetch("{{site.baseurl}}/assets/mei/{{page.document3}}")
-      .then(function(response) {
-          return response.text();
-      })
-      .then(function(text) {
-          app.loadData(text);
-      });
-
-</script>
-<br>
-IV
-<div>
-  <div id="incipit4" class="panel" style="border: 1px solid lightblue; min-height: 200px;"></div>
-</div>
-
-<script type="module">
-  import 'https://www.verovio.org/javascript/app/verovio-app.js';
-
-  const options = {
-      defaultView: 'responsive', // default is 'responsive', alternative is 'document'
-      defaultZoom: 3, // 0-7, default is 4
-      enableResponsive: true, // default is true
-      enableDocument: true, // default is true
-  }
-
-  // Create the app - here with an empty option object
-  const app = new Verovio.App(document.getElementById("incipit4"), options);
-
-  // Load a file (MEI or MusicXML)
-  fetch("{{site.baseurl}}/assets/mei/{{page.document4}}")
-      .then(function(response) {
-          return response.text();
-      })
-      .then(function(text) {
-          app.loadData(text);
-      });
-
-</script>
+- [Movement I](/price-symphony-no1/mvt1/)
+- [Movement II](/price-symphony-no1/mvt2/)
+- [Movement III](/price-symphony-no1/mvt3/)
+- [Movement IV](/price-symphony-no1/mvt4/)
 
 ## Bibliography
 1. Brown, Rae Linda. "Florence B. Price and Margaret Bonds: The Chicago Years." *Black Music Research Journal* 12 (<a href="https://digitalcommons.colum.edu/cbmrnews/31/" target="_blank">Fall 1990</a>): 11&ndash;14.

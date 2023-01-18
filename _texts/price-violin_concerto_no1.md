@@ -4,9 +4,6 @@ title: Violin Concerto No. 1 in D Major
 author: Price, Florence B.
 inst: orch-inst
 permalink: /price-violin-concerto-no1/
-document: price_violin_concerto_no1_mvt1.mei
-document2: price_violin_concerto_no1_mvt2.mei
-document3: price_violin_concerto_no1_mvt3.mei
 ---
 
 ## Alternate Title
@@ -40,92 +37,9 @@ document3: price_violin_concerto_no1_mvt3.mei
 - <a href="https://www.albanyrecords.com/mm5/merchant.mvc?Screen=PROD&Product_Code=TROY1706" target="_blank">Florence Price: Violin Concertos.</a> Er-Gene Kahng, violin; Ryan Cockerham, conductor; The Janáček Philharmonic Orchestra. Albany Records TROY1706, 2018.
 
 ## Thematic Incipits
-I
-<div>
-  <div id="incipit1" class="panel" style="border: 1px solid lightblue; min-height: 200px;"></div>
-</div>
-
-<script type="module">
-  import 'https://www.verovio.org/javascript/app/verovio-app.js';
-
-  const options = {
-      defaultView: 'responsive', // default is 'responsive', alternative is 'document'
-      defaultZoom: 3, // 0-7, default is 4
-      enableResponsive: true, // default is true
-      enableDocument: true, // default is true
-  }
-
-  // Create the app - here with an empty option object
-  const app = new Verovio.App(document.getElementById("incipit1"), options);
-
-  // Load a file (MEI or MusicXML)
-  fetch("{{site.baseurl}}/assets/mei/{{page.document}}")
-      .then(function(response) {
-          return response.text();
-      })
-      .then(function(text) {
-          app.loadData(text);
-      });
-
-</script>
-<br>
-II
-<div>
-  <div id="incipit2" class="panel" style="border: 1px solid lightblue; min-height: 200px;"></div>
-</div>
-
-<script type="module">
-  import 'https://www.verovio.org/javascript/app/verovio-app.js';
-
-  const options = {
-      defaultView: 'responsive', // default is 'responsive', alternative is 'document'
-      defaultZoom: 3, // 0-7, default is 4
-      enableResponsive: true, // default is true
-      enableDocument: true, // default is true
-  }
-
-  // Create the app - here with an empty option object
-  const app = new Verovio.App(document.getElementById("incipit2"), options);
-
-  // Load a file (MEI or MusicXML)
-  fetch("{{site.baseurl}}/assets/mei/{{page.document2}}")
-      .then(function(response) {
-          return response.text();
-      })
-      .then(function(text) {
-          app.loadData(text);
-      });
-
-</script>
-<br>
-III
-<div>
-  <div id="incipit3" class="panel" style="border: 1px solid lightblue; min-height: 200px;"></div>
-</div>
-
-<script type="module">
-  import 'https://www.verovio.org/javascript/app/verovio-app.js';
-
-  const options = {
-      defaultView: 'responsive', // default is 'responsive', alternative is 'document'
-      defaultZoom: 3, // 0-7, default is 4
-      enableResponsive: true, // default is true
-      enableDocument: true, // default is true
-  }
-
-  // Create the app - here with an empty option object
-  const app = new Verovio.App(document.getElementById("incipit3"), options);
-
-  // Load a file (MEI or MusicXML)
-  fetch("{{site.baseurl}}/assets/mei/{{page.document3}}")
-      .then(function(response) {
-          return response.text();
-      })
-      .then(function(text) {
-          app.loadData(text);
-      });
-
-</script>
+- [Movement I](/price-violin-concerto-no1/mvt1/)
+- [Movement II](/price-violin-concerto-no1/mvt2/)
+- [Movement III](/price-violin-concerto-no1/mvt3/)
 
 ## Bibliography
 1. Baranello, Micaela. "<a href="https://www.nytimes.com/2018/02/09/arts/music/florence-price-arkansas-symphony-concerto.html" target="_blank">Welcoming a Black Female Composer into the Canon. Finally.</a>" *New York Times*, February 9, 2018.
