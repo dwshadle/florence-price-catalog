@@ -5,7 +5,6 @@ author: Price, Florence B.
 inst: piano-char
 permalink: /price-hildas-waltz/
 document: price_hildas_waltz.mei
-document2: price_in_romance_land.mei
 ---
 
 ## Alternate Title
@@ -34,9 +33,8 @@ document2: price_in_romance_land.mei
 - <a href="https://www.albanyrecords.com/mm5/merchant.mvc?Screen=PROD&Product_Code=TROY1910-12" target="_black">*Bach to Black: Suites for Piano, Vol. II.*</a> Rochelle Sennet, piano. Albany Records TROY1910-12, 2022.
 
 ## Thematic Incipit
-AAA
 <div>
-  <div id="incipit1" class="panel" style="border: 1px solid lightblue; min-height: 200px;"></div>
+  <div id="app" class="panel" style="border: 1px solid lightblue; min-height: 200px;"></div>
 </div>
 
 <script type="module">
@@ -50,39 +48,10 @@ AAA
   }
 
   // Create the app - here with an empty option object
-  const app = new Verovio.App(document.getElementById("incipit1"), options);
+  const app = new Verovio.App(document.getElementById("app"), options);
 
   // Load a file (MEI or MusicXML)
   fetch("{{site.baseurl}}/assets/mei/{{page.document}}")
-      .then(function(response) {
-          return response.text();
-      })
-      .then(function(text) {
-          app.loadData(text);
-      });
-
-</script>
-<br>
-BBB
-<div>
-  <div id="incipit2" class="panel" style="border: 1px solid lightblue; min-height: 200px;"></div>
-</div>
-
-<script type="module">
-  import 'https://www.verovio.org/javascript/app/verovio-app.js';
-
-  const options = {
-      defaultView: 'responsive', // default is 'responsive', alternative is 'document'
-      defaultZoom: 3, // 0-7, default is 4
-      enableResponsive: true, // default is true
-      enableDocument: true, // default is true
-  }
-
-  // Create the app - here with an empty option object
-  const app = new Verovio.App(document.getElementById("incipit2"), options);
-
-  // Load a file (MEI or MusicXML)
-  fetch("{{site.baseurl}}/assets/mei/{{page.document2}}")
       .then(function(response) {
           return response.text();
       })
