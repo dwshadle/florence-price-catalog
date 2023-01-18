@@ -32,10 +32,10 @@ permalink: /price-symphony-no4/
 - <a href="https://www.naxos.com/CatalogueDetail/?id=8.559827" target="_blank">Price: Symphonies Nos. 1 and 4.</a> John Jeter, conductor; Fort Smith Symphony. Naxos Records 8.559827, 2019.
 
 ## Thematic Incipits
-- [Movement I](/price-symphony-no4/mvt1/)
-- [Movement II](/price-symphony-no4/mvt2/)
-- [Movement III](/price-symphony-no4/mvt3/)
-- [Movement IV](/price-symphony-no4/mvt4/)
+- [Movement I](/price-symphony-no4/mvt1)
+- [Movement II](/price-symphony-no4/mvt2)
+- [Movement III](/price-symphony-no4/mvt3)
+- [Movement IV](/price-symphony-no4/mvt4)
 
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
