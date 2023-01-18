@@ -7,7 +7,7 @@ permalink: /price-my-souls-been-anchored-orch/
 ---
 
 ## Alternate Title
-- See also "My Soul's Been Anchored in the Lord" (solo voice and piano)
+- See also "[My Soul's Been Anchored in the Lord](/price-my-souls-been-anchored/)" (solo voice and piano)
 
 ## Composition Year
 - 
