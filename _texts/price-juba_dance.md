@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Juba Dance
+title: Juba Dance (from Symphony No. 1)
 author: Price, Florence B.
 inst: band
 permalink: /price-juba-dance/
 ---
 
 ## Alternate Title
-- See [Symphony No. 1](/price-symphony-no1)
+- See [Symphony No. 1 in E Minor](/price-symphony-no1)
 
 ## Composition Year
-- 
+- 1931-32
 
 ## Instrumentation
 - 
