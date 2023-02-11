@@ -25,8 +25,8 @@ permalink: /price-fantasie-negre-no1/
     * Score (February 9&ndash;10, 1929): Call # <a href="https://lccn.loc.gov/91757007" target="_blank">ML96.P8328 no. 8</a>
 
 ## Premiere Performance
-- August 27, 1930 (*Negro Fantasy*); Metropolitan Community Church, Chicago; Margaret Bonds, piano[^fn1]
-- December 9, 1932 (*Fantasie Nègre*); Stevens Hotel, Chicago; Florence B. Price and Margaret Bonds, piano[^fn2]
+- August 28, 1930; Metropolitan Community Church, Chicago; Margaret Bonds, piano[^fn1]
+- December 9, 1932; Stevens Hotel, Chicago; Florence B. Price and Margaret Bonds, piano[^fn2]
 
 ## Published Editions
 - Walker-Hill, Helen, ed. <a href="https://www.hildegard.com/catalog.php?keyword=490-01070" target="_blank">*Black Women Composers: A Century of Piano Music (1893&ndash;1990).*</a> Bryn Mawr, PA: Hildegard Publishing Company, 1992.
@@ -52,5 +52,5 @@ permalink: /price-fantasie-negre-no1/
 ---
 
 ## Notes
-[^fn1]: According to the *Norfolk Journal and Guide* (September 6, 1930), this performance occurred at the twelfth annual convention of the National Association of Negro Musicians.
+[^fn1]: This performance occurred at the twelfth annual convention of the National Association of Negro Musicians.
 [^fn2]: On this occasion, Price used the work to accompany a ballet performed by the Negro Dance Group founded by Katherine Dunham. According to the national edition of the *Chicago Defender* (December 24, 1932), Ludmilla Speranzeva decided to choreograph the piece after hearing Margaret Bonds play it. 
