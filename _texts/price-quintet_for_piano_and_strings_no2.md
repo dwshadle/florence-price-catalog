@@ -7,7 +7,7 @@ permalink: /price-quintet-for-piano-and-strings-no2/
 ---
 
 ## Alternate Title
-- 
+- Piano Quintet in E Minor
 
 ## Composition Year
 - 
@@ -16,7 +16,7 @@ permalink: /price-quintet-for-piano-and-strings-no2/
 - 2 vln, vla, vcl, pno
 
 ## Length
-- 
+- 9 min
 
 ## Manuscripts
 - 
@@ -28,7 +28,7 @@ permalink: /price-quintet-for-piano-and-strings-no2/
 - 
 
 ## Recordings
-- 
+- *Uncovered, Vol 2: Florence Price.* Catalyst Quartet. Azica Records Azica71346, 2022.
 
 ## Thematic Incipits
 - In progress
