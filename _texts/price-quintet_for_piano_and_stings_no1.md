@@ -16,7 +16,7 @@ permalink: /price-quintet-for-piano-and-strings-no1/
 - 2 vln, vla, vcl, pno
 
 ## Length
-- 
+- 27 min
 
 ## Manuscripts
 - 
@@ -25,10 +25,10 @@ permalink: /price-quintet-for-piano-and-strings-no1/
 - 
 
 ## Published Editions
-- 
+- Jensen-Abbott, Lia, ed. *Quintet in A Minor for Strings & Piano.* Fayetteville, AR: :ClarNan Editions, 2021.
 
 ## Recordings
-- 
+- *Uncovered, Vol 2: Florence Price.* Catalyst Quartet. Azica Records Azica71346, 2022.
 
 ## Thematic Incipits
 - In progress
