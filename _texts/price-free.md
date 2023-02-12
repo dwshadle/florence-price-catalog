@@ -1,9 +1,9 @@
 ---
 layout: page
-title: A Flea and a Fly (from Four Encore Songs)
+title: Free
 author: Price, Florence B.
 inst: pno-voice-orig
-permalink: /price-a-flea-and-a-fly/
+permalink: /price-free/
 ---
 
 ## Alternate Title

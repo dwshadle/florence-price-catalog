@@ -1,9 +1,9 @@
 ---
 layout: page
-title: A Flea and a Fly (from Four Encore Songs)
+title: Song of the Open Road (from Four Encore Songs)
 author: Price, Florence B.
 inst: pno-voice-orig
-permalink: /price-a-flea-and-a-fly/
+permalink: /price-song-of-the-open-road/
 ---
 
 ## Alternate Title

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: A Flea and a Fly (from Four Encore Songs)
+title: God Gives Me You
 author: Price, Florence B.
 inst: pno-voice-orig
-permalink: /price-a-flea-and-a-fly/
+permalink: /price-god-gives-me-you/
 ---
 
 ## Alternate Title
