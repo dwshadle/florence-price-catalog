@@ -9,19 +9,6 @@ Works are organized by instrumentation.
 
 <div class="toc">
 
-<h3>Band</h3>
-    <ul class="texts">
-    {% for item in site.texts %}
-      {% if item.inst == "band" %}
-          <li class="text-title">
-          <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.title }}
-              </a>
-    </li>
-      {% endif %}
-    {% endfor %}
-</ul>
-    
 <h3>Chamber Music-Instrumental</h3>
     <ul class="texts">
     {% for item in site.texts %}
@@ -65,6 +52,19 @@ Works are organized by instrumentation.
     <ul class="texts">
     {% for item in site.texts %}
       {% if item.inst == "chor-pno" %}
+          <li class="text-title">
+          <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+              </a>
+    </li>
+      {% endif %}
+    {% endfor %}
+</ul>
+
+<h3>Concert Band</h3>
+    <ul class="texts">
+    {% for item in site.texts %}
+      {% if item.inst == "band" %}
           <li class="text-title">
           <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
