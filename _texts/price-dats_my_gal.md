@@ -18,6 +18,9 @@ permalink: /price-dats-my-gal/
 ## Length
 - 
 
+## Lyricist and Source
+-
+
 ## Manuscripts
 - 
 

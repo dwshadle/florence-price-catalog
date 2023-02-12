@@ -18,6 +18,9 @@ permalink: /price-bright-be-the-place/
 ## Length
 - 
 
+## Lyricist and Source
+-
+
 ## Manuscripts
 - 
 

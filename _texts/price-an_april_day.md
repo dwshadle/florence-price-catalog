@@ -18,6 +18,9 @@ permalink: /price-an-april-day/
 ## Length
 - 
 
+## Lyricist and Source
+-
+
 ## Manuscripts
 - 
 

@@ -18,6 +18,9 @@ permalink: /price-dont-blame-it-on-the-moonlight/
 ## Length
 - 
 
+## Lyricist and Source
+-
+
 ## Manuscripts
 - 
 

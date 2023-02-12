@@ -18,6 +18,9 @@ permalink: /price-dawns-awakening/
 ## Length
 - 
 
+## Lyricist and Source
+-
+
 ## Manuscripts
 - 
 
