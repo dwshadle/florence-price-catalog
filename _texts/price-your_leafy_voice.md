@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Night
+title: Your Leafy Voice
 author: Price, Florence B.
 inst: pno-voice-orig
-permalink: /price-night/
+permalink: /price-your-leafy-voice/
 ---
 
 ## Alternate Title
 - 
 
 ## Composition Year
-- 
+- 1946
 
 ## Instrumentation
 - 
