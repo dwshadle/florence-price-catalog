@@ -32,7 +32,7 @@ permalink: /price-symphony-no1/
     * OCLC: <a href="https://www.worldcat.org/title/277150358" target="_blank">277150358</a>
     * Google Books: <a href="https://www.google.com/books/edition/Symphonies_nos_1_and_3/9lzwS6YzrG8C" target="_blank">Introduction only</a>
 - <a href="https://www.wisemusicclassical.com/work/58893/Symphony-No-1-in-E-minor--Florence-Price/" target="_blank">*Symphony No. 1 in E Minor.*</a> New York, NY: G. Schirmer, Inc., 2019.
-- Movement III only (concert band): Bocook, Jay, arr. *Juba Dance.* New York: G. Schirmer, Inc., 2022.
+- Movement III only (concert band): Bocook, Jay, arr. <a href="https://www.halleonard.com/product/50605200/juba-dance-from-symphony-no-1" target="_blank">*Juba Dance.*</a> New York: G. Schirmer, Inc., 2022.
 
 ## Recordings
 - <a href="https://www.albanyrecords.com/mm5/merchant.mvc?Screen=PROD&Product_Code=TROY1295" target="_blank">Florence B Price: Concerto in One Movement/Symphony in E Minor.</a> Karen Walwyn, piano; Leslie B. Dunner, conductor; New Black Music Repertory Ensemble. Albany Records TROY 1295, 2011.
