@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A Song of Living
+title: Song of Living
 author: Price, Florence B.
 inst: pno-voice-orig
 permalink: /price-song-of-living/
