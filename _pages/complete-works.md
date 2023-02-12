@@ -22,10 +22,49 @@ Works are organized by instrumentation.
     {% endfor %}
 </ul>
     
-<h3>Chamber Music - Instrumental</h3>
+<h3>Chamber Music-Instrumental</h3>
     <ul class="texts">
     {% for item in site.texts %}
       {% if item.inst == "cham-inst" %}
+          <li class="text-title">
+          <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+              </a>
+    </li>
+      {% endif %}
+    {% endfor %}
+</ul>
+
+<h3>Chorus A Cappella</h3>
+    <ul class="texts">
+    {% for item in site.texts %}
+      {% if item.inst == "chorus" %}
+          <li class="text-title">
+          <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+              </a>
+    </li>
+      {% endif %}
+    {% endfor %}
+</ul>
+
+<h3>Chorus and Chamber Ensemble</h3>
+    <ul class="texts">
+    {% for item in site.texts %}
+      {% if item.inst == "chor-inst" %}
+          <li class="text-title">
+          <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+              </a>
+    </li>
+      {% endif %}
+    {% endfor %}
+</ul>
+
+<h3>Chorus and Piano</h3>
+    <ul class="texts">
+    {% for item in site.texts %}
+      {% if item.inst == "chor-pno" %}
           <li class="text-title">
           <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
@@ -100,7 +139,7 @@ Works are organized by instrumentation.
     {% endfor %}
 </ul>
     
- <h3>Piano - Character Pieces</h3>
+ <h3>Piano-Character Pieces</h3>
     <ul class="texts">
     {% for item in site.texts %}
       {% if item.inst == "piano-char" %}
@@ -113,7 +152,7 @@ Works are organized by instrumentation.
     {% endfor %}
 </ul>
     
- <h3>Piano - Concert Works</h3>
+ <h3>Piano-Concert Works</h3>
     <ul class="texts">
     {% for item in site.texts %}
       {% if item.inst == "piano-conc" %}
@@ -126,7 +165,7 @@ Works are organized by instrumentation.
     {% endfor %}
 </ul>
     
- <h3>Solo Voice and Piano - Arrangements</h3>
+ <h3>Solo Voice and Piano-Arrangements</h3>
     <ul class="texts">
     {% for item in site.texts %}
       {% if item.inst == "pno-voice-arr" %}
@@ -139,7 +178,7 @@ Works are organized by instrumentation.
     {% endfor %}
 </ul>
     
- <h3>Solo Voice and Piano - Original</h3>
+ <h3>Solo Voice and Piano-Original</h3>
     <ul class="texts">
     {% for item in site.texts %}
       {% if item.inst == "pno-voice-orig" %}
