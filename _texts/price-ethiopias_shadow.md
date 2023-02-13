@@ -37,7 +37,7 @@ permalink: /price-ethiopias-shadow/
 ## Thematic Incipits
 - [Movement I](/price-ethiopias-shadow/mvt1)
 - [Movement II](/price-ethiopias-shadow/mvt2)
-- [Movement Iii](/price-ethiopias-shadow/mvt3)
+- [Movement III](/price-ethiopias-shadow/mvt3)
 
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
