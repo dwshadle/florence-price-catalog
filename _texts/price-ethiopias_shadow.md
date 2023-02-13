@@ -35,7 +35,9 @@ permalink: /price-ethiopias-shadow/
 - <a href="https://www.avie-records.com/releases/works-by-florence-price-valerie-coleman-jessie-montgomery/" target="_blank">Works by Florence Price, Jessie Montgomery, Valerie Coleman.</a> Michael Repper, conductor; New York Youth Symphony. Avie Records AC2503, 2022.
 
 ## Thematic Incipits
-- In Progress
+- [Movement I](/price-ethiopias-shadow/mvt1)
+- [Movement II](/price-ethiopias-shadow/mvt2)
+- [Movement Iii](/price-ethiopias-shadow/mvt3)
 
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
