@@ -41,7 +41,11 @@ permalink: /price-five-folksongs-in-counterpoint/
 - *Uncovered, Vol 2: Florence Price.* Catalyst Quartet. Azica Records Azica71346, 2022.
 
 ## Thematic Incipits
-- In progress
+- [Movement I](/price-five-folksongs-in-counterpoint/mvt1)
+- [Movement II](/price-five-folksongs-in-counterpoint/mvt2)
+- [Movement III](/price-five-folksongs-in-counterpoint/mvt3)
+- [Movement IV](/price-five-folksongs-in-counterpoint/mvt4)
+- [Movement V](/price-five-folksongs-in-counterpoint/mvt5)
 
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
