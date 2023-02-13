@@ -27,7 +27,7 @@ permalink: /price-negro-folksongs-in-counterpoint/
 - <a href="https://digitalcollections.uark.edu/digital/collection/p17212coll3/id/25/" target="_blank">February 12, 1946.</a> Curtiss Hall, Fine Arts Building (410 S. Michigan Ave.), Chicago. Musicians Club of Women, Ann Crane String Quartet: Ann Crane (Violin I), Mary Carol Penn (Violin II), Helen Otto (Viola), Jean Breivogel (Cello).
 
 ## Published Editions
-- <a href="https://www.wisemusicclassical.com/work/62723/Negro-Folk-Songs-in-Counterpoint/" target="_blank">*Five Folksongs in Counterpoint.*</a> New York, NY: G. Schirmer, Inc., 2022.
+- <a href="https://www.wisemusicclassical.com/work/62723/Negro-Folk-Songs-in-Counterpoint/" target="_blank">*Negro Folksongs in Counterpoint.*</a> New York, NY: G. Schirmer, Inc., 2022.
 
 ## Recordings
 - *Uncovered, Vol 2: Florence Price.* Catalyst Quartet. Azica Records Azica71346, 2022.
