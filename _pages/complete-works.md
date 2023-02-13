@@ -48,10 +48,10 @@ Works are organized by instrumentation.
     {% endfor %}
 </ul>
 
-<h3>Chorus and Piano</h3>
+<h3>Chorus and Keyboard</h3>
     <ul class="texts">
     {% for item in site.texts %}
-      {% if item.inst == "chor-pno" %}
+      {% if item.inst == "chor-key" %}
           <li class="text-title">
           <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
