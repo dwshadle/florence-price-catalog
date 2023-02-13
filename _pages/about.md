@@ -5,11 +5,13 @@ title: About
 
 This open-access catalog is a companion project to <a href="https://www.samanthaege.com/" target="_blank">Samantha Ege</a> (Anniversary Fellow, University of Southampton) and <a href="https://blair.vanderbilt.edu/bio/douglas-shadle" target="_blank">Douglas Shadle</a>'s co-authored biography of Florence B. Price in the Oxford University Press Master Musicians series. Shadle (Associate Professor of Musicology, Vanderbilt University), the principal catalog compiler, generates or revises the entries as new data is gathered and processed.
 
-Student contributors transcribe and review new thematic incipits under Shadle's supervision. This process not only enables Price's music to be more visible and discoverable, but enables students to develop expertise in digital transcription, editing, and coding methods.
+Contributors transcribe and review new thematic incipits under Shadle's supervision. This process not only enables Price's music to be more visible and discoverable, but enables students to develop expertise in digital transcription, editing, and coding methods.
 
 ## History of the Project
 
 The project launched in January 2023 with several entries for well-known works, such as the symphonies and concertos. An <a href="https://rebalancing-music-canon.com/price/" target="_blank">initial batch of thematic incipits</a> came from the <a href="https://rebalancing-music-canon.com/" target="_blank">Rebalancing the Music Canon</a> project created by <a href="http://annakijas.com/" target="_blank">Anna Kijas</a> (Head, Lilly Music Library, Tufts University). All metadata entries for the files borrowed from that project have been preserved according to the licensing terms, while the original files may be found in the project <a href="https://github.com/annakijas1/rebalancing-music-canon" target="_blank">GitHub Repository</a>.
+
+A second phase of the project began in February 2023 with the addition of Cheston Humphries (University of Vienna) as an incipit designer. The first batch of incipits Humphries designed include those for *Five Folksongs in Counterpoint*, *Negro Folksongs in Counterpoint*, Symphony No. 4 in D Minor, the String Quartet in A Minor, and the orchestral tone poems. Between the catalog's launch and the release of this batch, the Verovio web app introduced a playback feature.
 
 ## Acknowledgments
 
