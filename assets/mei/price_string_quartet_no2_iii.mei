@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>String Quartet [No. 2] in A Minor</title>
+	    <title type="subtitle">III. Juba</title>
+            <respStmt>
+               <persName role="composer">Florence B. Price</persName>
+	       <persName role="transcriber">Chet Humphries</persName>
+               <persName role="reviewer"></persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2023-02-13" type="encoding-date">2023-02-13</date>
+	 <publisher>Florence B. Price Works Catalog</publisher>
+            <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+            </availability>
+            <identifier>
+            <ref target="https://fbpricecatalog.net"/>
+            </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-1yrebsx">
+         <appInfo xml:id="appinfo-8b6eb9">
+            <application xml:id="application-g438vh" isodate="2023-02-13T15:18:43" version="3.15.0-dev-d639899">
+               <name xml:id="name-usiq4c">Verovio</name>
+               <p xml:id="p-19urqbo">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m1hrax6z">
+            <score xml:id="s99rrj8">
+               <scoreDef xml:id="sqikje1">
+                  <staffGrp xml:id="s1wfg0zs">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="4">
+                        <label xml:id="l1rhg2mq">Violin 1</label>
+                        <labelAbbr xml:id="llx8a4p">Vln. 1</labelAbbr>
+                        <instrDef xml:id="iltfmyy" midi.channel="0" midi.instrnum="40" midi.volume="78.00%" />
+                        <clef xml:id="cy0a8p6" shape="G" line="2" />
+                        <keySig xml:id="k1n89x6d" sig="0" />
+                        <meterSig xml:id="mgt5bk3" count="4" unit="8" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1gcykn0">
+                  <measure xml:id="m1a9lnbv" n="1">
+                     <staff xml:id="s1m04wxz" n="1">
+                        <layer xml:id="l1o73w2p" n="1">
+                           <rest xml:id="r1ue5cj6" dur.ppq="4" dur="4" />
+                           <rest xml:id="rih3eus" dur.ppq="2" dur="8" />
+                           <beam xml:id="b5s9u36">
+                              <note xml:id="n12vl7jk" dur.ppq="1" dur="16" oct="6" pname="e" stem.dir="down" />
+                              <note xml:id="n158omz5" dur.ppq="1" dur="16" oct="6" pname="d" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <tempo xml:id="t1cfadan" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="144.000000">
+                        <rend xml:id="rshpof4" fontweight="bold">Allegro</rend>
+                     </tempo>
+                     <dynam xml:id="da7ohi8" place="below" staff="1" tstamp="4.000000" val="80" vgrp="200">mf</dynam>
+                  </measure>
+                  <measure xml:id="m1vza5ch" n="2">
+                     <staff xml:id="spmcupr" n="1">
+                        <layer xml:id="l1xh2ddh" n="1">
+                           <beam xml:id="bnzpeq8">
+                              <note xml:id="n196abfm" dur.ppq="1" dur="16" oct="6" pname="e" stem.dir="down" />
+                              <note xml:id="n1iyv8v4" dur.ppq="1" dur="16" oct="6" pname="d" stem.dir="down" />
+                              <note xml:id="n18uuefi" dur.ppq="1" dur="16" oct="6" pname="c" stem.dir="down" />
+                              <note xml:id="nwte9yy" dur.ppq="1" dur="16" oct="5" pname="a" stem.dir="down" />
+                           </beam>
+                           <rest xml:id="r1clqcb3" dur.ppq="1" dur="16" />
+                           <beam xml:id="b1ch1uw">
+                              <note xml:id="n102u189" dur.ppq="1" dur="16" oct="5" pname="g" stem.dir="down" />
+                              <note xml:id="n1w0ln4f" dur.ppq="1" dur="16" oct="5" pname="a" stem.dir="down" />
+                           </beam>
+                           <rest xml:id="ruo0edr" dur.ppq="1" dur="16" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1eb2n4t" n="3">
+                     <staff xml:id="sgdngdx" n="1">
+                        <layer xml:id="ltavl7c" n="1">
+                           <beam xml:id="b76mpxc">
+                              <note xml:id="ncx6n01" dur.ppq="1" dur="16" oct="5" pname="e" stem.dir="down" />
+                              <note xml:id="n1b4uln6" dur.ppq="1" dur="16" oct="5" pname="d" stem.dir="down" />
+                              <note xml:id="nfhpndn" dur.ppq="1" dur="16" oct="5" pname="c" stem.dir="down" />
+                              <note xml:id="nvd1sk9" dur.ppq="1" dur="16" oct="4" pname="a" stem.dir="down" />
+                           </beam>
+                           <rest xml:id="rjb8m08" dur.ppq="1" dur="16" />
+                           <beam xml:id="bbaxe2f">
+                              <note xml:id="n1qn8li9" dur.ppq="1" dur="16" oct="4" pname="g" stem.dir="up" />
+                              <note xml:id="n99s25l" dur.ppq="1" dur="16" oct="4" pname="a" stem.dir="up" />
+                           </beam>
+                           <rest xml:id="r19ko4hq" dur.ppq="1" dur="16" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="d9erqvs" place="below" staff="1" tstamp="1.000000" vgrp="200">
+                        <rend xml:id="rz5h6z" fontstyle="italic">(Violin 2)</rend>
+                     </dir>
+                     <dynam xml:id="d11zicc2" place="below" staff="1" tstamp="1.000000" val="80" vgrp="200">mf</dynam>
+                  </measure>
+                  <measure xml:id="m6kwt0t" n="4">
+                     <staff xml:id="s5tu0ib" n="1">
+                        <layer xml:id="ln79jh" n="1">
+                           <beam xml:id="b1503ncj">
+                              <note xml:id="n19mhgxc" dur.ppq="1" dur="16" oct="5" pname="a" stem.dir="down" />
+                              <note xml:id="nyx48to" dur.ppq="1" dur="16" oct="5" pname="g" stem.dir="down" />
+                              <note xml:id="nnbr2uh" dur.ppq="1" dur="16" oct="5" pname="a" stem.dir="down" />
+                              <note xml:id="n1syk89o" dur.ppq="1" dur="16" oct="5" pname="e" stem.dir="down" />
+                           </beam>
+                           <rest xml:id="rni9twt" dur.ppq="1" dur="16" />
+                           <beam xml:id="blu7dvh">
+                              <note xml:id="nn73x7r" dur.ppq="1" dur="16" oct="5" pname="d" stem.dir="down" />
+                              <note xml:id="n1fyv2vo" dur.ppq="1" dur="16" oct="5" pname="e" stem.dir="down" />
+                           </beam>
+                           <rest xml:id="r30otb8" dur.ppq="1" dur="16" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="d74zpzo" place="below" staff="1" tstamp="1.000000" vgrp="200">
+                        <rend xml:id="r1niu40n" fontstyle="italic">(Violin 1)</rend>
+                     </dir>
+                  </measure>
+                  <measure xml:id="m1vef7n7" right="single" n="5">
+                     <staff xml:id="s16vh2je" n="1">
+                        <layer xml:id="lnwgdzi" n="1">
+                           <note xml:id="nvmfl30" dur.ppq="8" dur="2" oct="5" pname="c" stem.dir="down" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
