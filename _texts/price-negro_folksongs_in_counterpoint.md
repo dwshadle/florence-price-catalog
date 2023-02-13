@@ -33,7 +33,10 @@ permalink: /price-negro-folksongs-in-counterpoint/
 - *Uncovered, Vol 2: Florence Price.* Catalyst Quartet. Azica Records Azica71346, 2022.
 
 ## Thematic Incipits
-- In progress
+- [Movement I](/price-negro-folksongs-in-counterpoint/mvt1)
+- [Movement II](/price-negro-folksongs-in-counterpoint/mvt2)
+- [Movement III](/price-negro-folksongs-in-counterpoint/mvt3)
+- [Movement IV](/price-negro-folksongs-in-counterpoint/mvt4)
 
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
