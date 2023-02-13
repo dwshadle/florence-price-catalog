@@ -1,6 +1,6 @@
 ---
 layout: page
-title: String Quartet in A Minor
+title: String Quartet (No. 2) in A Minor
 author: Price, Florence B.
 inst: cham-inst
 permalink: /price-string-quartet-in-a-minor/
@@ -34,7 +34,10 @@ permalink: /price-string-quartet-in-a-minor/
 - *Uncovered, Vol 2: Florence Price.* Catalyst Quartet. Azica Records Azica71346, 2022.
 
 ## Thematic Incipits
-- In progress
+- [Movement I](/price-string-quartet-in-a-minor/mvt1)
+- [Movement II](/price-string-quartet-in-a-minor/mvt2)
+- [Movement III](/price-string-quartet-in-a-minor/mvt3)
+- [Movement IV](/price-string-quartet-in-a-minor/mvt4)
 
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
