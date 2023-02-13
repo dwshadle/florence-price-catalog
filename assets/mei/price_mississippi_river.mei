@@ -267,7 +267,7 @@
                      </dir>
                      <slur xml:id="s6ybmpk" startid="#n1l4x5um" endid="#n8kuiwc" curvedir="above" />
                   </measure>
-                  <measure xml:id="mojp03s" right="end" n="11">
+                  <measure xml:id="mojp03s" right="single" n="11">
                      <staff xml:id="s93gt44" n="1">
                         <layer xml:id="l131omnr" n="1">
                            <chord xml:id="cjo2fii" dur.ppq="12" dur="2" stem.dir="down">
