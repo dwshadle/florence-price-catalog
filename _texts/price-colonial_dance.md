@@ -4,6 +4,7 @@ title: Colonial Dance
 author: Price, Florence B.
 inst: orch
 permalink: /price-colonial-dance/
+document: price_colonial_dance.mei
 ---
 
 ## Alternate Title
@@ -38,7 +39,33 @@ permalink: /price-colonial-dance/
 - <a href="https://www.naxos.com/CatalogueDetail/?id=8.559920" target="_blank">*Price: Songs of the Oak - Concert Overtures Nos. 1&ndash;2.*</a> Württembergische Philharmonie Reutlingen; John Jeter, conductor. Naxos 8.559920, 2022.
 
 ## Thematic Incipits
-- In Progress
+<div>
+  <div id="app" class="panel" style="border: 1px solid lightblue; min-height: 200px;"></div>
+</div>
+
+<script type="module">
+  import 'https://www.verovio.org/javascript/app/verovio-app.js';
+
+  const options = {
+      defaultView: 'responsive', // default is 'responsive', alternative is 'document'
+      defaultZoom: 3, // 0-7, default is 4
+      enableResponsive: true, // default is true
+      enableDocument: true, // default is true
+  }
+
+  // Create the app - here with an empty option object
+  const app = new Verovio.App(document.getElementById("app"), options);
+
+  // Load a file (MEI or MusicXML)
+  fetch("{{site.baseurl}}/assets/mei/{{page.document}}")
+      .then(function(response) {
+          return response.text();
+      })
+      .then(function(text) {
+          app.loadData(text);
+      });
+
+</script>
 
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
