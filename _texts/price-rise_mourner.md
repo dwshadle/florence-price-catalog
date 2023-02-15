@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Death's Gwineter Lay His Cold Icy Hand On Me
+title: Rise Mourner
 author: Price, Florence B.
 inst: pno-voice-arr
-permalink: /price-deaths-gwineter-lay/
+permalink: /price-rise-mourner/
 ---
 
 ## Alternate Title

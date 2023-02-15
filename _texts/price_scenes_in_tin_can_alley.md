@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Death's Gwineter Lay His Cold Icy Hand On Me
+title: Scenes in Tin Can Alley
 author: Price, Florence B.
-inst: pno-voice-arr
-permalink: /price-deaths-gwineter-lay/
+inst: piano-char
+permalink: /price-scenes-in-tin-can-alley/
 ---
 
 ## Alternate Title
@@ -17,9 +17,6 @@ permalink: /price-deaths-gwineter-lay/
 
 ## Length
 - 
-
-##Lyricist and Source
-- Spiritual
 
 ## Manuscripts
 - 

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Death's Gwineter Lay His Cold Icy Hand On Me
+title: Words for a Spiritual
 author: Price, Florence B.
-inst: pno-voice-arr
-permalink: /price-deaths-gwineter-lay/
+inst: pno-voice-orig
+permalink: /price-words-for-a-spiritual/
 ---
 
 ## Alternate Title
@@ -18,8 +18,8 @@ permalink: /price-deaths-gwineter-lay/
 ## Length
 - 
 
-##Lyricist and Source
-- Spiritual
+## Lyricist and Source
+- 
 
 ## Manuscripts
 - 

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Death's Gwineter Lay His Cold Icy Hand On Me
+title: Go Down, Moses
 author: Price, Florence B.
 inst: pno-voice-arr
-permalink: /price-deaths-gwineter-lay/
+permalink: /price-go-down-moses/
 ---
 
 ## Alternate Title
