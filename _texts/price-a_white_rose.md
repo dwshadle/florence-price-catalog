@@ -4,6 +4,7 @@ title: A White Rose
 author: Price, Florence B.
 inst: pno-voice-orig
 permalink: /price-a-white-rose/
+document: price_a_white_rose.mei
 ---
 
 ## Alternate Title
