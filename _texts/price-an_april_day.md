@@ -36,7 +36,7 @@ document: price_an_april_day.mei
 
 ## Thematic Incipit
 <div>
-  <div id="app" class="panel" style="border: 1px solid lightblue; min-height: 200px;"></div>
+  <div id="app" class="panel" style="border: 1px solid lightblue; min-height: 300px;"></div>
 </div>
 
 <script type="module">
