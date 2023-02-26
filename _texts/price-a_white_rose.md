@@ -8,7 +8,7 @@ document: price_a_white_rose.mei
 ---
 
 ## Alternate Title
-- N/A
+- "The White Rose"[^fn1]
 
 ## Composition Year
 - 1932 or after
@@ -28,7 +28,7 @@ document: price_a_white_rose.mei
 
 ## Manuscripts
 - MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
-    * Score (undated): <a href="https://franklin.library.upenn.edu/catalog/FRANKLIN_9923566943503681" target="_blank">Box 61, Folder 1440</a>[^fn1]
+    * Score (undated): <a href="https://franklin.library.upenn.edu/catalog/FRANKLIN_9923566943503681" target="_blank">Box 61, Folder 1440</a>[^fn2]
 
 ## Premiere Performance
 - Unknown
@@ -77,4 +77,5 @@ document: price_a_white_rose.mei
 -----
 
 ## Notes
-[^fn1]: This manuscript lists *The Standard Book of British and American Verse* (1932) as Price's source.
+[^fn1]: While some online sources give the title of O'Reilly's poem as "The White Rose," the original collection in which it appeared list it as "A White Rose."
+[^fn2]: This manuscript lists *The Standard Book of British and American Verse* (1932) as Price's source.
