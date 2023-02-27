@@ -33,6 +33,7 @@ document: price_an_april_day.mei
 
 ## Published Editions
 - *An April Day.* New York: Handy Bros., 1949.
+    * OCLC: <a href="https://www.worldcat.org/title/82709930" target="_blank">82709930</a>
 - Heard, Richard, ed. <a href="https://www.classicalvocalrep.com/products/44-Art-Songs-and-Spirituals-by-Florence-B-Price-for-Medium-High-Voice-and-Piano-Richard-Heard-205398.html" target="_blank">*44 Art Songs and Spirituals by Florence Price.*</a> Fayetteville, AR: ClarNan Editions, 2015.
     * OCLC: <a href="https://www.worldcat.org/title/902815587" target="_blank">902815587</a>
 - <a href="https://classicalondemand.com/price-an-april-day.html" target="_blank">*Florence Price: An April Day.*</a> New York: G. Schirmer, Inc., 2021.
@@ -72,4 +73,5 @@ document: price_an_april_day.mei
 
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
+2. Thompson, Marilyn Angela. "W.C. Handy's Contribution to African American Solo Vocal Concert Music." EdD diss., Teachers College, Columbia University, 2007.
 {:.bibliography}
