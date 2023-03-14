@@ -27,12 +27,12 @@ permalink: /price-piano-concerto-no1/
 - MC988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
     * Two-piano reduction, complete: Box 8, Folder 8
     * Parts, miscellaneous: Box 8, Folder 8
-    * Two-piano reduction, incomplete: Box 8, Folder 8
+    * Two-piano reduction, incomplete: Box 8, Folder 8; Box 19, Folder 13
 - MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
     * Two-piano reduction, damaged: Box 6B, Folders 21a&ndash;b
     * Parts, damaged: Box 6B, Folders 22&ndash;35
 - MC2618: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/2618" target="_blank">Florence Price Collection</a>, Special Collections, Mullins Library, University of Arkansas
-    * ???: Box 3, Folder 1
+    * Two-piano reduction: Box 3, Folder 1
     * Parts, complete: Box 3, Folders 2&ndash;13[^fn1]
 
 ## Premiere Performance
