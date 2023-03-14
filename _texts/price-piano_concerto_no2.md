@@ -7,28 +7,31 @@ permalink: /price-piano-concerto-no2/
 ---
 
 ## Alternate Title
-- 
+- Concerto No. 2 for Piano and Orchestra
 
 ## Composition Year
-- 
+- 1938 (incomplete)
 
 ## Instrumentation
-- 
+- 3.2+Eng.2.2 - 4.3.3.1 - timp.perc - str
 
 ## Length
-- 
+- N/A
 
 ## Manuscripts
-- 
+- Two-piano reduction (incomplete) in 988a Box 8, Folder 9
+- Sketches in 988a Box 8, Folder 9
+- Some stuff in 988b
+- Full score (incomplete, date Apr. 1938) in 2618
 
 ## Premiere Performance
-- 
+- N/A
 
 ## Published Editions
-- 
+- N/A
 
 ## Recordings
-- 
+- N/A
 
 ## Thematic Incipits
 - In progress
