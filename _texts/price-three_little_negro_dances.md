@@ -22,12 +22,14 @@ permalink: /price-three-little-negro-dances/
 - 3-4 min.
 
 ## Manuscripts
-- 
+- - MC988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
+    * Score (undated): Box 17, Folder 36
 
 ## Premiere Performance
-- 
+- N/A
 
 ## Published Editions
+- Solo piano: *Three Little Negro Dances.* Philadelphia: Theodore Presser, 1933.
 - "<a href="https://archive.org/details/EtudeApril1934/page/n10/mode/1up" target="_blank">Hoe Cake.</a>" *The Etude* 52 (April 1934): 229.
 - "<a href="https://archive.org/details/EtudeJuly1934/page/n11/mode/1up" target="_blank">Rabbit Foot.</a>" *The Etude* 52 (July 1934): 413.
 - "<a href="https://archive.org/details/EtudeSeptember1951/page/n18/mode/1up" target="_blank">Ticklin' Toes.</a>" *The Etude* 69 (September 1951): 34&ndash;35.
