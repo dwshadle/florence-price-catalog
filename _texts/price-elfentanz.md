@@ -7,7 +7,7 @@ permalink: /price-elfentanz/
 ---
 
 ## Alternate Title
-- 
+- N/A
 
 ## Composition Year
 - 
@@ -19,7 +19,9 @@ permalink: /price-elfentanz/
 - 4 min, 15 s
 
 ## Manuscripts
-- 
+- MC988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
+    * Score (undated): Box 19, Folder 6
+    * Facsimile x2 (undated): Box 19, Folder 6
 
 ## Premiere Performance
 - 
