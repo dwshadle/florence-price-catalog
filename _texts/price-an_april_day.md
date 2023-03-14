@@ -11,7 +11,7 @@ document: price_an_april_day.mei
 - None
 
 ## Composition Year
-- ca. 1949
+- 1940?
 
 ## Instrumentation
 - Piano and high voice
@@ -20,13 +20,15 @@ document: price_an_april_day.mei
 - 1 min, 30 sec
 
 ## Lyricist and Source
-- Joseph Seamon Cotter, Jr. (1895&ndash;1919)
+- Joseph Seamon Cotter, Jr. (1895&ndash;1919)[^fn1]
 - Cullen, Countee, ed. <a href="https://www.google.com/books/edition/Caroling_Dusk/TFAGAQAAIAAJ" target="_blank">*Caroling Dusk: An Anthology of Verse by Negro Poets.*</a> New York: Harper and Bros., 1927.
     * OCLC: <a href="https://www.worldcat.org/title/2695994" target="_blank">2695994</a>
 
 ## Manuscripts
 - MC988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
-    * Score (undated): Box 12, Folder 1
+    * Score, complete (April 1, 1940): Box 12, Folder 1[^fn2]
+    * Score, complete (undated) x4: Box 12, Folder 1
+    * Score, incomplete (undated): Box 12, Folder 1
 
 ## Premiere Performance
 - Unknown
@@ -75,3 +77,9 @@ document: price_an_april_day.mei
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
 2. Thompson, Marilyn Angela. "W.C. Handy's Contribution to African American Solo Vocal Concert Music." EdD diss., Teachers College, Columbia University, 2007.
 {:.bibliography}
+
+--
+
+## Notes
+[^fn1]: On manuscript and published versions of this song, the author is often erroneously listed as "Jos. F. Cotter." His middle name was Seamon.
+[^fn2]: This score contains the dedication, "To Edith" (Price's younger daughter, Edith Cassandra).
