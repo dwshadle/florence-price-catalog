@@ -48,4 +48,4 @@ permalink: /price-bright-be-the-place/
 ## Notes
 [^fn1]: This score contains several pencil revisions dated October 2, 1945.
 [^fn2]: This score notes that the piece was composed at "Riverwood," Price's summer home. It gives two different endings--one from the 1944 revision and one from the 1945 revision. An appended page includes more revisions from 1944 and 1945.
-[^fn3]: This score notes that the 1945 revisions can be found on a separate score, likely the one described in footnote 2.
+[^fn3]: This score notes that the 1945 revisions can be found on a separate score, likely the one described in footnote 2. This version is also the only entry in a bound volume with the title, "Songs 1942&ndash;45."
