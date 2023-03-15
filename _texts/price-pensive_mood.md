@@ -11,7 +11,7 @@ document: price_pensive_mood.mei
 - None
 
 ## Composition Year
-- 1927
+- 1928
 
 ## Instrumentation
 - Solo piano
@@ -21,7 +21,7 @@ document: price_pensive_mood.mei
 
 ## Manuscripts
 - MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
-    * Score, complete: Box 1A, Folder 3
+    * Score, complete (March 3, 1928): Box 1A, Folder 3
 
 ## Premiere Performance
 - Unknown
