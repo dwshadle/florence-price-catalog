@@ -7,7 +7,7 @@ permalink: /price-a-song-of-living/
 ---
 
 ## Alternate Title
-- 
+- N/A
 
 ## Composition Year
 - 1945
@@ -21,7 +21,7 @@ permalink: /price-a-song-of-living/
 ## Lyricist and Source
 - Amelia Josephine Burr (1878&ndash;1968)
 - [*Life and Living: A Book of Verse*](https://www.google.com/books/edition/Life_and_Livng/O1tLAAAAIAAJ?hl=en&gbpv=0) New York: George H. Doran Co., 1916.
-    * OCLC: <a href="https://www.worldcat.org/title/4629224" target="_blank>"4629224</a>
+    * OCLC: <a href="https://www.worldcat.org/title/4629224" target="_blank">4629224</a>
 
 ## Manuscript
 - MC988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
