@@ -67,5 +67,5 @@ document: price_tittle_tattle.mei
 ---
 
 ## Notes
-[^fn1]: This score is the fourth in a series of numbered pieces. Number 3 ("Hard Problems") is dated October 9, 1927, while Number 5 ("In Romance Land") is dated October 24&ndash;25, 1927.
+[^fn1]: This score is the fourth in a series of numbered pieces. Number 3 ("Hard Problems") is dated October 9, 1927. The next piece in the collection ("In Romance Land") is unnumbered and dated October 24&ndash;25, 1927.
 

@@ -21,7 +21,7 @@ document: price_hildas_waltz.mei
 
 ## Manuscripts
 - MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
-    * Score, complete: Box 1A, Folder 3
+    * Score, complete (October 26, [1927]): Box 1A, Folder 3[^fn1]
 
 ## Premiere Performance
 - Unknown
@@ -64,3 +64,8 @@ document: price_hildas_waltz.mei
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
 {:.bibliography}
+
+---
+
+## Notes
+[^fn1]: This score appears as the sixth piece in a collection where other numbers date from 1927.
