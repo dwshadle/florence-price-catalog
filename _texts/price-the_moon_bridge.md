@@ -13,13 +13,13 @@ permalink: /price-the-moon-bridge/
 - 
 
 ## Instrumentation
-- 
+- Solo piano and high voice
 
 ## Length
 - 
 
 ## Lyricist and Source
-- 
+- Mary Rolofson Gamble
 
 ## Manuscripts
 - 
@@ -28,7 +28,7 @@ permalink: /price-the-moon-bridge/
 - 
 
 ## Published Editions
-- 
+- *The Moon Bridge.* Chicago: Gamble Hinged Music Co., 1930.
 
 ## Recordings
 - 
