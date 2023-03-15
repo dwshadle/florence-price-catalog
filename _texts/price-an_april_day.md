@@ -30,7 +30,7 @@ document: price_an_april_day.mei
     * Score, complete (undated) x4: Box 12, Folder 1
     * Score, incomplete (undated): Box 12, Folder 1
 - MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
-    * Scores, complete (undated): Box 1A, 12
+    * Scores, complete (undated): Box 1A, 12[^fn3]
 
 ## Premiere Performance
 - Unknown
@@ -85,3 +85,4 @@ document: price_an_april_day.mei
 ## Notes
 [^fn1]: On manuscript and published versions of this song, the author is often erroneously listed as "Jos. F. Cotter." His middle name was Seamon.
 [^fn2]: This score contains the dedication, "To Edith" (Price's younger daughter, Edith Cassandra).
+[^fn3]: This score notes, "Revised copy."
