@@ -22,7 +22,8 @@ permalink: /price-rise-mourner/
 - Spiritual
 
 ## Manuscripts
-- 
+- MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
+    * Score, complete (undated): Box 5B, Folder 29; Box 5B, Folder 30
 
 ## Premiere Performance
 - 
