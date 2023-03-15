@@ -7,7 +7,8 @@ permalink: /price-fantasie-negre-no1/
 ---
 
 ## Alternate Title
-- Negro Fantasy 
+- Negro Fantasy
+- Fantasie Negre
 
 ## Composition Year
 - 1929
@@ -23,6 +24,9 @@ permalink: /price-fantasie-negre-no1/
     * Score (February 9&ndash;10, 1929)
 - <a href="https://lccn.loc.gov/2020570150" target="_blank">Florence B. Price Music Manuscripts</a>, Music Division, Library of Congress
     * Score (February 9&ndash;10, 1929): Call # <a href="https://lccn.loc.gov/91757007" target="_blank">ML96.P8328 no. 8</a>
+- MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
+    * Score, complete (February 9&ndash;10, 1929): Box 4A, Folder 1
+    * Score, incomplete facsimile (February 9&ndash;10, 1929): Box 4A, Folder 1
 
 ## Premiere Performance
 - August 28, 1930; Metropolitan Community Church, Chicago; Margaret Bonds, piano[^fn1]
