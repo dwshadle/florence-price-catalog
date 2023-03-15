@@ -74,7 +74,7 @@ document: price_a_white_rose.mei
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
 {:.bibliography}
 
------
+---
 
 ## Notes
 [^fn1]: While some online sources give the title of O'Reilly's poem as "The White Rose," the original collection in which it appeared list it as "A White Rose."
