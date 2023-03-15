@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Save Me Lord, Save Me
+title: Great Day
 author: Price, Florence B.
 inst: pno-voice-arr
-permalink: /price-save-me-lord-save-me/
+permalink: /price-great-day/
 ---
 
 ## Alternate Title
@@ -23,7 +23,8 @@ permalink: /price-save-me-lord-save-me/
 
 ## Manuscripts
 - MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
-    * Score, complete (September 29, 1945): Box 5B, Folder 29
+    * Score, complete (Summer 1946): Box 5B, Folder 29
+    * Sketch (undated): Box 5B, Folder 29
 
 ## Premiere Performance
 - 
