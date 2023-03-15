@@ -21,6 +21,10 @@ permalink: /price-symphony-no4/
 ## Manuscripts
 - MC988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
     * Score, complete: Box 11, Folder 3
+- MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
+    * Score, complete (undated): Box 1C, Folder 29
+- MC2618: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/2618" target="_blank">Florence Price Collection</a>, Special Collections, Mullins Library, University of Arkansas
+    * Score, complete (undated facsimile): Box 5, Folder 1
 
 ## Premiere Performance
 - May 12, 2018; ArcBest Corp. Performing Arts Center, Fort Smith, Arkansas; Fort Smith Symphony; John Jeter, conductor.
