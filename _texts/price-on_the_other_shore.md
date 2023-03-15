@@ -1,29 +1,29 @@
 ---
 layout: page
-title: There Be None
+title: On the Other Shore
 author: Price, Florence B.
-inst: pno-voice-orig
-permalink: /price-there-be-none/
+inst: pno-voice-arr
+permalink: /price-on-the-other-shore/
 ---
 
 ## Alternate Title
 - 
 
 ## Composition Year
-- 1942
+- 
 
 ## Instrumentation
-- Solo piano and medium or high voice
+- Solo piano and medium voice
 
 ## Length
 - 
 
 ## Lyricist and Source
-- George Gordon, Lord Byron
+- 
 
 ## Manuscripts
 - MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
-    * Score, complete (undated): Box 2B, Folder 27
+    * Score, complete (undated): Box 4B, Folder 10
 
 ## Premiere Performance
 - 
