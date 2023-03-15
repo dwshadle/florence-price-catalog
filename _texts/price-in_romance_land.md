@@ -21,7 +21,7 @@ document: price_in_romance_land.mei
 
 ## Manuscripts
 - MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
-    * Score, complete: Box 1A, Folder 3
+    * Score, complete (October 24&ndash;25, 1927): Box 1A, Folder 3
 
 ## Premiere Performance
 - Unknown
