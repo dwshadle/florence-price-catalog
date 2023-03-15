@@ -19,10 +19,11 @@ permalink: /price-a-flea-and-a-fly/
 - 
 
 ## Lyricist and Source
-- 
+- Anonymous
 
 ## Manuscripts
-- 
+- MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
+    * Score, complete (undated): Box 6B, Folder 42
 
 ## Premiere Performance
 - 
