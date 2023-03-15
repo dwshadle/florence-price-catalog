@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Come, Come, Said Tom's Father (from Four Encore Songs)
+title: Why Forget
 author: Price, Florence B.
 inst: pno-voice-orig
-permalink: /price-come-come/
+permalink: /price-why-forget/
 ---
 
 ## Alternate Title
@@ -19,11 +19,11 @@ permalink: /price-come-come/
 - 
 
 ## Lyricist and Source
-- Ogden Nash
+- Florence Beatrice Price
 
 ## Manuscripts
 - MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
-    * Score, complete (undated): Box 4A, Folder 15 
+    * Score, complete (undated): Box 5A, Folder 3
 
 ## Premiere Performance
 - 
