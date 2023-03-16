@@ -24,6 +24,7 @@ permalink: /price-lullaby-for-a-black-mother/
 ## Manuscripts
 - MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
     * Score, complete (March 21&ndash;24, 1945): Box 5B, Folder 32
+    * Sketch (March 21, 1945): Box 10, Folder 14
 
 ## Premiere Performance
 - 

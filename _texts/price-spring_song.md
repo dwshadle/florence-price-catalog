@@ -1,32 +1,29 @@
 ---
 layout: page
-title: There Be None
+title: Spring Song
 author: Price, Florence B.
 inst: pno-voice-orig
-permalink: /price-there-be-none/
+permalink: /price-spring-song/
 ---
 
 ## Alternate Title
 - 
 
 ## Composition Year
-- 1942
+- 
 
 ## Instrumentation
-- Solo piano and medium or high voice
+- 
 
 ## Length
 - 
 
 ## Lyricist and Source
-- George Gordon, Lord Byron
-- Price's Source: Humphrey Milford, OUP, 1930 (?)
+- Paul Laurence Dunbar
 
 ## Manuscripts
 - MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
-    * Score, complete (undated): Box 2B, Folder 27
-- MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
-    * Score, complete (May 10, 1942): Box 10, Folder 12 
+    * Score, complete (undated): Box 10, Folder 12 
 
 ## Premiere Performance
 - 
