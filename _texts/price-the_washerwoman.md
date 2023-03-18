@@ -4,6 +4,7 @@ title: The Washerwoman
 author: Price, Florence B.
 inst: pno-voice-orig
 permalink: /price-the-washerwoman/
+document: price_the_washerwoman.mei
 ---
 
 ## Alternate Title

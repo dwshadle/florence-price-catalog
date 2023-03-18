@@ -4,6 +4,7 @@ title: The Moon Bridge
 author: Price, Florence B.
 inst: pno-voice-orig
 permalink: /price-the-moon-bridge/
+document: price_the_moon_bridge.mei
 ---
 
 ## Alternate Title

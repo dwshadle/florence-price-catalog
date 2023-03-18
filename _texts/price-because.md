@@ -4,6 +4,7 @@ title: Because
 author: Price, Florence B.
 inst: pno-voice-orig
 permalink: /price-because/
+document: price_because.mei
 ---
 
 ## Alternate Title

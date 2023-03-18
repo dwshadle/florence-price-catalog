@@ -4,6 +4,7 @@ title: The Glory of the Day Was in Her Face
 author: Price, Florence B.
 inst: pno-voice-orig
 permalink: /price-the-glory-of-the-day-was-in-her-face/
+document: price_the_glory_of_the_day_was_in_her_face.mei
 ---
 
 ## Alternate Title

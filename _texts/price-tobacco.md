@@ -4,6 +4,7 @@ title: Tobacco (from Four Encore Songs)
 author: Price, Florence B.
 inst: pno-voice-orig
 permalink: /price-tobacco/
+document: price_tobacco.mei
 ---
 
 ## Alternate Title

@@ -4,6 +4,7 @@ title: Feet O' Jesus
 author: Price, Florence B.
 inst: pno-voice-orig
 permalink: /price-feet-o-jesus/
+document: price_feet_o_jesus.mei
 ---
 
 ## Alternate Title

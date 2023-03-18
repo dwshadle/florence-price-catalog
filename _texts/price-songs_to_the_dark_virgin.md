@@ -4,6 +4,7 @@ title: Songs to the Dark Virgin
 author: Price, Florence B.
 inst: pno-voice-orig
 permalink: /price-songs-to-the-dark-virgin/
+document: price_songs_to_the_dark_virgin.mei
 ---
 
 ## Alternate Title

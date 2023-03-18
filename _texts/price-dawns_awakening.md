@@ -4,6 +4,7 @@ title: Dawn's Awakening
 author: Price, Florence B.
 inst: pno-voice-orig
 permalink: /price-dawns-awakening/
+document: price_dawns_awakening.mei
 ---
 
 ## Alternate Title

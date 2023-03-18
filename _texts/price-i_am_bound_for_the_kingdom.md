@@ -4,6 +4,7 @@ title: I am Bound for the Kingdom
 author: Price, Florence B.
 inst: pno-voice-arr
 permalink: /price-i-am-bound-for-the-kingdom/
+document: price_i_am_bound_for_the_kingdom.mei
 ---
 
 ## Alternate Title

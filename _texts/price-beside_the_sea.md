@@ -4,6 +4,7 @@ title: Beside the Sea
 author: Price, Florence B.
 inst: pno-voice-orig
 permalink: /price-beside-the-sea/
+document: price_beside_the_sea.mei
 ---
 
 ## Alternate Title

@@ -4,6 +4,7 @@ title: Resignation
 author: Price, Florence B.
 inst: pno-voice-orig
 permalink: /price-resignation/
+document: price_resignation.mei
 ---
 
 ## Alternate Title

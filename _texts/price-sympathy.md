@@ -4,6 +4,7 @@ title: Sympathy
 author: Price, Florence B.
 inst: pno-voice-orig
 permalink: /price-sympathy/
+document: price_sympathy.mei
 ---
 
 ## Alternate Title

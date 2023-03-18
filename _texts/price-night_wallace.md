@@ -4,6 +4,7 @@ title: Night (Wallace)
 author: Price, Florence B.
 inst: pno-voice-orig
 permalink: /price-night-wallace/
+document: price_night_wallace.mei
 ---
 
 ## Alternate Title

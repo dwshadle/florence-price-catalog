@@ -4,6 +4,7 @@ title: My Soul's Been Anchored in the Lord
 author: Price, Florence B.
 inst: pno-voice-arr
 permalink: /price-my-souls-been-anchored/
+document: price-my_souls_been_anchored.mei
 ---
 
 ## Alternate Title

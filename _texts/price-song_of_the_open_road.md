@@ -4,6 +4,7 @@ title: Song of the Open Road (from Four Encore Songs)
 author: Price, Florence B.
 inst: pno-voice-orig
 permalink: /price-song-of-the-open-road/
+document: price_song_of_the_open_road.mei
 ---
 
 ## Alternate Title

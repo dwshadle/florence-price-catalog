@@ -4,6 +4,7 @@ title: Hold Fast to Dreams
 author: Price, Florence B.
 inst: pno-voice-orig
 permalink: /price-hold-fast-to-dreams/
+document: price_hold_fast_to_dreams.mei
 ---
 
 ## Alternate Title

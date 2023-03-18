@@ -4,6 +4,7 @@ title: Come, Come, Said Tom's Father (from Four Encore Songs)
 author: Price, Florence B.
 inst: pno-voice-orig
 permalink: /price-come-come/
+document: price_come_come.mei
 ---
 
 ## Alternate Title

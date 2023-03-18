@@ -4,6 +4,7 @@ title: Love-In-A-Mist
 author: Price, Florence B.
 inst: pno-voice-orig
 permalink: /price-love-in-a-mist/
+document: price_love_in_a_mist.mei
 ---
 
 ## Alternate Title

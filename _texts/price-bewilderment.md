@@ -4,6 +4,7 @@ title: Bewilderment
 author: Price, Florence B.
 inst: pno-voice-orig
 permalink: /price-bewilderment/
+document: price_bewilderment.mei
 ---
 
 ## Alternate Title
