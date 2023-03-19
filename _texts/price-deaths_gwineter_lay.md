@@ -19,7 +19,7 @@ document: price_deaths_gwineter_lay.mei
 ## Length
 - 
 
-##Lyricist and Source
+## Lyricist and Source
 - Spiritual
 
 ## Manuscripts
