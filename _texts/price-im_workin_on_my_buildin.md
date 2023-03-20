@@ -4,7 +4,7 @@ title: I'm Workin' on My Buildin'
 author: Price, Florence B.
 inst: pno-voice-arr
 permalink: /price-im-workin-on-my-buildin/
-document: price_im_workin_on_my_buildin/
+document: price_im_workin_on_my_buildin.mei
 ---
 
 ## Alternate Title
