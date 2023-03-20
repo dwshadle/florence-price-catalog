@@ -77,5 +77,5 @@ document: price_a_white_rose.mei
 ---
 
 ## Notes
-[^fn1]: While some online sources give the title of O'Reilly's poem as "The White Rose," the original collection in which it appeared list it as "A White Rose."
+[^fn1]: While some online sources give the title of O'Reilly's poem as "The White Rose," the original collection in which it appeared lists it as "A White Rose."
 [^fn2]: This manuscript lists *The Standard Book of British and American Verse* (1932) as Price's source.
