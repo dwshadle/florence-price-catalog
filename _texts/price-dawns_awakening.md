@@ -20,7 +20,7 @@ document: price_dawns_awakening.mei
 - 
 
 ## Lyricist and Source
--
+- 
 
 ## Manuscripts
 - 
