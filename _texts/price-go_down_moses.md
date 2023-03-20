@@ -18,7 +18,7 @@ permalink: /price-go-down-moses/
 ## Length
 - 
 
-##Lyricist and Source
+## Lyricist and Source
 - Spiritual
 
 ## Manuscripts

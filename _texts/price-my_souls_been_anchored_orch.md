@@ -18,6 +18,9 @@ permalink: /price-my-souls-been-anchored-orch/
 ## Length
 - 
 
+## Lyricist and Source
+- Spiritual
+
 ## Manuscripts
 - 
 

@@ -18,7 +18,7 @@ permalink: /price-my-little-souls-goin-to-shine/
 ## Length
 - 
 
-##Lyricist and Source
+## Lyricist and Source
 - Spiritual
 
 ## Manuscripts

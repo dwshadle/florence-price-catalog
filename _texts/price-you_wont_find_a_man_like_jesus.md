@@ -18,7 +18,7 @@ permalink: /price-you-wont-find-a-man-like-jesus/
 ## Length
 - 
 
-##Lyricist and Source
+## Lyricist and Source
 - Spiritual
 
 ## Manuscripts

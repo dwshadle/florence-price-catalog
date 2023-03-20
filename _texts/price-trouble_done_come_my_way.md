@@ -18,7 +18,7 @@ permalink: /price-trouble-done-come-my-way/
 ## Length
 - 
 
-##Lyricist and Source
+## Lyricist and Source
 - Spiritual
 
 ## Manuscripts

@@ -18,7 +18,7 @@ permalink: /price-some-o-these-days/
 ## Length
 - 
 
-##Lyricist and Source
+## Lyricist and Source
 - Spiritual
 
 ## Manuscripts

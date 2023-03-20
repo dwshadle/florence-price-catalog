@@ -18,7 +18,7 @@ permalink: /price-travels-end/
 ## Length
 - 
 
-##Lyricist and Source
+## Lyricist and Source
 - Julia May Folwell Hoisington[^fn1] 
 
 ## Manuscripts

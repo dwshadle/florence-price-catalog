@@ -18,7 +18,7 @@ permalink: /price-great-day/
 ## Length
 - 
 
-##Lyricist and Source
+## Lyricist and Source
 - Spiritual
 
 ## Manuscripts

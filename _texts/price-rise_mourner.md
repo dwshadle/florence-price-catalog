@@ -18,7 +18,7 @@ permalink: /price-rise-mourner/
 ## Length
 - 
 
-##Lyricist and Source
+## Lyricist and Source
 - Spiritual
 
 ## Manuscripts

@@ -19,7 +19,7 @@ document: price_im_workin_on_my_buildin/
 ## Length
 - 
 
-##Lyricist and Source
+## Lyricist and Source
 - Spiritual
 
 ## Manuscripts

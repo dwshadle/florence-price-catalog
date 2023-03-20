@@ -18,7 +18,7 @@ permalink: /price-weary-traveler/
 ## Length
 - 
 
-##Lyricist and Source
+## Lyricist and Source
 - Spiritual
 
 ## Manuscripts

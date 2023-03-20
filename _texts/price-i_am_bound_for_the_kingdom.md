@@ -19,7 +19,7 @@ document: price_i_am_bound_for_the_kingdom.mei
 ## Length
 - 
 
-##Lyricist and Source
+## Lyricist and Source
 - Spiritual
 
 ## Manuscripts

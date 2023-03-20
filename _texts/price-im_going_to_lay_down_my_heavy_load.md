@@ -18,7 +18,7 @@ permalink: /price-im-going-to-lay-down-my-heavy-load/
 ## Length
 - 
 
-##Lyricist and Source
+## Lyricist and Source
 - Spiritual
 
 ## Manuscripts
