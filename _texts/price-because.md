@@ -20,7 +20,7 @@ document: price_because.mei
 - 
 
 ## Lyricist and Source
--
+- Paul Laurence Dunbar
 
 ## Manuscripts
 - 
