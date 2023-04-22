@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pensive Mood
+title: Meditation
 author: Price, Florence B.
 inst: piano-char
 permalink: /price-meditation/

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pensive Mood
+title: Cotton Dance
 author: Price, Florence B.
 inst: piano-char
 permalink: /price-cotton-dance/

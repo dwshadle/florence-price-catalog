@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pensive Mood
+title: Cherry Blossoms in Her Hair
 author: Price, Florence B.
 inst: piano-char
 permalink: /price-cherry-blossoms/

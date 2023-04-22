@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pensive Mood
+title: An Old Love Letter
 author: Price, Florence B.
 inst: piano-char
 permalink: /price-an-old-love-letter/

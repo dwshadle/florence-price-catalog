@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pensive Mood
+title: Mellow Twilight
 author: Price, Florence B.
 inst: piano-char
 permalink: /price-mellow-twilight/
