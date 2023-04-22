@@ -22,7 +22,7 @@ permalink: /price-three-little-negro-dances/
 - 3-4 min.
 
 ## Manuscripts
-- - MC988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
+- MC988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
     * Score (undated): Box 17, Folder 36
 
 ## Premiere Performance
@@ -39,7 +39,9 @@ permalink: /price-three-little-negro-dances/
 - 
 
 ## Thematic Incipits
-- In Progress
+- [I. Hoe Cake](/price-three-little-negro-dances/hoe-cake)
+- [II. Rabbit Foot](/price-three-little-negro-dances/rabbit-foot)
+- [III. Ticklin' Toes](/price-three-little-negro-dances/ticklin-toes)
 
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.

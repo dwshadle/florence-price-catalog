@@ -38,7 +38,7 @@ permalink: /price-violin-concerto-no1/
 
 ## Thematic Incipits
 - [Movement I](/price-violin-concerto-no1/mvt1)
-- [Movement II](/price-violin-concerto-no1/mvt2/)
+- [Movement II](/price-violin-concerto-no1/mvt2)
 - [Movement III](/price-violin-concerto-no1/mvt3)
 
 ## Bibliography
