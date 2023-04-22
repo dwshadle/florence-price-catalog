@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Joy in June
+title: Tip-Toe to the Cookie Jar
 author: Price, Florence B.
 inst: piano-char
-permalink: /price-joy-in-june/
-document: price_joy_in_june.mei
+permalink: /price-tip-toe/
+document: price_tip_toe_to_the_cookie_jar.mei
 ---
 
 ## Alternate Title

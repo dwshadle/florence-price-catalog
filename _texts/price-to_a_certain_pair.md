@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Joy in June
+title: To a Certain Pair of Newlyweds
 author: Price, Florence B.
 inst: piano-char
-permalink: /price-joy-in-june/
-document: price_joy_in_june.mei
+permalink: /price-to-a-certain-pair/
+document: price_to_a_certain_pair.mei
 ---
 
 ## Alternate Title

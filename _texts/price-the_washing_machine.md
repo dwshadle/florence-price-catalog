@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Joy in June
+title: The Washing Machine
 author: Price, Florence B.
 inst: piano-char
-permalink: /price-joy-in-june/
-document: price_joy_in_june.mei
+permalink: /price-the-washing-machine/
+document: price_the_washing_machine.mei
 ---
 
 ## Alternate Title

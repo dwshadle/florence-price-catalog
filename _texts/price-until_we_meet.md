@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Joy in June
+title: Until We Meet
 author: Price, Florence B.
 inst: piano-char
-permalink: /price-joy-in-june/
-document: price_joy_in_june.mei
+permalink: /price-until-we-meet/
+document: price_until_we_meet.mei
 ---
 
 ## Alternate Title

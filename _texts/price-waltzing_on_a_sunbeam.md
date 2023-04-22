@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Joy in June
+title: Waltzing on a Sunbeam
 author: Price, Florence B.
 inst: piano-char
-permalink: /price-joy-in-june/
-document: price_joy_in_june.mei
+permalink: /price-waltzing-on-a-sunbeam/
+document: price_waltzing_on_a_sunbeam.mei
 ---
 
 ## Alternate Title

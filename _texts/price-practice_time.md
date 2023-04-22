@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Joy in June
+title: Practice Time
 author: Price, Florence B.
 inst: piano-char
-permalink: /price-joy-in-june/
-document: price_joy_in_june.mei
+permalink: /price-practice-time/
+document: price_practice_time.mei
 ---
 
 ## Alternate Title

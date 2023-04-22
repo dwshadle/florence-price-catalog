@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Joy in June
+title: Scherzo in G
 author: Price, Florence B.
 inst: piano-char
-permalink: /price-joy-in-june/
-document: price_joy_in_june.mei
+permalink: /price-scherzo-in-g/
+document: price_scherzo_in_g.mei
 ---
 
 ## Alternate Title
