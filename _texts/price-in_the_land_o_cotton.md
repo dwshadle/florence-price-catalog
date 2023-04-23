@@ -3,7 +3,7 @@ layout: page
 title: In the Land o' Cotton
 author: Price, Florence B.
 inst: piano-char
-permalink: /price-land-o-cotton/
+permalink: /price-in-the-land-o-cotton/
 ---
 
 ## Alternate Title
