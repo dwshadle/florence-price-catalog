@@ -23,7 +23,8 @@ document: price_because.mei
 - Paul Laurence Dunbar
 
 ## Manuscripts
-- 
+- MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
+    * Score (undated): Box 59, Folder 1396[^fn1]
 
 ## Premiere Performance
 - 
@@ -66,3 +67,8 @@ document: price_because.mei
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
 {:.bibliography}
+
+--
+
+## Notes
+[^fn1]: This manuscript contains pencil corrections in mm. 13, 24, and 28.

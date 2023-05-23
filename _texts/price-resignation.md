@@ -23,7 +23,8 @@ document: price_resignation.mei
 - Florence B. Price
 
 ## Manuscripts
-- 
+- MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
+    * Score, complete (undated): Box 61, Folder 1423
 
 ## Premiere Performance
 - 

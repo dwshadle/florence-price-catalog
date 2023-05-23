@@ -19,10 +19,11 @@ permalink: /price-the-heart-of-a-woman/
 - 
 
 ## Lyricist and Source
-- 
+- Georgia Douglas Johnson
 
 ## Manuscripts
-- 
+- MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
+    * Score, complete (undated): Box 59, Folder 1408
 
 ## Premiere Performance
 - 

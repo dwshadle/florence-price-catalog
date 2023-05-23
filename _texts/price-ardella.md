@@ -10,7 +10,7 @@ permalink: /price-ardella/
 - 
 
 ## Composition Year
-- 
+- 1935
 
 ## Instrumentation
 - 
@@ -19,10 +19,11 @@ permalink: /price-ardella/
 - 
 
 ## Lyricist and Source
-- 
+- Langston Hughes
 
 ## Manuscripts
-- 
+- MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
+    * Bound score, complete (May 3, 1935): Box 61, Folder 1431[^fn1]
 
 ## Premiere Performance
 - 

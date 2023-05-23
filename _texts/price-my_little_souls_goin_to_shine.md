@@ -22,7 +22,8 @@ permalink: /price-my-little-souls-goin-to-shine/
 - Spiritual
 
 ## Manuscripts
-- 
+- MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
+    * Score, complete (undated): Box 60, Folder 1413
 
 ## Premiere Performance
 - 

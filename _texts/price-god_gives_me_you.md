@@ -7,7 +7,7 @@ permalink: /price-god-gives-me-you/
 ---
 
 ## Alternate Title
-- 
+- Subtitle: "A Wedding Song"
 
 ## Composition Year
 - 
@@ -19,10 +19,11 @@ permalink: /price-god-gives-me-you/
 - 
 
 ## Lyricist and Source
-- 
+- Nora Connelly
 
 ## Manuscripts
-- 
+- MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
+    * Score, complete facsimile (undated): Box 59, Folder 1407
 
 ## Premiere Performance
 - 

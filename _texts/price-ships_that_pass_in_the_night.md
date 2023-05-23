@@ -19,10 +19,11 @@ permalink: /price-ships-that-pass-in-the-night/
 - 
 
 ## Lyricist and Source
-- 
+- Paul Laurence Dunbar
 
 ## Manuscripts
-- 
+- MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
+    * Score, complete (undated): Box 61, Folder 1427
 
 ## Premiere Performance
 - 

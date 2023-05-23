@@ -10,7 +10,7 @@ permalink: /price-goodbye-jinks/
 - 
 
 ## Composition Year
-- 
+- 1935
 
 ## Instrumentation
 - 
@@ -22,7 +22,8 @@ permalink: /price-goodbye-jinks/
 - 
 
 ## Manuscripts
-- 
+- MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
+    * Bound score, complete (Mar. 20, 1935): Box 60, Folder 1418[^fn1]
 
 ## Premiere Performance
 - 
@@ -39,3 +40,8 @@ permalink: /price-goodbye-jinks/
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
 {:.bibliography}
+
+--
+
+## Notes
+[^fn1]: This manuscript is bound in a collection called *Four Negro Songs* that also includes "Easy-goin'," "Summah Night," and "Dat's My Gal," and "Good-bye, Jinks."

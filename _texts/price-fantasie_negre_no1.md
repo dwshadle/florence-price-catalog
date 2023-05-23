@@ -27,10 +27,12 @@ permalink: /price-fantasie-negre-no1/
 - MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
     * Score, complete (February 9&ndash;10, 1929): Box 4A, Folder 1
     * Score, incomplete facsimile (February 9&ndash;10, 1929): Box 4A, Folder 1
+- MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
+    * Score, complete facsimile (February 9&ndash;10, 1929): Box 59, Folder 1403[^fn1]
 
 ## Premiere Performance
-- August 28, 1930; Metropolitan Community Church, Chicago; Margaret Bonds, piano[^fn1]
-- December 9, 1932; Stevens Hotel, Chicago; Florence B. Price and Margaret Bonds, piano[^fn2]
+- August 28, 1930; Metropolitan Community Church, Chicago; Margaret Bonds, piano[^fn2]
+- December 9, 1932; Stevens Hotel, Chicago; Florence B. Price and Margaret Bonds, piano[^fn3]
 
 ## Published Editions
 - Walker-Hill, Helen, ed. <a href="https://www.hildegard.com/catalog.php?keyword=490-01070" target="_blank">*Black Women Composers: A Century of Piano Music (1893&ndash;1990).*</a> Bryn Mawr, PA: Hildegard Publishing Company, 1992.
@@ -56,5 +58,6 @@ permalink: /price-fantasie-negre-no1/
 ---
 
 ## Notes
-[^fn1]: This performance occurred at the twelfth annual convention of the National Association of Negro Musicians.
-[^fn2]: On this occasion, Price used the work to accompany a ballet performed by the Negro Dance Group founded by Katherine Dunham. According to the national edition of the *Chicago Defender* (December 24, 1932), Ludmilla Speranzeva decided to choreograph the piece after hearing Margaret Bonds play it. 
+[^fn1]: This score includes the note, "For Mr. Franz Rupp" (Marian Anderson's accompanist).
+[^fn2]: This performance occurred at the twelfth annual convention of the National Association of Negro Musicians.
+[^fn3]: On this occasion, Price used the work to accompany a ballet performed by the Negro Dance Group founded by Katherine Dunham. According to the national edition of the *Chicago Defender* (December 24, 1932), Ludmilla Speranzeva decided to choreograph the piece after hearing Margaret Bonds play it. 

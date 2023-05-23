@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Song of Living
+title: A Song of Living
 author: Price, Florence B.
 inst: pno-voice-orig
 permalink: /price-song-of-living/
@@ -18,8 +18,12 @@ permalink: /price-song-of-living/
 ## Length
 - 
 
+## Lyricist and Source
+- Amelia Josephine Burr
+
 ## Manuscripts
-- 
+- MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
+    * Bound score, complete facsimile (undated): Box 61, Folder 1429
 
 ## Premiere Performance
 - 

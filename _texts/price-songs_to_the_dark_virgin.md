@@ -28,7 +28,7 @@ document: price_songs_to_the_dark_virgin.mei
 - MC988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
     * Score (May 2, 1935): Box 14, Folder 11
 - MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
-    * Score in a bound collection (April 26, 1935): <a href="https://franklin.library.upenn.edu/catalog/FRANKLIN_9923566763503681" target="_blank">Box 61, Folder 1431</a>
+    * Bound score, complete (May 2, 1935): <a href="https://franklin.library.upenn.edu/catalog/FRANKLIN_9923566763503681" target="_blank">Box 61, Folder 1431</a>[^fn2]
     * Score (undated): <a href="https://franklin.library.upenn.edu/catalog/FRANKLIN_9923566723503681" target="_blank">Box 61, Folder 1433</a>
 
 ## Premiere Performance
@@ -91,4 +91,5 @@ document: price_songs_to_the_dark_virgin.mei
 
 ## Notes
 [^fn1]: Some commentators erroneously refer to this piece as *Song to the Dark Virgin*. The first word should be plural.
-[^fn2]: See "Record Audience Expected to Hear Marian Anderson Sing in City Sunday," *Burlington Free Press*, November 17, 1939.
+[^fn2]: This piece is bound with "My Dream," "Songs to the Dark Virgin," "Ardella," and "Dream Ships."
+[^fn3]: See "Record Audience Expected to Hear Marian Anderson Sing in City Sunday," *Burlington Free Press*, November 17, 1939.

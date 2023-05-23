@@ -19,10 +19,13 @@ permalink: /price-the-poet-and-his-song/
 - 
 
 ## Lyricist and Source
-- 
+- Paul Laurence Dunbar
 
 ## Manuscripts
-- 
+- MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
+    * Score, complete (undated): Box 61, Folder 1421
+- MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
+    * Score, complete (Feb. 9, 1940; rev. Feb. 12): Box 61, Folder 1422
 
 ## Premiere Performance
 - 

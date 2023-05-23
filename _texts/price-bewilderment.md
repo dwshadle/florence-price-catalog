@@ -27,6 +27,8 @@ document: price_bewilderment.mei
     * Score, incomplete (undated): Box 12, Folder 4
 - MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
     * Score, complete (November 5, 1946): Box 4B, Folder 13
+- MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
+    * Bound score, complete (facsimile of score in MC988b): Box 59, Folder 1398
 
 ## Premiere Performance
 - 

@@ -20,10 +20,11 @@ document: price_dawns_awakening.mei
 - 
 
 ## Lyricist and Source
-- 
+- James Joseph Burke
 
 ## Manuscripts
-- 
+- MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
+    * Bound score (undated facsimile): Box 59, Folder 1399[^fn1] 
 
 ## Premiere Performance
 - 
@@ -66,3 +67,8 @@ document: price_dawns_awakening.mei
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
 {:.bibliography}
+
+--
+
+## Notes
+[^fn1]: This score contains the dedication, "Dedicated to Marian Anderson" in blue pen.

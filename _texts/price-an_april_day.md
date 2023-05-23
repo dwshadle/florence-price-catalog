@@ -31,6 +31,8 @@ document: price_an_april_day.mei
     * Score, incomplete (undated): Box 12, Folder 1
 - MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
     * Scores, complete (undated): Box 1A, 12[^fn3]
+- MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
+    * Score, complete (undated): Box 59, Folder 1395
 
 ## Premiere Performance
 - Unknown
