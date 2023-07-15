@@ -42,4 +42,4 @@ permalink: /price-three-negro-dances/
 ---
 
 ## Notes
-[^fn1]: The *Pittsburgh Courier* (August 12, 1939) reports that the U.S. Marine Band performed this arrangement "last Saturday," presumably August 5.
+[^fn1]: The *Chicago Sunday Times* (July 16, 1939) reported that Bainum's band that the piece would appear on "tomorrow night's concert," presumably July 17; the *Pittsburgh Courier* (August 12, 1939) reported that the U.S. Marine Band performed this arrangement "last Saturday," presumably August 5.
