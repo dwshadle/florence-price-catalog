@@ -19,7 +19,7 @@ permalink: /price-nod/
 - 2 min
 
 ## Lyricist and Source
-- 
+- Walter de la Mare (1873–1956)
 
 ## Manuscripts
 - 
