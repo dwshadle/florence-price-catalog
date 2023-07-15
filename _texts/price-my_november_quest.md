@@ -19,7 +19,7 @@ permalink: /price-my-november-quest/
 - 
 
 ## Lyricist and Source
-- 
+- Robert Frost (1874–1963)
 
 ## Manuscripts
 - 
