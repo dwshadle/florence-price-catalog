@@ -10,6 +10,7 @@ This open-access catalog aims to present high-quality information about the musi
 Each catalog entry contains the following data (where known):
 - Title
 - Composition year
+- Copyright Information
 - Instrumentation
 - Length
 - Lyric author and source
