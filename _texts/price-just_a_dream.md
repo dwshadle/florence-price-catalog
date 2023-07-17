@@ -10,7 +10,7 @@ permalink: /price-just-a-dream/
 - 
 
 ## Composition Year
-- 
+- ca. 1928
 
 ## Instrumentation
 - 
@@ -19,7 +19,7 @@ permalink: /price-just-a-dream/
 - 
 
 ## Lyricist and Source
-- 
+- Frank H. Blaha
 
 ## Manuscripts
 - 
