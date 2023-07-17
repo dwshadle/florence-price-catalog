@@ -2,7 +2,7 @@
 layout: page
 title: Travel's End
 author: Price, Florence B.
-inst: pno-voice-arr
+inst: pno-voice-orig
 permalink: /price-travels-end/
 ---
 
