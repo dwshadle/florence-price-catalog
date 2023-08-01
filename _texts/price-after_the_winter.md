@@ -19,7 +19,7 @@ permalink: /price-after-the-winter/
 - 
 
 ## Lyricist and Source
-- 
+- Claude McKay (1890&ndash;1948)
 
 ## Manuscripts
 - 
