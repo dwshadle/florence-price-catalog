@@ -19,7 +19,7 @@ permalink: /price-debts/
 - 
 
 ## Lyricist and Source
--
+- Jessie B. Rittenhouse (1869&ndash;1948)
 
 ## Manuscripts
 - 
