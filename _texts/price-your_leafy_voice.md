@@ -19,7 +19,7 @@ permalink: /price-your-leafy-voice/
 - 
 
 ## Lyricist and Source
-- 
+- Marion Doyle (1898&ndash;1974)
 
 ## Manuscripts
 - 
