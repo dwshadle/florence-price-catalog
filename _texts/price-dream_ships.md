@@ -19,7 +19,7 @@ permalink: /price-dream-ships/
 - 
 
 ## Lyricist and Source
-- Langston Hugues
+- Langston Hughes (1901&ndash;1967)
 - *Waterfront Streets*
 
 ## Manuscripts
