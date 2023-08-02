@@ -19,7 +19,7 @@ permalink: /price-the-meeting-waters/
 - 
 
 ## Lyricist and Source
-- 
+- Elizabeth Whittier (1815&ndash;1864)
 
 ## Manuscripts
 - 
