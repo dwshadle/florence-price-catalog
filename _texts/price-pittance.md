@@ -19,7 +19,7 @@ permalink: /price-pittance/
 - 
 
 ## Lyricist and Source
-- Don Vincent Gray
+- Don Vincent Gray (1912&ndash;1991)
 
 ## Manuscripts
 - MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
