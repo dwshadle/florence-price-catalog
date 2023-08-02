@@ -19,7 +19,7 @@ permalink: /price-monologue-for-the-working-class/
 - 
 
 ## Lyricist and Source
-- 
+- Langston  Hughes (1901&ndash;1967)
 
 ## Manuscripts
 - 
