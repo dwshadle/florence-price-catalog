@@ -19,7 +19,7 @@ permalink: /price-the-dawns-awake/
 - 
 
 ## Lyricist and Source
-- 
+- Otto Leland Bohanan (1895&ndash;1932)
 
 ## Manuscripts
 - 
