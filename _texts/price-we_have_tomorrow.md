@@ -19,7 +19,7 @@ permalink: /price-we-have-tomorrow/
 - 
 
 ## Lyricist and Source
-- 
+- Langston Hughes (1901&ndash;1967)
 
 ## Manuscripts
 - 
