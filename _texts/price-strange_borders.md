@@ -19,7 +19,7 @@ permalink: /price-strange-borders/
 - 
 
 ## Lyricist and Source
-- 
+- M. Ludington Cain (1886&ndash;1965)
 
 ## Manuscripts
 - 
