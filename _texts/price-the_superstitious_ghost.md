@@ -19,7 +19,7 @@ permalink: /price-the-superstitious-ghost/
 - 
 
 ## Lyricist and Source
-- 
+- Arthur Guiterman (1871&ndash;1943)
 
 ## Manuscripts
 - 
