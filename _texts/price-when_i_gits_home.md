@@ -19,7 +19,7 @@ permalink: /price-when-i-gits-home/
 - 
 
 ## Lyricist and Source
-- 
+- Paul Laurence Dunbar (1872&ndash;1906)
 
 ## Manuscripts
 - 
