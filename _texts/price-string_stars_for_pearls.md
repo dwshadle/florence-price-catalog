@@ -19,7 +19,7 @@ permalink: /price-string-stars-for-pearls/
 - 
 
 ## Lyricist and Source
-- 
+- J.U. Nicolson (1885&ndash;1944)
 
 ## Manuscripts
 - 
