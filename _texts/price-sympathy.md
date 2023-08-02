@@ -20,7 +20,7 @@ document: price_sympathy.mei
 - 
 
 ## Lyricist and Source
-- 
+- Paul Laurence Dunbar (1872&ndash;1906)
 
 ## Manuscripts
 - 
