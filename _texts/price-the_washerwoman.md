@@ -20,7 +20,7 @@ document: price_the_washerwoman.mei
 - 
 
 ## Lyricist and Source
-- 
+- Otto Leland Bohanan (1895&ndash;1932)
 
 ## Manuscripts
 - 
