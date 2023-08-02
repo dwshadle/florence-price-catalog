@@ -19,7 +19,7 @@ permalink: /price-the-song-is-so-old/
 - 
 
 ## Lyricist and Source
-- 
+- Hermann Hagedorn (1882&ndash;1964)
 
 ## Manuscripts
 - 
