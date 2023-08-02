@@ -19,7 +19,7 @@ permalink: /price-sunset/
 - 
 
 ## Lyricist and Source
-- 
+- Odessa P. Elder (dates unknown)
 
 ## Manuscripts
 - 
