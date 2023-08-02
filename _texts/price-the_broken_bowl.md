@@ -19,7 +19,7 @@ permalink: /price-the-broken-bowl/
 - 
 
 ## Lyricist and Source
-- 
+- Wesley Curtright (1910&ndash;1988)
 
 ## Manuscripts
 - 
