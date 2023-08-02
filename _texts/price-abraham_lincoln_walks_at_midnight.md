@@ -22,7 +22,7 @@ permalink: /price-abraham-lincoln-walks-at-midnight/
 - Nicholas Vachel Lindsay (1879&ndash;1931)
 - <a href="https://www.google.com/books/edition/The_Congo_and_Other_Poems/LMQBAAAAYAAJ" target="_blank">*The Congo and Other Poems.*</a> New York: The MacMillan Co., 1914.[^fn1]
     * OCLC: <a href="https://www.worldcat.org/title/40402773" target="_blank">40402773</a>
-- Price's Source: Williams, Oscar, ed. A Little Treasury of American Poetry: The Chief Poets from Colonial Times to the Present Day. New York: Charles Scribner's Sons, 1948.
+- Price's Source: Williams, Oscar, ed. *A Little Treasury of American Poetry: The Chief Poets from Colonial Times to the Present Day.* New York: Charles Scribner's Sons, 1948.
     * OCLC: <a href="https://www.worldcat.org/title/1362362" target="_blank">1362362</a>
 
 ## Manuscripts
