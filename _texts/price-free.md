@@ -19,7 +19,7 @@ permalink: /price-free/
 - 
 
 ## Lyricist and Source
-- 
+- Don Vincent Gray (1912&ndash;1991)
 
 ## Manuscripts
 - 
