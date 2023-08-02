@@ -20,7 +20,7 @@ document: price_love_in_a_mist.mei
 - 
 
 ## Lyricist and Source
-- 
+- Mary Rolofson Gamble (dates unknown)
 
 ## Manuscripts
 - 
