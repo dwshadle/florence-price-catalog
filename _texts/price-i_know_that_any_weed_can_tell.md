@@ -19,7 +19,7 @@ permalink: /price-i-know-that-any-weed-can-tell/
 - 
 
 ## Lyricist and Source
-- 
+- Louis Ginsberg (1895&ndash;1976)
 
 ## Manuscripts
 - 
