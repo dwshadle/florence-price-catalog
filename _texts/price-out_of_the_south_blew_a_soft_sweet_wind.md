@@ -19,7 +19,7 @@ permalink: /price-out-of-the-south-blew-a-soft-sweet-wind/
 - 
 
 ## Lyricist and Source
-- 
+- Fannie Carter Woods (1882&ndash;1948)
 
 ## Manuscripts
 - 
