@@ -18,6 +18,9 @@ permalink: /price-dreamin-town/
 ## Length
 - 
 
+## Lyricist and Source
+- 
+
 ## Manuscripts
 - 
 
