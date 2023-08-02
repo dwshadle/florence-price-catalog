@@ -19,7 +19,7 @@ permalink: /price-when-the-green-lies-over-the-earth/
 - 
 
 ## Lyricist and Source
-- 
+- Angelina Grimké (1880&ndash;1958)
 
 ## Manuscripts
 - 
