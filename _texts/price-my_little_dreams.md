@@ -19,7 +19,7 @@ permalink: /price-my-little-dreams/
 - 
 
 ## Lyricist and Source
-- 
+- Georgia Douglas Johnson (1880&ndash;1966)
 
 ## Manuscripts
 - 
