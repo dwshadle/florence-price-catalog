@@ -19,7 +19,7 @@ permalink: /price-words-for-a-spiritual/
 - 
 
 ## Lyricist and Source
-- 
+- Anonymous
 
 ## Manuscripts
 - 
