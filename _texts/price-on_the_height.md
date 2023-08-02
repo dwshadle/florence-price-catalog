@@ -19,7 +19,7 @@ permalink: /price-on-the-height/
 - 
 
 ## Lyricist and Source
-- 
+- Eunice Tietjens (1884&ndash;1944)
 
 ## Manuscripts
 - 
