@@ -13,7 +13,7 @@ permalink: /price-sea-gulls/
 - 
 
 ## Instrumentation
-- SSAA, piano, violin, viola, cello, flue, clarinet
+- SSAA, piano, violin, viola, cello, flute, clarinet
 
 ## Length
 - 
