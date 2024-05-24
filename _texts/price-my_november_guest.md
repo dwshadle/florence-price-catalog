@@ -40,5 +40,5 @@ permalink: /price-my-november-guest/
 
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
-2. Caldwell, Stephen. "The Choral Music of Florence Beatrice Smith Price," *Choral Journal* 62 (Feb. 2022): 14&ndash;20.
+2. Caldwell, Stephen. "The Choral Music of Florence Beatrice Smith Price." *Choral Journal* 62 (Feb. 2022): 14&ndash;20.
 {:.bibliography}
