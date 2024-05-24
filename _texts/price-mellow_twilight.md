@@ -8,10 +8,13 @@ document: price_mellow_twilight.mei
 ---
 
 ## Alternate Title
-- None
+- See also version for violin and piano 
 
 ## Composition Year
 - 
+
+## Copyright Information
+- September 24 and 28, 1929, McKinley Music Co., E pub. 9562
 
 ## Instrumentation
 - Solo piano
