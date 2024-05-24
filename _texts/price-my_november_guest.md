@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My November Quest
+title: My November Guest
 author: Price, Florence B.
 inst: chor-key
 permalink: /price-my-november-quest/
