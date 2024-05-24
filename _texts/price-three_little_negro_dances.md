@@ -14,6 +14,14 @@ permalink: /price-three-little-negro-dances/
 - ca. 1933
 - Two-piano, ca. 1949
 
+## Copyright Information
+- Hoe Cake (solo): 24 Nov 1933, Theodore Presser Co., E pub. 38974
+- Rabbit Foot (solo): 24 Nov 1933, Theodore Presser Co., E pub. 38975
+- Ticklin' Toes (solo): 24 Nov 1933, Theodore Presser Co., E pub. 38976
+- Hoe Cake (Two-piano): 23 Nov 1949, Theodore Presser Co., E pub. 42187
+- Rabbit Foot (Two-piano): 23 Nov 1949, Theodore Presser Co., E pub. 42188
+- Ticklin' Toes (Two-piano): 23 Nov 1949, Theodore Presser Co., E pub. 42189
+
 ## Instrumentation
 - Solo piano
 - Two pianos, four hands
