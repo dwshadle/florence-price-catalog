@@ -7,7 +7,7 @@ permalink: /price-spring-journey/
 ---
 
 ## Alternate Title
-- 
+- N/A
 
 ## Composition Year
 - 

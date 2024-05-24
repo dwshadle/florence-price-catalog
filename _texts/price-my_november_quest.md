@@ -7,7 +7,7 @@ permalink: /price-my-november-quest/
 ---
 
 ## Alternate Title
-- 
+- N/A
 
 ## Composition Year
 - 

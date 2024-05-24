@@ -7,7 +7,7 @@ permalink: /price-sea-gulls/
 ---
 
 ## Alternate Title
-- 
+- N/A
 
 ## Composition Year
 - 
