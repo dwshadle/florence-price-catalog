@@ -13,6 +13,9 @@ document: price_night_wallace.mei
 ## Composition Year
 - 
 
+## Copyright Information
+- June 5, 1946, Edward B. Marks Music Corporation, EP7627 
+
 ## Instrumentation
 - 
 
@@ -20,7 +23,7 @@ document: price_night_wallace.mei
 - 
 
 ## Lyricist and Source
-- Louise Wallace
+- Louise C. Wallace
 
 ## Manuscripts
 - MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
@@ -32,7 +35,7 @@ document: price_night_wallace.mei
 - 
 
 ## Published Editions
-- 
+- Clark, Edgar Rogie, ed. *Negro Art Songs: Album by Contemporary Composers for Voice and Piano*. New York: Edward B. Marks Music Corporation, 1946.
 
 ## Recordings
 - 

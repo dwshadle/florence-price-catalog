@@ -12,6 +12,9 @@ permalink: /price-out-of-the-south-blew-a-soft-sweet-wind/
 ## Composition Year
 - 
 
+## Copyright Information
+- June 5, 1946, Edward B. Marks Music Corporation, EP7626
+
 ## Instrumentation
 - 
 
@@ -28,7 +31,7 @@ permalink: /price-out-of-the-south-blew-a-soft-sweet-wind/
 - 
 
 ## Published Editions
-- 
+- Clark, Edgar Rogie, ed. *Negro Art Songs: Album by Contemporary Composers for Voice and Piano*. New York: Edward B. Marks Music Corporation, 1946.
 
 ## Recordings
 - 

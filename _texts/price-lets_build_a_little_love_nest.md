@@ -12,6 +12,9 @@ permalink: /price-lets-build-a-little-love-nest/
 ## Composition Year
 - 
 
+## Copyright Information
+- January 25, 1930, Florence B. Price and Sal Janeway Carroll, E unp. 16181
+
 ## Instrumentation
 - 
 
@@ -19,7 +22,7 @@ permalink: /price-lets-build-a-little-love-nest/
 - 
 
 ## Lyricist and Source
-- 
+- Sal Janeway Carroll
 
 ## Manuscripts
 - 

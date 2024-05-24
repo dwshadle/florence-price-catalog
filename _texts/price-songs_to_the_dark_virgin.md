@@ -13,6 +13,9 @@ document: price_songs_to_the_dark_virgin.mei
 ## Composition Year
 - 1935
 
+## Copyright Information
+- October 17, 1941, G. Schirmer, Inc., E pub. 98821 
+
 ## Instrumentation
 - Piano and medium or high voice
 

@@ -12,6 +12,9 @@ permalink: /price-sunset/
 ## Composition Year
 - 
 
+## Copyright Information
+- May 21, 1938, Odessa Peak Elder, E unp. 168447
+
 ## Instrumentation
 - 
 

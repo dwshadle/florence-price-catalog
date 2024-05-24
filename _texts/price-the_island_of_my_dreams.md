@@ -12,6 +12,9 @@ permalink: /price-the-island-of-my-dreams/
 ## Composition Year
 - 
 
+## Copyright Information
+- June 21, 1928, Linley Music House, E694900
+
 ## Instrumentation
 - 
 

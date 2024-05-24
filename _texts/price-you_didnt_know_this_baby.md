@@ -12,8 +12,11 @@ permalink: /price-you-didnt-know-this-baby/
 ## Composition Year
 - ca. 1928
 
+## Copyright Information
+- August 25, 1928, Grace Linley, E 698325
+
 ## Instrumentation
-- 
+- Piano and voice with ukulele or banjo ukulele
 
 ## Length
 - 

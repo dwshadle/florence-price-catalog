@@ -12,6 +12,9 @@ permalink: /price-just-a-dream/
 ## Composition Year
 - ca. 1928
 
+## Copyright Information
+- June 29, 1928, Frank H. Blaha and Florence B. Price, E 693843 
+
 ## Instrumentation
 - 
 
