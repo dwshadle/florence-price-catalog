@@ -12,6 +12,9 @@ permalink: /price-desire/
 ## Composition Year
 - 1948
 
+## Copyright Information
+- July 29, 1959, Florence B. Price and E.P. Taylor, EU587304
+
 ## Instrumentation
 - 
 

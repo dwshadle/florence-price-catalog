@@ -12,6 +12,9 @@ permalink: /price-god-gives-me-you/
 ## Composition Year
 - 
 
+## Copyright Information
+- January 18, 1946, Florence B. Price, EU8021
+
 ## Instrumentation
 - 
 

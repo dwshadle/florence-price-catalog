@@ -12,6 +12,9 @@ permalink: /price-trouble-done-come-my-way/
 ## Composition Year
 - 1939
 
+## Copyright Information
+- July 20, 1964, Florence B. Price, EU844756
+
 ## Instrumentation
 - 
 

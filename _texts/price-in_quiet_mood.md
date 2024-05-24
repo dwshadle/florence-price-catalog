@@ -12,6 +12,9 @@ permalink: /price-in-quiet-mood/
 ## Composition Year
 - 1950[^fn1]
 
+## Copyright Information
+- April 12, 1951, Galaxy Music Co., EP 54024
+
 ## Instrumentation
 - Solo organ
 

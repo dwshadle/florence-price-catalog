@@ -13,6 +13,9 @@ document: price_an_april_day.mei
 ## Composition Year
 - 1940?
 
+## Copyright Information
+- February 14, 1949, Handy Bros. Music Co., Inc., EP 34294
+
 ## Instrumentation
 - Piano and high voice
 

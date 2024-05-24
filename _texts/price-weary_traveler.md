@@ -12,6 +12,9 @@ permalink: /price-weary-traveler/
 ## Composition Year
 - 
 
+## Copyright Information
+- July 29, 1959, Florence B. Price, EU 587305
+
 ## Instrumentation
 - 
 

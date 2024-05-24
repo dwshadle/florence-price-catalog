@@ -13,6 +13,9 @@ document: price_i_am_bound_for_the_kingdom.mei
 ## Composition Year
 - 
 
+## Copyright Information
+- February 14, 1949, Handy Bros. Music Co., Inc., EP 34295
+
 ## Instrumentation
 - 
 

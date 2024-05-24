@@ -12,6 +12,9 @@ permalink: /price-hitch-up-your-belts-boys/
 ## Composition Year
 - 
 
+## Copyright Information
+- March 18, 1942, Florence B. Price and Charles J. Johnson, E unp. 289339
+
 ## Instrumentation
 - 
 
