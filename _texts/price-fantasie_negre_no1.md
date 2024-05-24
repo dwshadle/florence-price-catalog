@@ -13,6 +13,9 @@ permalink: /price-fantasie-negre-no1/
 ## Composition Year
 - 1929
 
+## Copyright Information
+- 28 Sep. 1932, Florence Beatrice Price Arnett, E unp. 62084
+
 ## Instrumentation
 - Solo piano
 
