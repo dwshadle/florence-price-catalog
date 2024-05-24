@@ -12,6 +12,9 @@ permalink: /price-piano-sonata-in-E-minor/
 ## Composition Year
 - 1932[^fn1]
 
+## Copyright Information
+- 16 Feb. 1959, Florence Price, EU565746
+
 ## Instrumentation
 - Solo piano
 
