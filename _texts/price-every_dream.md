@@ -12,6 +12,9 @@ permalink: /price-every-dream/
 ## Composition Year
 - 
 
+## Copyright Information
+- May 11, 1929, Florence B. Price and Sal Janeway Carroll, E unp. 6644
+
 ## Instrumentation
 - 
 

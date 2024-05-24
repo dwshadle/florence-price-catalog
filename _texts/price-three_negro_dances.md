@@ -13,6 +13,9 @@ permalink: /price-three-negro-dances/
 ## Composition Year
 - 1939 (orig. ca. 1933)
 
+## Copyright Information
+- March 27, 1939, Theodore Presser Co., E pub. 76068
+
 ## Instrumentation
 - 
 
