@@ -19,7 +19,8 @@ permalink: /price-nod/
 - 2 min
 
 ## Lyricist and Source
-- Walter de la Mare (1873–1956)
+- Walter de la Mare (1873&ndash;1956)
+- Mare, Walter de la. "Nod." (*The English Review*)[https://catalog.hathitrust.org/Record/006946451] 1 (Feb. 1909): 391.
 
 ## Manuscripts
 - 
