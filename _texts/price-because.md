@@ -8,7 +8,7 @@ document: price_because.mei
 ---
 
 ## Alternate Title
-- 
+- N/A[^fn1]
 
 ## Composition Year
 - 
@@ -20,11 +20,13 @@ document: price_because.mei
 - 
 
 ## Lyricist and Source
-- Paul Laurence Dunbar
+- Paul Laurence Dunbar (1872&ndash;1906)
+- Dunbar, Paul Laurence. (*Lyrics of Sunshine and Shadow*.)[https://books.google.com/books?id=fT4RAAAAYAAJ] New York: Dodd, Mean, and Company, 1905.
+     * OCLC: <a href="https://search.worldcat.org/title/3711815" target="_blank">3711815</a>
 
 ## Manuscripts
 - MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
-    * Score (undated): Box 59, Folder 1396[^fn1]
+    * Score (undated): Box 59, Folder 1396[^fn2]
 
 ## Premiere Performance
 - 
@@ -71,4 +73,5 @@ document: price_because.mei
 --
 
 ## Notes
-[^fn1]: This manuscript contains pencil corrections in mm. 13, 24, and 28.
+[^fn1]: Dunbar's original poem is called "Compensation."
+[^fn2]: This manuscript contains pencil corrections in mm. 13, 24, and 28.
