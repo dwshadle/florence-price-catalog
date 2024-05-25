@@ -7,7 +7,7 @@ permalink: /price-summah-night/
 ---
 
 ## Alternate Title
-- 
+- None[^fn1]
 
 ## Composition Year
 - 1935
@@ -44,4 +44,5 @@ permalink: /price-summah-night/
 --
 
 ## Notes
-[^fn1]: This manuscript is bound in a collection called *Four Negro Songs* that also includes "Easy-goin'," "Dat's My Gal," and "Good-bye, Jinks."
+[^fn1]: Dunbar's original poem is called "A Summer Night."
+[^fn2]: This manuscript is bound in a collection called *Four Negro Songs* that also includes "Easy-goin'," "Dat's My Gal," and "Good-bye, Jinks."
