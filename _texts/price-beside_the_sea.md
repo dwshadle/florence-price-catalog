@@ -21,7 +21,7 @@ document: price_beside_the_sea.mei
 
 ## Lyricist and Source
 - Paul Laurence Dunbar (1872&ndash;1906)
-- Dunbar, Paul Laurence. (*Lyrics of Lowly Life*.)[https://books.google.com/books?id=0sFNAAAAMAAJ] New York: Dodd, Mead, and Company, 1896.
+- [*Lyrics of Lowly Life*.](https://books.google.com/books?id=0sFNAAAAMAAJ) New York: Dodd, Mead, and Company, 1896.
      * OCLC: <a href="https://search.worldcat.org/title/1165245" target="_blank">1165245</a>
 
 ## Manuscripts
