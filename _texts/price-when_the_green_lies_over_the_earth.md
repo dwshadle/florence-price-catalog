@@ -20,6 +20,8 @@ permalink: /price-when-the-green-lies-over-the-earth/
 
 ## Lyricist and Source
 - Angelina Grimké (1880&ndash;1958)
+- Cullen, Countee, ed. <a href="https://www.google.com/books/edition/Caroling_Dusk/TFAGAQAAIAAJ" target="_blank">*Caroling Dusk: An Anthology of Verse by Negro Poets.*</a> New York: Harper and Bros., 1927.
+    * OCLC: <a href="https://www.worldcat.org/title/2695994" target="_blank">2695994</a>
 
 ## Manuscripts
 - 
