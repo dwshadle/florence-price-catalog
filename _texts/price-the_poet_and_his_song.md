@@ -19,7 +19,9 @@ permalink: /price-the-poet-and-his-song/
 - 
 
 ## Lyricist and Source
-- Paul Laurence Dunbar
+- Paul Laurence Dunbar (1872&ndash;1906)
+- [*Majors and Minors: Poems*.](https://books.google.com/books?id=PvMpAAAAYAAJ) Toledo, OH: Hadley & Hadley, 1895.
+    * OCLC: <a href="https://search.worldcat.org/title/702705636" target="_blank">702705636</a>
 
 ## Manuscripts
 - MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
