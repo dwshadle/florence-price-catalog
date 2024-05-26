@@ -7,7 +7,7 @@ permalink: /price-after-the-winter/
 ---
 
 ## Alternate Title
-- 
+- None
 
 ## Composition Year
 - 
@@ -20,7 +20,7 @@ permalink: /price-after-the-winter/
 
 ## Lyricist and Source
 - Claude McKay (1890&ndash;1948)
-- McKay, Claude. (*Spring in New Hampshire and Other Poems*.)[https://books.google.com/books?id=AJtOAQAAMAAJ] London: Grant Richards, Ltd., 1920.
+- [*Spring in New Hampshire and Other Poems*.](https://books.google.com/books?id=AJtOAQAAMAAJ) London: Grant Richards, Ltd., 1920.
      * OCLC: <a href="https://search.worldcat.org/title/1434420606" target="_blank">1434420606</a>
 
 ## Manuscripts
