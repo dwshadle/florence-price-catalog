@@ -27,6 +27,8 @@ permalink: /price-a-song-of-living/
 - MC988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
     * Score, complete (December 18, 1945) x3: Box 12, Folder 2
     * Score, complete (undated): Box 12, Folder 2
+- MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
+    * Bound score, complete facsimile (undated): Box 61, Folder 1429
 
 ## Premiere Performance
 - Unknown
