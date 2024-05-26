@@ -29,15 +29,17 @@ permalink: /price-a-song-of-living/
     * Score, complete (undated): Box 12, Folder 2
 - MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
     * Bound score, complete facsimile (undated): Box 61, Folder 1429
+- <a href="https://digitalcommons.colum.edu/cmbr_guides/41/" target="_blank">Helen Walker-Hill Collection</a>, Center for Black Music Research, Columbia College
+    * Facsimile (undated): Box 28, Folder 486
 
 ## Premiere Performance
 - Unknown
 
 ## Published Editions
-- 
+- None
 
 ## Recordings
-- 
+- None
 
 ## Thematic Incipits
 - In progress
