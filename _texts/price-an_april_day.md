@@ -11,7 +11,7 @@ document: price_an_april_day.mei
 - None
 
 ## Composition Year
-- 1940?
+- 1940[?]
 
 ## Copyright Information
 - February 14, 1949, Handy Bros. Music Co., Inc., EP 34294
@@ -49,7 +49,9 @@ document: price_an_april_day.mei
     * OCLC: <a href="https://www.worldcat.org/title/1274116203" target="_blank">1274116203</a>
 
 ## Recordings
-- Under construction
+- <a href="https://search.worldcat.org/title/47851854" target="_blank">*You Can Tell the World: Songs by African-American Women Composers.*</a> Sebronette Barnes, soprano; Elise Auerbach, piano. Senrab Records, 2000.
+- <a href="https://search.worldcat.org/title/49325024" target="_blank">*Sonnets on Love, Rosebuds, and Death: Songs by African-American Women.*</a> Carren Moham, soprano; Michael Lester, piano. NOViTAS Records, 2001.
+- <a href="https://search.worldcat.org/title/808619778" target="_blank">*My Dream: Art Songs and Spirituals by Florence Price.*</a> Richard Heard, tenor; Roy L. Belfield, Jr., piano. Percentage Records, 2012.
 
 ## Thematic Incipit
 <div>
@@ -85,7 +87,10 @@ document: price_an_april_day.mei
 2. Thompson, Marilyn Angela. "W.C. Handy's Contribution to African American Solo Vocal Concert Music." EdD diss., Teachers College, Columbia University, 2007.
 {:.bibliography}
 
---
+## Entry History
+- Completed May 26, 2024
+
+---
 
 ## Notes
 [^fn1]: On manuscript and published versions of this song, the author is often erroneously listed as "Jos. F. Cotter." His middle name was Seamon.
