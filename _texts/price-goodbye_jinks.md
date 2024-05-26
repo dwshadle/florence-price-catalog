@@ -25,7 +25,7 @@ permalink: /price-goodbye-jinks/
 
 ## Manuscripts
 - MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
-    * Bound score, complete (Mar. 20, 1935): Box 60, Folder 1418[^fn1]
+    * Bound score, complete (Mar. 20, 1935): Box 60, Folder 1418[^fn2]
 
 ## Premiere Performance
 - 
@@ -46,4 +46,4 @@ permalink: /price-goodbye-jinks/
 ---
 ## Notes
 [^fn1]: Dunbar's original poem is called "The Delinquent."
-[^fn2]: This manuscript is bound in a collection called *Four Negro Songs* that also includes "Easy-goin'," "Summah Night," and "Dat's My Gal," and "Good-bye, Jinks."
+[^fn2]: This manuscript is bound in a collection called *Four Negro Songs* that also includes "Easy-goin'," "Summah Night," and "Dat's My Gal."
