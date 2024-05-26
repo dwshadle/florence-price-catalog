@@ -20,6 +20,8 @@ permalink: /price-life/
 
 ## Lyricist and Source
 - Paul Laurence Dunbar (1872&ndash;1906)
+- [*Majors and Minors: Poems*.](https://books.google.com/books?id=PvMpAAAAYAAJ) Toledo, OH: Hadley & Hadley, 1895.
+    * OCLC: <a href="https://search.worldcat.org/title/702705636" target="_blank">702705636</a>
 
 ## Manuscripts
 - 
