@@ -20,7 +20,7 @@ permalink: /price-my-november-guest/
 
 ## Lyricist and Source
 - Robert Frost (1874&ndash;1963)
-- Frost, Robert. [*A Boy's Will*.](https://books.google.com/books?id=EiqGT0JJlR0C) New York: Henry Holt and Company, 1915. (First US edition)
+- [*A Boy's Will*.](https://books.google.com/books?id=EiqGT0JJlR0C) New York: Henry Holt and Company, 1915. (First US edition)
      * OCLC: <a href="https://search.worldcat.org/title/869355" target="_blank">869355</a>
 
 ## Manuscripts
