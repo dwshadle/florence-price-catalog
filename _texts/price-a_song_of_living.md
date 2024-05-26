@@ -20,7 +20,7 @@ permalink: /price-a-song-of-living/
 
 ## Lyricist and Source
 - Amelia Josephine Burr (1878&ndash;1968)
-- [*Life and Living: A Book of Verse*](https://www.google.com/books/edition/Life_and_Livng/O1tLAAAAIAAJ?hl=en&gbpv=0) New York: George H. Doran Co., 1916.
+- [*Life and Living: A Book of Verse*.](https://www.google.com/books/edition/Life_and_Livng/O1tLAAAAIAAJ?hl=en&gbpv=0) New York: George H. Doran Co., 1916.
     * OCLC: <a href="https://www.worldcat.org/title/4629224" target="_blank">4629224</a>
 
 ## Manuscript
