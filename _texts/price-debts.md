@@ -20,6 +20,7 @@ permalink: /price-debts/
 
 ## Lyricist and Source
 - Jessie B. Rittenhouse (1869&ndash;1948)
+- [*McClure's Magazine*](https://books.google.com/books?id=3NU5AQAAMAAJ) 47, no. 4 (August 1916): 33.
 
 ## Manuscripts
 - 
