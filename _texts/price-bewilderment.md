@@ -8,7 +8,7 @@ document: price_bewilderment.mei
 ---
 
 ## Alternate Title
-- 
+- None[^fn1]
 
 ## Composition Year
 - 1946
@@ -20,7 +20,11 @@ document: price_bewilderment.mei
 - 
 
 ## Lyricist and Source
-- Langston Hughes
+- Langston Hughes (1901&ndash;1967)
+- [*Fine Clothes to the Jew*.](https://books.google.com/books?id=5qXPAAAAMAAJ) New York: Alfred A. Knopf, 1927.
+    * OCLC: <a href="https://search.worldcat.org/title/35834822" target="_blank">35834822<a/>
+- Cullen, Countee, ed. <a href="https://www.google.com/books/edition/Caroling_Dusk/TFAGAQAAIAAJ" target="_blank">*Caroling Dusk: An Anthology of Verse by Negro Poets.*</a> New York: Harper and Bros., 1927.
+    * OCLC: <a href="https://www.worldcat.org/title/2695994" target="_blank">2695994</a>
 
 ## Manuscripts
 - MC988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
@@ -71,3 +75,8 @@ document: price_bewilderment.mei
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
 {:.bibliography}
+
+-----
+
+## Notes
+[^fn1]: Hughes's original poem is called "Prayer."
