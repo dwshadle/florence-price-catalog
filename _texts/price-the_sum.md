@@ -20,6 +20,8 @@ permalink: /price-the-sum/
 
 ## Lyricist and Source
 - Paul Laurence Dunbar (1872&ndash;1906)
+- [*Lyrics of the Hearthside*.](https://books.google.com/books?id=OX8tAAAAMAAJ) New York: Dodd, Mead, and Company, 1899.
+    * OCLC: <a href="https://search.worldcat.org/title/764434" target="_blank">764434</a>
 
 ## Manuscripts
 - 
