@@ -43,5 +43,5 @@ permalink: /price-the-broken-bowl/
 
 ---
 ## Notes
-[^fn1]: Curtright's original poem is called "Death."
+[^fn1]: Curtwright's original poem is called "Death."
 [^fn2]: Some sources, including the original publication for this poem, spell his surname as "Curtright."

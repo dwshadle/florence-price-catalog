@@ -10,7 +10,7 @@ permalink: /price-rhapsody/
 - 
 
 ## Composition Year
-- 
+- 1941
 
 ## Instrumentation
 - 
@@ -20,7 +20,8 @@ permalink: /price-rhapsody/
 
 ## Lyricist and Source
 - William Stanley Braithwaite (1878&ndash;1962)
-- 
+- [*Lyrics of Life and Love*.](https://books.google.com/books?id=o94QAAAAYAAJ) Boston: Herbert B. Turner & Co., 1904.
+    * OCLC: <a href="https://search.worldcat.org/title/2158667" target="_blank">2158667</a>
 
 ## Manuscripts
 - MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
