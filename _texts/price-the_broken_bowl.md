@@ -7,7 +7,7 @@ permalink: /price-the-broken-bowl/
 ---
 
 ## Alternate Title
-- None[^fn1]
+- "The Bowl is Cracked"[^fn1]
 
 ## Composition Year
 - 
@@ -26,7 +26,7 @@ permalink: /price-the-broken-bowl/
 - 
 
 ## Premiere Performance
-- 
+- Illinois Host House, July 1933
 
 ## Published Editions
 - 
@@ -43,5 +43,5 @@ permalink: /price-the-broken-bowl/
 
 ---
 ## Notes
-[^fn1]: Curtwright's original poem is called "Death."
+[^fn1]: At the Illinois Host House performance in July 1933, the song was listed as "The Bowl is Cracked." Curtwright's original poem is called "Death."
 [^fn2]: Some sources, including the original publication for this poem, spell his surname as "Curtright."

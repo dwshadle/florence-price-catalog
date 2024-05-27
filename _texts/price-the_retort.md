@@ -7,7 +7,7 @@ permalink: /price-the-retort/
 ---
 
 ## Alternate Title
-- 
+- None
 
 ## Composition Year
 - 
@@ -30,7 +30,7 @@ permalink: /price-the-retort/
     * Score, complete (undated): Box 61, Folder 1424[^fn1]
 
 ## Premiere Performance
-- 
+- Illinois Host House, July 1933
 
 ## Published Editions
 - 
@@ -47,4 +47,4 @@ permalink: /price-the-retort/
 
 ---
 ## Notes
-[^fn1]: This manuscript includes the dedication, "To Lewis White."
+[^fn1]: This manuscript includes the dedication, "To Lewis White," the baritone who performed the song at the July 1933 Illinois Host House concert.
