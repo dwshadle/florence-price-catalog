@@ -7,7 +7,7 @@ permalink: /price-bright-be-the-place/
 ---
 
 ## Alternate Title
-- 
+- None
 
 ## Composition Year
 - 1942 (rev. 1944 and 1945)
@@ -20,6 +20,9 @@ permalink: /price-bright-be-the-place/
 
 ## Lyricist and Source
 - George Gordon, Lord Byron (1788&ndash;1824)
+- "Original Poetry." *The Examiner*, June 11, 1815.
+- Revised: [*Poems*.](https://books.google.com/books?id=ethNAAAAcAAJ) London: John Murray, 1816.
+    * OCLC: <a href="https://search.worldcat.org/title/1372001750" target="_blank">1372001750</a>
 
 ## Manuscripts
 - MC988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas

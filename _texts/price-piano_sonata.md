@@ -34,7 +34,8 @@ permalink: /price-piano-sonata-in-E-minor/
     * Facsimiles: Box 27 (Series 7), Folders 475&ndash;77.
 
 ## Premiere Performance
-- Unknown[^fn2]
+- First Movement: July 1933[^fn2]
+- Full Sonata: Unknown[^fn3]
 
 ## Published Editions
 - <a href="https://www.worldcat.org/title/37434377" target="_blank">*Sonata in E Minor for Piano.*</a> Edited by Rae Linda Brown. New York: G. Schirmer, Inc., 1997.
@@ -62,4 +63,5 @@ permalink: /price-piano-sonata-in-E-minor/
 
 ## Notes
 [^fn1]: This piece won first prize for solo instrumental work in the 1932 Rodman Wanamaker competition.
-[^fn2]: Pianist Althea Waites began performing the sonata using copies from the manuscript in MC988 (listed above) around 1986. One of her first performances, according to the *Los Angeles Times* (February 2, 1986), occurred at Murphy Recital Hall, Loyola Marymount University, Los Angeles, California, on February 7, 1986.
+[^fn2]: Illinois Host House program in Claude Barnett Papers
+[^fn3]: Pianist Althea Waites began performing the sonata using copies from the manuscript in MC988 (listed above) around 1986. One of her first performances, according to the *Los Angeles Times* (February 2, 1986), occurred at Murphy Recital Hall, Loyola Marymount University, Los Angeles, California, on February 7, 1986.

@@ -45,5 +45,5 @@ permalink: /price-brown-arms/
 ---
 
 ## Notes
-[^fn1]: "To Mother" is the title of the original poem.
+[^fn1]: "To Mother" is the title of Owens's original poem.
 [^fn2]: This score lists the composer as "OAK LEAF" and the lyricist as "A Colored Poet." It includes other markings ("Class I" and "103" [in blue pencil]) that suggest it was entered into a composition contest. 
