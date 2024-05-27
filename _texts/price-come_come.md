@@ -8,7 +8,7 @@ document: price_come_come.mei
 ---
 
 ## Alternate Title
-- 
+- None
 
 ## Composition Year
 - 
@@ -17,10 +17,11 @@ document: price_come_come.mei
 - 
 
 ## Length
-- 
+- 30 sec
 
 ## Lyricist and Source
-- Thomas Moore (1779&ndash;1852)[^fn1]
+- Thomas Moore (1779&ndash;1852)[^fn2]
+- [*Fables of the Holy Alliance, Rhymes on the Road, &c. &c.*](https://books.google.com/books?id=yVYJAAAAQAAJ) London: Longman, Hurst, Rees, Orme, and Brown, 1823.
 
 ## Manuscripts
 - MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
@@ -30,10 +31,11 @@ document: price_come_come.mei
 - 
 
 ## Published Editions
-- 
+- Heard, Richard, ed. <a href="https://www.classicalvocalrep.com/products/44-Art-Songs-and-Spirituals-by-Florence-B-Price-for-Medium-High-Voice-and-Piano-Richard-Heard-205398.html" target="_blank">*44 Art Songs and Spirituals by Florence Price.*</a> Fayetteville, AR: ClarNan Editions, 2015.
+    * OCLC: <a href="https://www.worldcat.org/title/902815587" target="_blank">902815587</a>
 
 ## Recordings
-- 
+- <a href="https://search.worldcat.org/title/808619778" target="_blank">*My Dream: Art Songs and Spirituals by Florence Price.*</a> Richard Heard, tenor; Roy L. Belfield, Jr., piano. Percentage Records, 2012.
 
 ## Thematic Incipits
 <div>
@@ -69,6 +71,6 @@ document: price_come_come.mei
 {:.bibliography}
 
 ---
-
 ## Notes
-[^fn1]: The manuscript in MC 988b Box 4A incorrectly lists Ogden Nash as the lyricist.
+[^fn1]: Moore's original poem is called "A Joke Versified."
+[^fn2]: The manuscript in MC 988b Box 4A incorrectly lists Ogden Nash as the lyricist.
