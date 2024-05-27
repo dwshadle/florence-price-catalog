@@ -20,11 +20,11 @@ document: price_dawns_awakening.mei
 - 
 
 ## Lyricist and Source
-- James Joseph Burke (1836[?]&ndash;1928[?])
+- James Joseph Burke (1836[?]&ndash;1928)[^fn1]
 
 ## Manuscripts
 - MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
-    * Bound score (undated facsimile): Box 59, Folder 1399[^fn1] 
+    * Bound score (undated facsimile): Box 59, Folder 1399[^fn2] 
 
 ## Premiere Performance
 - 
@@ -71,4 +71,5 @@ document: price_dawns_awakening.mei
 --
 
 ## Notes
-[^fn1]: This score contains the dedication, "Dedicated to Marian Anderson" in blue pen.
+[^fn1]: Certain recent sources list Burke's dates of life as 1836&ndash;1928, suggesting that he was Capt. James Burke, described in the *Staten Island Advance* (April 24, 1924) as a "prolific writer of verse." Burke's [gravestone](https://www.findagrave.com/memorial/88433800/james-burke) gives his birth year as 1835. Obituaries listed him variously as 91, 92, and 93 years old when he died in April 1928.
+[^fn2]: This score contains the dedication, "Dedicated to Marian Anderson" in blue pen.
