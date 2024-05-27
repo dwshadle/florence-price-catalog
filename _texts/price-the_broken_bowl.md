@@ -7,7 +7,7 @@ permalink: /price-the-broken-bowl/
 ---
 
 ## Alternate Title
-- 
+- None[^fn1]
 
 ## Composition Year
 - 
@@ -19,7 +19,8 @@ permalink: /price-the-broken-bowl/
 - 
 
 ## Lyricist and Source
-- Wesley Curtright (1910&ndash;1988)
+- Wesley Curtwright (1910&ndash;1988)[^fn2]
+- "Death." [*Opportunity: A Journal of Negro Life*](https://books.google.com/books?id=Wf0qAAAAMAA) 4 (Sep. 1926): 284.
 
 ## Manuscripts
 - 
@@ -39,3 +40,8 @@ permalink: /price-the-broken-bowl/
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
 {:.bibliography}
+
+---
+## Notes
+[^fn1]: Curtright's original poem is called "Death."
+[^fn2]: Some sources, including the original publication for this poem, spell his surname as "Curtright."
