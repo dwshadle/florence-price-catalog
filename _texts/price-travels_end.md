@@ -19,7 +19,8 @@ permalink: /price-travels-end/
 - 
 
 ## Lyricist and Source
-- Julia May Folwell Hoisington[^fn1] 
+- Julia May Folwell Hoisington[^fn1]
+- "Travel's End." [*The Step Ladder*](https://books.google.com/books?id=NGDPAAAAMAAJ) 12, no. 2 (July 1926): 28.
 
 ## Manuscripts
 - MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
