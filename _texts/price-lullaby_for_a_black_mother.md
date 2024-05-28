@@ -19,7 +19,8 @@ permalink: /price-lullaby-for-a-black-mother/
 - 
 
 ## Lyricist and Source
-- Langston Hughes
+- Langston Hughes (1901&ndash;1967)
+- "Lullaby." [*The Crisis*.](https://books.google.com/books?id=YFoEAAAAMBAJ) 31, no. 5 (March 1926): 224.
 
 ## Manuscripts
 - MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas

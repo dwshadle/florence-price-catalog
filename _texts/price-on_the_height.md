@@ -20,6 +20,8 @@ permalink: /price-on-the-height/
 
 ## Lyricist and Source
 - Eunice Tietjens (1884&ndash;1944)
+- [*Body and Raiment*.](https://books.google.com/books?id=2PQOAAAAIAAJ&) New York: Alfred A. Knopf, 1919.
+    * OCLC: <a href="https://search.worldcat.org/title/2704114" target="_blank">https://search.worldcat.org/title/2704114</a>
 
 ## Manuscripts
 - 
