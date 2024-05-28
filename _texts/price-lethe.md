@@ -20,6 +20,7 @@ permalink: /price-lethe/
 
 ## Lyricist and Source
 - Georgia Douglas Johnson (1880&ndash;1966)
+- "Lethe." [*Opportunity: A Journal of Negro Life*](https://books.google.com/books?id=Wf0qAAAAMAAJ) 4, no. 43 (July 1926): 229.
 
 ## Manuscripts
 - 
