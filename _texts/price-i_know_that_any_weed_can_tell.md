@@ -7,7 +7,7 @@ permalink: /price-i-know-that-any-weed-can-tell/
 ---
 
 ## Alternate Title
-- 
+- None[^fn1]
 
 ## Composition Year
 - 
@@ -20,6 +20,8 @@ permalink: /price-i-know-that-any-weed-can-tell/
 
 ## Lyricist and Source
 - Louis Ginsberg (1895&ndash;1976)
+- [*Copy 1924*.](https://books.google.com/books?id=EbcLAQAAIAAJ) New York: Columbia University Press, 1924. 
+    * OCLC: <a href="https://search.worldcat.org/title/3520531" target="_blank">3520531</a>
 
 ## Manuscripts
 - 
@@ -39,3 +41,7 @@ permalink: /price-i-know-that-any-weed-can-tell/
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
 {:.bibliography}
+
+---
+## Notes
+[^fn1]: Ginsberg's original poem is called "Song."
