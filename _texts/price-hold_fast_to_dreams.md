@@ -8,7 +8,7 @@ document: price_hold_fast_to_dreams.mei
 ---
 
 ## Alternate Title
-- 
+- None[^fn1]
 
 ## Composition Year
 - 
@@ -21,6 +21,7 @@ document: price_hold_fast_to_dreams.mei
 
 ## Lyricist and Source
 - Langston Hughes (1901&ndash;1967)
+- "Dreams." [*The World Tomorrow*](https://catalog.hathitrust.org/Record/008956003) 6, no. 5 (May 1923): 147.
 
 ## Manuscripts
 - 
@@ -66,3 +67,7 @@ document: price_hold_fast_to_dreams.mei
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
 {:.bibliography}
+
+---
+## Notes
+[^fn1]: Hughes's original poem is called "Dreams."
