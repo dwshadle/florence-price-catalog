@@ -19,7 +19,9 @@ permalink: /price-wander-thirst/
 - 
 
 ## Lyricist and Source
-- Gerald Gould
+- Gerald Gould (1885&ndash;1936)
+- [*The Open Road: A Little Book for Wayfarers*.](https://books.google.com/books?id=ZrUvAQAAMAAJ) Compiled by E.V. Lucas. New and Enlarged Edition. London: Methuen & Co., 1905. 
+    * OCLC: <a href="https://search.worldcat.org/title/1598596" target="_blank">1598596</a>
 
 ## Manuscripts
 - MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas

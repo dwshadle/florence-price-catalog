@@ -19,8 +19,9 @@ permalink: /price-who-grope-with-love-for-hands/
 - 
 
 ## Lyricist and Source
-- Samuel Hoffenstein
-- "Pencil in the Air" (Doubleday and Co.)
+- Samuel Hoffenstein (1890&ndash;1947)
+- *Pencil in the Air*. Garden City, NY: Doubleday, 1947.
+    * OCLC: <a href="https://search.worldcat.org/title/1136728" target="_blank">1136728</a>
 
 ## Manuscripts
 - MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
