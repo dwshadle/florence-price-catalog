@@ -20,6 +20,8 @@ permalink: /price-the-superstitious-ghost/
 
 ## Lyricist and Source
 - Arthur Guiterman (1871&ndash;1943)
+- [*The Mirthful Lyre*.](https://books.google.com/books?id=DxZLAAAAIAAJ) New York: Harper & Brothers, 1918
+    * OCLC: <a href="https://search.worldcat.org/title/1487539" target="_blank">1487539</a>
 
 ## Manuscripts
 - 
