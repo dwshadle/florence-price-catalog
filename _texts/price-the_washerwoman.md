@@ -21,6 +21,7 @@ document: price_the_washerwoman.mei
 
 ## Lyricist and Source
 - Otto Leland Bohanan (1895&ndash;1932)
+- "The Washer-Woman." [*The Crisis*](https://books.google.com/books?id=eyoG2wFb_LwC) 12, no. 2 (June 1916): 90.
 
 ## Manuscripts
 - 
