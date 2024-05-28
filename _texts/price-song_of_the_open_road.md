@@ -21,6 +21,7 @@ document: price_song_of_the_open_road.mei
 
 ## Lyricist and Source
 - Ogden Nash (1902&ndash;1971)
+- "Song of the Open Road." *New Yorker* (October 15, 1932): 18.
 
 ## Manuscripts
 - MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
