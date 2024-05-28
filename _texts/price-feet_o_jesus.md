@@ -21,6 +21,8 @@ document: price_feet_o_jesus.mei
 
 ## Lyricist and Source
 - Langston Hughes (1901&ndash;1967)
+- [*Fine Clothes to the Jew*.](https://books.google.com/books?id=5qXPAAAAMAAJ) New York: Alfred A. Knopf, 1927.
+    * OCLC: <a href="https://search.worldcat.org/title/35834822" target="_blank">35834822<a/>
 
 ## Manuscripts
 - 
