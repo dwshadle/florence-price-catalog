@@ -20,6 +20,7 @@ permalink: /price-the-dawns-awake/
 
 ## Lyricist and Source
 - Otto Leland Bohanan (1895&ndash;1932)
+- "The Dawn's Awake!" [*The Crisis*](https://books.google.com/books?id=5VkEAAAAMBAJ) 13, no. 6 (April 1917): 271.
 
 ## Manuscripts
 - 
