@@ -7,7 +7,7 @@ permalink: /price-when-i-gits-home/
 ---
 
 ## Alternate Title
-- 
+- None[^fn1]
 
 ## Composition Year
 - 
@@ -20,6 +20,8 @@ permalink: /price-when-i-gits-home/
 
 ## Lyricist and Source
 - Paul Laurence Dunbar (1872&ndash;1906)
+- [*Lyrics of Love and Laughter*.](https://books.google.com/books?id=i9QVAAAAYAAJ) New York: Dodd, Mead, and Company, 1903
+    * OCLC: <a href="https://search.worldcat.org/title/761840" target="_blank">761840</a>
 
 ## Manuscripts
 - 
@@ -39,3 +41,7 @@ permalink: /price-when-i-gits-home/
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
 {:.bibliography}
+
+---
+## Notes
+[^fn1]: Dunbar's original poem is called "W'en I Gits Home."
