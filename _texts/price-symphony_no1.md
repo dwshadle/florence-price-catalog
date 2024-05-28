@@ -61,8 +61,10 @@ permalink: /price-symphony-no1/
 13. Villella, Frank. "<a href="https://csoarchives.wordpress.com/2016/05/05/125-moments-072-prices-symphony-in-e-minor/" target="_blank">125 Moments: 072 Price's Symphony in E Minor.</a>" *From the Archives: Musings from the Rosenthal Archives of the Chicago Symphony Orchestra Association*. May 5, 2016.
 {:.bibliography}
 
----
+## Entry History
+- Submitted February 11, 2023 
 
+---
 ## Notes
 [^fn1]: One of Price's daughters, Florence Louise Robinson, occasionally mixed up the first and third symphonies in her correspondence by referring to the E Minor symphony as No. 3.
 [^fn2]: The piece won first prize ($500) for the orchestral music category in the 1932 Rodman Wanamaker competition.

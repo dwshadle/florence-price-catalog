@@ -88,7 +88,7 @@ document: price_an_april_day.mei
 {:.bibliography}
 
 ## Entry History
-- Completed May 26, 2024
+- Submitted May 26, 2024
 
 ---
 
