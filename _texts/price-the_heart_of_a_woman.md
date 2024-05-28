@@ -19,7 +19,9 @@ permalink: /price-the-heart-of-a-woman/
 - 
 
 ## Lyricist and Source
-- Georgia Douglas Johnson
+- Georgia Douglas Johnson (1880&ndash;1966)
+- [*The Heart of a Woman and Other Poems*.](https://books.google.com/books?id=1Ru-P5lGEAYC) Boston: The Cornhill Company, 1918.
+    * OCLC: <a href="https://search.worldcat.org/title/1309376420" target="_blank">1309376420</a>
 
 ## Manuscripts
 - MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
