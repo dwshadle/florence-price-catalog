@@ -21,6 +21,7 @@ permalink: /price-my-soul-and-i/
 ## Lyricist and Source
 - Melvin B. Tolson (1898&ndash;1966)
 - *Rendezvous with America.* New York: Dodd, Mead, and Co., 1944.
+    * OCLC: <a href="https://search.worldcat.org/title/774506" target="_blank">774506</a>
 
 ## Manuscripts
 - MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
