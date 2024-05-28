@@ -20,6 +20,8 @@ permalink: /price-string-stars-for-pearls/
 
 ## Lyricist and Source
 - J.U. Nicolson (1885&ndash;1944)
+- [*King of the Black Isles*.](https://books.google.com/books?id=1Gfm2tkWlkEC) Chicago: Covici-McGee Co., 1924.
+    * OCLC: <a href="https://search.worldcat.org/title/1497659" target="_blank">1497659</a>
 
 ## Manuscripts
 - 
