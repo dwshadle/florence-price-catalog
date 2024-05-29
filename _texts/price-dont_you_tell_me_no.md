@@ -31,7 +31,7 @@ permalink: /price-dont-you-tell-me-no/
 - 
 
 ## Recordings
-- 
+- *Nearly Lost: Art Songs by Florence Price.* Christine Jobson, soprano; Gregory Thompson, piano; feat. Jane Brendle, violin, and Sarah Markle, cello. Christine Jobson, 2019.
 
 ## Thematic Incipits
 - In progress
