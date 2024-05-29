@@ -70,7 +70,9 @@ document: price_concert_overture_no1.mei
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
 {:.bibliography}
 
----
+## Entry History
+- Submitted February 13, 2023
 
+---
 ## Notes
 [^fn1]: The piece appeared with this title on the June 16, 1939 program.
