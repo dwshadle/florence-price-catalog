@@ -13,7 +13,7 @@ The project launched in January 2023 with several entries for well-known works, 
 
 A second phase of the project began in February 2023 with the addition of Cheston Humphries (University of Vienna) as an incipit designer. The first batch of incipits Humphries designed include those for *Five Folksongs in Counterpoint*, *Negro Folksongs in Counterpoint*, Symphony No. 4 in D Minor, the String Quartet in A Minor, and the orchestral tone poems. Between the catalog's launch and the release of this batch, the Verovio web app introduced a playback feature.
 
-The catalog began introducing copyright information and source texts for song lyrics in May 2024, thanks to the efforts of undergraduate research assistant Aileen Lorge (Vanderbilt University).
+The catalog began introducing copyright information and source texts for song lyrics in May 2024, thanks to the efforts of undergraduate research assistant Aileen Lorge (Vanderbilt University). May 2024 updates also included the completion of entries for all manuscripts held in the <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a> at the University of Pennsylvania's Kislak Center for Special Collections.
 
 ## Acknowledgments
 
