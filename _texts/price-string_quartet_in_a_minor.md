@@ -32,6 +32,7 @@ permalink: /price-string-quartet-in-a-minor/
 
 ## Recordings
 - *Uncovered, Vol 2: Florence Price.* Catalyst Quartet. Azica Records Azica71346, 2022.
+- <a href="https://www.naxos.com/CatalogueDetail/?id=8.559941" target="_blank">*Florence Beatrice Price / Leo Sowerby: Music for String Quartet.*</a> Avalon Quartet. Naxos 8.559941, 2024.
 
 ## Thematic Incipits
 - [Movement I](/price-string-quartet-in-a-minor/mvt1)
@@ -42,3 +43,7 @@ permalink: /price-string-quartet-in-a-minor/
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
 {:.bibliography}
+
+## Entry History
+- Submitted February 13, 2023
+- Revised May 28, 2024
