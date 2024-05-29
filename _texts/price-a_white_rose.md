@@ -28,7 +28,7 @@ document: price_a_white_rose.mei
 
 ## Manuscripts
 - MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
-    * Score (undated): <a href="https://franklin.library.upenn.edu/catalog/FRANKLIN_9923566943503681" target="_blank">Box 61, Folder 1440</a>[^fn2]
+    * Score, complete facsimile (undated): <a href="https://franklin.library.upenn.edu/catalog/FRANKLIN_9923566943503681" target="_blank">Box 61, Folder 1440</a>[^fn2]
 
 ## Premiere Performance
 - Unknown

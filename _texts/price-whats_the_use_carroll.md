@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Weary Traveler
+title: What's the Use
 author: Price, Florence B.
-inst: pno-voice-arr
-permalink: /price-weary-traveler/
+inst: pno-voice-orig
+permalink: /price-whats-the-use-carroll/
 ---
 
 ## Alternate Title
 - 
 
 ## Composition Year
-- 
+- 1930
 
 ## Copyright Information
-- July 29, 1959, Florence B. Price, EU 587305
+- January 25, 1930, Florence B. Price and Sal Janeway Carroll, E unp. 16180
 
 ## Instrumentation
 - 
@@ -22,11 +22,10 @@ permalink: /price-weary-traveler/
 - 
 
 ## Lyricist and Source
-- Spiritual
+- Sal Janeway Carroll
 
 ## Manuscripts
-- MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
-    * Score, complete facsimile (undated): <a href="https://franklin.library.upenn.edu/catalog/FRANKLIN_9923566983503681" target="_blank">Box 61, Folder 1438</a>
+-
 
 ## Premiere Performance
 - 
