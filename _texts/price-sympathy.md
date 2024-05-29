@@ -25,7 +25,8 @@ document: price_sympathy.mei
     * OCLC: <a href="https://search.worldcat.org/title/764434" target="_blank">764434</a>
 
 ## Manuscripts
-- 
+- MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
+    * Score, complete (undated): <a href="https://franklin.library.upenn.edu/catalog/FRANKLIN_9923566683503681" target="_blank">Box 61, Folder 1434</a>
 
 ## Premiere Performance
 - 

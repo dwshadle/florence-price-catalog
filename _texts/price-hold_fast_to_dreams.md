@@ -24,7 +24,8 @@ document: price_hold_fast_to_dreams.mei
 - "Dreams." [*The World Tomorrow*](https://catalog.hathitrust.org/Record/008956003) 6, no. 5 (May 1923): 147.
 
 ## Manuscripts
-- 
+- MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
+    * Bound score, complete (undated): <a href="https://franklin.library.upenn.edu/catalog/FRANKLIN_9923566753503681" target="_blank">Box 61, Folder 1432</a>[^fn2]
 
 ## Premiere Performance
 - 
@@ -71,3 +72,4 @@ document: price_hold_fast_to_dreams.mei
 ---
 ## Notes
 [^fn1]: Hughes's original poem is called "Dreams."
+[^fn2]: This score is bound with "Feet O' Jesus" and "We Have Tomorrow."

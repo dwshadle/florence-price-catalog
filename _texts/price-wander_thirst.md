@@ -7,7 +7,7 @@ permalink: /price-wander-thirst/
 ---
 
 ## Alternate Title
-- 
+- None
 
 ## Composition Year
 - 
@@ -26,6 +26,9 @@ permalink: /price-wander-thirst/
 ## Manuscripts
 - MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
     * Score, complete (undated): Box 4A, Folder 13
+
+- MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
+    * Score, complete (undated): <a href="https://franklin.library.upenn.edu/catalog/FRANKLIN_9923566973503681" target="_blank">Box 61, Folder 1436</a>
 
 ## Premiere Performance
 - 

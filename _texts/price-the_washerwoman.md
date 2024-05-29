@@ -24,7 +24,8 @@ document: price_the_washerwoman.mei
 - "The Washer-Woman." [*The Crisis*](https://books.google.com/books?id=eyoG2wFb_LwC) 12, no. 2 (June 1916): 90.
 
 ## Manuscripts
-- 
+- MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
+    * Score, complete (undated): <a href="https://franklin.library.upenn.edu/catalog/FRANKLIN_9923566963503681" target="_blank">Box 61, Folder 1437</a>
 
 ## Premiere Performance
 - 
