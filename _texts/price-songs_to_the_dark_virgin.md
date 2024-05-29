@@ -94,5 +94,5 @@ document: price_songs_to_the_dark_virgin.mei
 
 ## Notes
 [^fn1]: Some commentators erroneously refer to this piece as *Song to the Dark Virgin*. The first word should be plural.
-[^fn2]: This piece is bound with "My Dream," "Songs to the Dark Virgin," "Ardella," and "Dream Ships."
+[^fn2]: This piece is bound with "My Dream," "Ardella," and "Dream Ships."
 [^fn3]: See "Record Audience Expected to Hear Marian Anderson Sing in City Sunday," *Burlington Free Press*, November 17, 1939.
