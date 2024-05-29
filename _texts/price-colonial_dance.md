@@ -11,7 +11,7 @@ document: price_colonial_dance.mei
 - None
 
 ## Composition Year
-- Unknown
+- In or before 1942[^fn1]
 
 ## Instrumentation
 - 2+pic.2.2.2 - 4.2.3.1 - timp.2perc - str
@@ -69,4 +69,12 @@ document: price_colonial_dance.mei
 
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
+2. Layne, Maude Wanzer. *The Negro's Contribution to Music.* Charleston, WV: Mathews Printing and Lithographing Co., 1942.
 {:.bibliography}
+
+## Entry History
+- Submitted May 29, 2024
+
+---
+## Notes
+[^fn1]: Maude Wanzer Layne's *The Negro's Contribution to Music* (1942) lists *Colonial Dance* among Price's completed works for orchestra.
