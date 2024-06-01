@@ -38,6 +38,7 @@ permalink: /price-symphony-no1/
 - <a href="https://www.albanyrecords.com/mm5/merchant.mvc?Screen=PROD&Product_Code=TROY1295" target="_blank">Florence B Price: Concerto in One Movement/Symphony in E Minor.</a> Karen Walwyn, piano; Leslie B. Dunner, conductor; New Black Music Repertory Ensemble. Albany Records TROY 1295, 2011.
 - <a href="https://www.naxos.com/CatalogueDetail/?id=8.559827" target="_blank">Price: Symphonies Nos. 1 and 4.</a> John Jeter, conductor; Fort Smith Symphony. Naxos Records 8.559827, 2019.
 - <a href="https://www.deutschegrammophon.com/en/catalogue/products/price-symphonies-nos-1-3-nezet-seguin-12476" target="_blank">Florence Price: Symphonies Nos. 1 and 3.</a> Yannick Nézet-Séguin, conductor; Philadelphia Orchestra. Deutsche Grammophon 4862029, 2022.
+- <a href="https://shop.decca.com/products/florence-price-cd" target="_blank">F.B. Price: Piano Concerto in One Movement / Symphony No. 1.</a> Roderick Cox and Leslie Suganandarajah, cond.; Jeneba Kanneh-Mason, piano; Chineke! Orchestra. Decca Classics, 2023.
 
 ## Thematic Incipits
 - [Movement I](/price-symphony-no1/mvt1)
@@ -62,7 +63,8 @@ permalink: /price-symphony-no1/
 {:.bibliography}
 
 ## Entry History
-- Submitted February 11, 2023 
+- Submitted February 11, 2023
+- Revised May 31, 2024
 
 ---
 ## Notes

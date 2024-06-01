@@ -33,6 +33,7 @@ permalink: /price-ethiopias-shadow/
 ## Recordings
 - <a href="https://www.naxos.com/CatalogueDetail/?id=8.559897" target="_blank">Florence Beatrice Price: Symphony No. 3 - The Mississippi River - Ethiopia's Shadow in America.</a> John Jeter, conductor; ORF Vienna Radio Symphony Orchestra. Naxos 8.559897, 2021.
 - <a href="https://www.avie-records.com/releases/works-by-florence-price-valerie-coleman-jessie-montgomery/" target="_blank">Works by Florence Price, Jessie Montgomery, Valerie Coleman.</a> Michael Repper, conductor; New York Youth Symphony. Avie Records AC2503, 2022.
+- <a href="https://shop.decca.com/products/florence-price-cd" target="_blank">F.B. Price: Piano Concerto in One Movement / Symphony No. 1.</a> Roderick Cox and Leslie Suganandarajah, cond.; Jeneba Kanneh-Mason, piano; Chineke! Orchestra. Decca Classics, 2023.
 
 ## Thematic Incipits
 - [Movement I](/price-ethiopias-shadow/mvt1)
@@ -44,8 +45,10 @@ permalink: /price-ethiopias-shadow/
 2. McGinty, Doris Evans. <a href="https://www.worldcat.org/title/54778506" target="_blank">*A Documentary History of the National Association of Negro Musicians.*</a> Chicago: Center for Black Music Research, Columbia College Chicago, 2004.
 {:.bibliography}
 
----
+## Entry History
+- Submitted May 31, 2024
 
+---
 ## Notes
 [^fn1]: The piece won an honorable mention for the orchestral music category in the 1932 Rodman Wanamaker competition.
 [^fn2]: This manuscript lists the name "Acorn" as the author, likely indicating an anonymized competition entry.

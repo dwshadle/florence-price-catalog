@@ -15,7 +15,7 @@ permalink: /price-piano-concerto-no1/
 - 1933&ndash;34 (Trevor Weston re-orchestration, 2010&ndash;11)
 
 ## Instrumentation
-- Original: 1.1.2.1 - 2.2.2.0 - timp.3perc - strings
+- Original: 1.1.2.1-2.2.2.0-timp.3perc-strings
 - Weston: 
 
 ## Length
@@ -48,6 +48,7 @@ permalink: /price-piano-concerto-no1/
 - <a href="https://www.avie-records.com/releases/works-by-florence-price-valerie-coleman-jessie-montgomery/" target="_blank">Works by Florence Price, Jessie Montgomery, Valerie Coleman.</a> Michelle Cann, piano; Michael Repper, conductor; New York Youth Symphony. Avie Records AC2503, 2022. (Original)
 - <a href="https://www.amazon.com/dp/B09VLM8Q4F/ref=sr_1_2" target="_blank">Florence Price: Concerto in One Movement</a>. Karen Walwyn, piano; Geoffrey Robson, conductor; Arkansas Symphony Orchestra. DistroKid 3724517 Records DK, 2022. (Original, digital only)
 - <a href="https://www.prestomusic.com/classical/products/9361778--black-renaissance-woman" target="_blank">*Black Renaissance Woman.*</a> Samantha Ege (solo) and John Paul Ekin (orch.), pianos; Lorelt LNT145, 2022.
+- <a href="https://shop.decca.com/products/florence-price-cd" target="_blank">F.B. Price: Piano Concerto in One Movement / Symphony No. 1.</a> Roderick Cox and Leslie Suganandarajah, cond.; Jeneba Kanneh-Mason, piano; Chineke! Orchestra. Decca Classics, 2023.
 
 ## Thematic Incipits
 - In Progress
@@ -62,7 +63,6 @@ permalink: /price-piano-concerto-no1/
 {:.bibliography}
 
 ---
-
 ## Notes
 
 [^fn1]: The editors at G. Schirmer, Inc., <a href="https://www.wisemusicclassical.com/features/2020/02/florence-price-original-manuscripts/" target="_blank">used this set of parts</a> to create the published edition of Price's original orchestration.
