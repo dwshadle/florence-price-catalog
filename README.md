@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This open-access catalog is a companion project to <a href="https://www.samanthaege.com/" target="_blank">Samantha Ege</a> (Anniversary Fellow, University of Southampton) and <a href="https://blair.vanderbilt.edu/bio/douglas-shadle" target="_blank">Douglas Shadle</a>'s co-authored biography of Florence B. Price in the Oxford University Press Master Musicians series. Shadle (Associate Professor of Musicology, Vanderbilt University), the principal catalog compiler, generates or revises the entries as new data is gathered and processed.
+This open-access catalog is a companion project to <a href="https://blair.vanderbilt.edu/bio/douglas-shadle" target="_blank">Douglas Shadle</a>'s biography of Florence B. Price in the Oxford University Press Master Musicians series. Shadle (Associate Professor of Musicology, Vanderbilt University), the principal catalog compiler, generates or revises the entries as new data is gathered and processed.
 
 Student contributors transcribe and review new thematic incipits under Shadle's supervision. This process not only enables Price's music to be more visible and discoverable, but enables students to develop expertise in digital transcription, editing, and coding methods.
 
@@ -10,6 +10,7 @@ Student contributors transcribe and review new thematic incipits under Shadle's 
 Each catalog entry contains the following data (where known):
 - Title
 - Composition year
+- Copyright Information
 - Instrumentation
 - Length
 - Lyric author and source
