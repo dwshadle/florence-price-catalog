@@ -19,7 +19,8 @@ permalink: /price-quintet-for-piano-and-strings-no1/
 - 27 min
 
 ## Manuscripts
-- 
+- MC 988a: Florence Beatrice Smith Price Papers Addendum, Special Collections
+    * Box 6, Folder 1
 
 ## Premiere Performance
 - 
