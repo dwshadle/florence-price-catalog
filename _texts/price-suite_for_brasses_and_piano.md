@@ -19,7 +19,11 @@ permalink: /price-suite-for-brasses-and-piano/
 - 14 min.
 
 ## Manuscripts
-- 
+- MC 988a: <a href=https://uark.as.atlas-sys.com/repositories/2/resources/1522 target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
+    * Box 8, Folder 4
+    * Box 8, Folder 5
+
+
 
 ## Premiere Performance
 - 
