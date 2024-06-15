@@ -25,7 +25,8 @@ permalink: /price-out-of-the-south-blew-a-soft-sweet-wind/
 - Fannie Carter Woods (1882&ndash;1948)
 
 ## Manuscripts
-- 
+- MC 988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
+    * Box 13, Folder 15
 
 ## Premiere Performance
 - 
