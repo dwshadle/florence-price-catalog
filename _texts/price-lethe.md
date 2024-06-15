@@ -23,7 +23,8 @@ permalink: /price-lethe/
 - "Lethe." [*Opportunity: A Journal of Negro Life*](https://books.google.com/books?id=Wf0qAAAAMAAJ) 4, no. 43 (July 1926): 229.
 
 ## Manuscripts
-- 
+- MC 988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
+    * Box 12, Folder 32
 
 ## Premiere Performance
 - 
