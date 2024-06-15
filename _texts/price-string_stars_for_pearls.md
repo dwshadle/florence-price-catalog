@@ -24,7 +24,8 @@ permalink: /price-string-stars-for-pearls/
     * OCLC: <a href="https://search.worldcat.org/title/1497659" target="_blank">1497659</a>
 
 ## Manuscripts
-- 
+- MC 988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
+    * Box 13, Folder 22
 
 ## Premiere Performance
 - 
