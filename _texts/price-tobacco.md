@@ -23,6 +23,8 @@ document: price_tobacco.mei
 - Graham Lee Hemminger (1895&ndash;1949)
 
 ## Manuscripts
+- MC 988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
+    * Box 12, Folder 19
 - MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
     * Score, complete (undated): Box 4A, Folder 15; Box 6B, Folder 42
 
