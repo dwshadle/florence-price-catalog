@@ -19,7 +19,10 @@
           let tk = new verovio.toolkit();
           console.log("Verovio has loaded!");
           tk.setOptions({
-            scaleToPageSize: true,
+            scale: 45,
+            adjustPageHeight: true,
+            adjustPageWidth: true,
+            shrinkToFit: true,
           });
           console.log("Verovio options:", tk.getOptions());
 
