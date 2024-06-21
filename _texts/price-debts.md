@@ -23,7 +23,8 @@ permalink: /price-debts/
 - [*McClure's Magazine*](https://books.google.com/books?id=3NU5AQAAMAAJ) 47, no. 4 (August 1916): 33.
 
 ## Manuscripts
-- 
+- MC 988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
+    * Box 12, Folder 8
 
 ## Premiere Performance
 - 
