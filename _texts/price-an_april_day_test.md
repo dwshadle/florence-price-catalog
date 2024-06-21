@@ -15,6 +15,10 @@ document: price_an_april_day.mei
           verovio.module.onRuntimeInitialized = async _ => {
             let tk = new verovio.toolkit();
             console.log("Verovio has loaded!");
+            tk.setOptions({
+              scale: 30,
+            });
+            console.log("Verovio options:", tk.getOptions());
 
             fetch("{{site.baseurl}}/assets/mei/{{page.document}}")
               .then( (response) => response.text() )
