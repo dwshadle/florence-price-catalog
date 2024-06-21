@@ -16,7 +16,9 @@ document: price_an_april_day.mei
             let tk = new verovio.toolkit();
             console.log("Verovio has loaded!");
             tk.setOptions({
-              scale: 30,
+              scale: 50,
+	      adjustPageHeight: <boolean>,
+              adjustPageWidth: <boolean>
             });
             console.log("Verovio options:", tk.getOptions());
 
