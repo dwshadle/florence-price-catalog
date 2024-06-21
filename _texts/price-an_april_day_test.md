@@ -7,33 +7,6 @@ permalink: /price-an-april-day-test/
 document: price_an_april_day.mei
 ---
 
-<html>
-<head>
-<script src="https://www.verovio.org/javascript/latest/verovio-toolkit-wasm.js" defer></script>
-    <script>
-      document.addEventListener("DOMContentLoaded", (event) => {
-          verovio.module.onRuntimeInitialized = async _ => {
-            let tk = new verovio.toolkit();
-            console.log("Verovio has loaded!");
-            tk.setOptions({
-              scale: 45,
-	      adjustPageHeight: true,
-              adjustPageWidth: true,
-            });
-            console.log("Verovio options:", tk.getOptions());
-
-            fetch("{{site.baseurl}}/assets/mei/{{page.document}}")
-              .then( (response) => response.text() )
-              .then( (meiXML) => {
-                let svg = tk.renderData(meiXML, {});
-                document.getElementById("notation").innerHTML = svg;
-              });
-          }
-      });
-    </script>
-</head>
-</html>
-
 ## Alternate Title
 - None
 
