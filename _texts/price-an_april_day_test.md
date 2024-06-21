@@ -17,8 +17,8 @@ document: price_an_april_day.mei
             console.log("Verovio has loaded!");
             tk.setOptions({
               scale: 50,
-	      adjustPageHeight: <boolean>,
-              adjustPageWidth: <boolean>
+	      adjustPageHeight: true,
+              adjustPageWidth: true,
             });
             console.log("Verovio options:", tk.getOptions());
 
