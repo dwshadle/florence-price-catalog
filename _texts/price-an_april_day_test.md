@@ -7,6 +7,27 @@ permalink: /price-an-april-day-test/
 document: price_an_april_day.mei
 ---
 
+<html>
+<head>
+<script src="https://www.verovio.org/javascript/latest/verovio-toolkit-wasm.js" defer></script>
+    <script>
+      document.addEventListener("DOMContentLoaded", (event) => {
+          verovio.module.onRuntimeInitialized = async _ => {
+            let tk = new verovio.toolkit();
+            console.log("Verovio has loaded!");
+
+            fetch("{{site.baseurl}}/assets/mei/{{page.document}}")
+              .then( (response) => response.text() )
+              .then( (meiXML) => {
+                let svg = tk.renderData(meiXML, {});
+                document.getElementById("notation").innerHTML = svg;
+              });
+          }
+      });
+    </script>
+</head>
+</html>
+
 ## Alternate Title
 - None
 
@@ -54,22 +75,7 @@ document: price_an_april_day.mei
 - <a href="https://search.worldcat.org/title/808619778" target="_blank">*My Dream: Art Songs and Spirituals by Florence Price.*</a> Richard Heard, tenor; Roy L. Belfield, Jr., piano. Percentage Records, 2012.
 
 ## Thematic Incipit
-<script src="https://www.verovio.org/javascript/latest/verovio-toolkit-wasm.js" defer></script>
-    <script>
-      document.addEventListener("DOMContentLoaded", (event) => {
-          verovio.module.onRuntimeInitialized = async _ => {
-            let tk = new verovio.toolkit();
-            console.log("Verovio has loaded!");
-
-            fetch("{{site.baseurl}}/assets/mei/{{page.document}}")
-              .then( (response) => response.text() )
-              .then( (meiXML) => {
-                let svg = tk.renderData(meiXML, {});
-                document.getElementById("notation").innerHTML = svg;
-              });
-          }
-      });
-    </script>
+<div id="notation"></div>
 
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
