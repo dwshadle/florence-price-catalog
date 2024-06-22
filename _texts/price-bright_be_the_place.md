@@ -47,7 +47,7 @@ permalink: /price-bright-be-the-place/
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
 {:.bibliography}
 
---
+---
 ## Notes
 [^fn1]: This score contains several pencil revisions dated October 2, 1945.
 [^fn2]: This score notes that the piece was composed at "Riverwood," Price's summer home. It gives two different endings--one from the 1944 revision and one from the 1945 revision. An appended page includes more revisions from 1944 and 1945.
