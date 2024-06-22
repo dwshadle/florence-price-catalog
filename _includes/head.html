@@ -11,7 +11,7 @@
     gtag('config', 'G-52XP81HYV6');
   </script>
 
-  <!-- Insert Verovio Capability -->
+  <!-- Insert Verovio Javascript -->
   <script src="https://www.verovio.org/javascript/latest/verovio-toolkit-wasm.js" defer></script>
   <script>
     document.addEventListener("DOMContentLoaded", (event) => {
@@ -31,6 +31,7 @@
             .then( (meiXML) => {
               let svg = tk.renderData(meiXML, {});
               document.getElementById("notation").innerHTML = svg;
+              element.style.overflowX = "scroll";
             });
         }
     });
