@@ -27,8 +27,8 @@
             .then( (response) => response.text() )
             .then( (meiXML) => {
               let svg = tk.renderData(meiXML, {});
-              document.getElementById("notation").innerHTML = "svg";
-              element.style.overflowX = "scroll";
+              document.getElementById("notation").innerHTML = svg;
+              element.style.overflowX = scroll;
             });
         }
     });
