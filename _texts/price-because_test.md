@@ -38,7 +38,7 @@ document: price_because.mei
 - 
 
 ## Thematic Incipits
-<div id="notation"></div>
+<div style="max-width: 32rem; margin: 0 auto;" id="notation"></div>
 
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
