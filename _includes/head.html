@@ -32,7 +32,7 @@
             let response = await fetch(url);
             let meiXML = await response.text();
             let svg = tk.renderData(meiXML, {});
-            element.innerHTML = svg;
+            document.getElementById("notation").innerHTML = svg;
           }
         });
 
