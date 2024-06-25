@@ -36,6 +36,48 @@ permalink: /price-ethiopias-shadow/
 - <a href="https://shop.decca.com/products/florence-price-cd" target="_blank">F.B. Price: Piano Concerto in One Movement / Symphony No. 1.</a> Roderick Cox and Leslie Suganandarajah, cond.; Jeneba Kanneh-Mason, piano; Chineke! Orchestra. Decca Classics, 2023.
 
 ## Thematic Incipits
+<script src="https://www.verovio.org/javascript/latest/verovio-toolkit-wasm.js" defer></script>
+<script>
+  document.addEventListener("DOMContentLoaded", async (event) => {
+    try {
+      // Load Verovio toolkit and initialize
+      await new Promise((resolve, reject) => {
+        verovio.module.onRuntimeInitialized = () => {
+          let tk = new verovio.toolkit();
+          console.log("Verovio has loaded!");
+          tk.setOptions({
+            scale: 33,
+            adjustPageHeight: true,
+            adjustPageWidth: true,
+            shrinkToFit: true,
+          });
+          console.log("Verovio options:", tk.getOptions());
+          resolve(tk);
+        };
+      });
+
+      // Array of MEI file URLs
+      const meiFiles = [
+        "/assets/mei/price_ethiopias_show_mvt1.mei",
+        "/assets/mei/price_ethiopias_show_mvt2.mei",
+        "/assets/mei/price_ethiopias_show_mvt3.mei",
+      ];
+
+      // Fetch and render each MEI file
+      await Promise.all(meiFiles.map(async (url) => {
+        let response = await fetch(url);
+        let meiXML = await response.text();
+        let svg = tk.renderData(meiXML, {});
+        document.getElementById("notation").insertAdjacentHTML('beforeend', svg);
+      }));
+
+    } catch (error) {
+      console.error("Error fetching or rendering MEI files:", error);
+    }
+  });
+</script>
+<div id="notation" style="overflow-x: auto"></div>
+
 - [Movement I](/price-ethiopias-shadow/mvt1)
 - [Movement II](/price-ethiopias-shadow/mvt2)
 - [Movement III](/price-ethiopias-shadow/mvt3)
