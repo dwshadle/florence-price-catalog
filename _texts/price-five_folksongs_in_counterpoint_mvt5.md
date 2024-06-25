@@ -5,3 +5,5 @@ author: Price, Florence B.
 permalink: /price-five-folksongs-in-counterpoint/mvt5
 document: price_five_folksongs_in_ctpt_mvt5.mei
 ---
+
+<div id="notation" style="overflow-x: auto"></div>
