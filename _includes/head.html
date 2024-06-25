@@ -26,13 +26,19 @@
           });
           console.log("Verovio options:", tk.getOptions());
 
-          fetch("{{site.baseurl}}/assets/mei/{{page.document}}")
-            .then( (response) => response.text() )
-            .then( (meiXML) => {
-              let svg = tk.renderData(meiXML, {});
-              document.getElementById("notation").innerHTML = svg;
-            });
-        }
+        document.querySelectorAll('.mei-content').forEach(async element => {
+          let url = element.getAttribute('data-mei-url');
+          if (url) {
+            let response = await fetch(url);
+            let meiXML = await response.text();
+            let svg = tk.renderData(meiXML, {});
+            element.innerHTML = svg;
+          }
+        });
+
+      } catch (error) {
+        console.error("Error rendering MEI files:", error);
+      }
     });
   </script>
     

@@ -36,6 +36,11 @@ permalink: /price-ethiopias-shadow/
 - <a href="https://shop.decca.com/products/florence-price-cd" target="_blank">F.B. Price: Piano Concerto in One Movement / Symphony No. 1.</a> Roderick Cox and Leslie Suganandarajah, cond.; Jeneba Kanneh-Mason, piano; Chineke! Orchestra. Decca Classics, 2023.
 
 ## Thematic Incipits
+<div id="notation">
+    <div class="mei-content" data-mei-ur="/assets/mei/price_ethiopias_shadow_mvt1.mei" style="margin-bottom: 20px"; "overload-x: auto">Movement I</div>
+    <div class="mei-content" data-mei-ur="/assets/mei/price_ethiopias_shadow_mvt1.mei" style="margin-bottom: 20px"; "overload-x: auto">Movement II</div>
+</div>
+
 - [Movement I](/price-ethiopias-shadow/mvt1)
 - [Movement II](/price-ethiopias-shadow/mvt2)
 - [Movement III](/price-ethiopias-shadow/mvt3)
