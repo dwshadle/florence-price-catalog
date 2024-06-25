@@ -35,6 +35,7 @@ document: price_concert_overture_no1.mei
 - <a href="https://www.wisemusicclassical.com/work/58908/Concert-Overture-No-1/" target="_blank">*Concert Overture No. 1.*</a> New York, NY: G. Schirmer, Inc., 2018.
 
 ## Recordings
+- <a href="https://www.discogs.com/release/16018330-Florence-Price-BBC-Symphony-Orchestra-BBC-Symphony-Chorus-BBC-National-Orchestra-Of-Wales-Michael-Se" target="_blank">*BBC Music Magazine Collection* 29, No. 1.</a> BBC Symphony Orchestra; Michael Seal, conductor. BBCMM454, 2020.
 - <a href="https://www.naxos.com/CatalogueDetail/?id=8.559920" target="_blank">*Price: Songs of the Oak - Concert Overtures Nos. 1&ndash;2.*</a> Württembergische Philharmonie Reutlingen; John Jeter, conductor. Naxos 8.559920, 2022.
 
 ## Thematic Incipits
@@ -46,6 +47,7 @@ document: price_concert_overture_no1.mei
 
 ## Entry History
 - Submitted February 13, 2023
+- Revised June 25, 2024
 
 ---
 ## Notes

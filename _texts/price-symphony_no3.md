@@ -13,7 +13,7 @@ permalink: /price-symphony-no3/
 - ca. 1940
 
 ## Instrumentation
-- 3+pic.2+ca.2+bcl.2 - 4.3.3.1 - timp.5perc - hp - strings
+- 3+pic.2+ca.2+bcl.2-4.3.3.1-timp.5perc-hp-strings
 
 ## Length
 - 22 min.
@@ -45,6 +45,7 @@ permalink: /price-symphony-no3/
 
 ## Recordings
 - Florence Price: The Oak, Mississippi River Suite, Symphony No. 3. Apo Hsu, conductor; The Women's Philharmonic. Koch International Classics 3-7518-2 2111, 2007.
+- <a href="https://www.discogs.com/release/16018330-Florence-Price-BBC-Symphony-Orchestra-BBC-Symphony-Chorus-BBC-National-Orchestra-Of-Wales-Michael-Se" target="_blank">*BBC Music Magazine Collection* 29, No. 1.</a> BBC Symphony Orchestra; Valentina Peleggi, conductor. BBCMM454, 2020.
 - <a href="https://www.naxos.com/CatalogueDetail/?id=8.559897" target="_blank">Florence Beatrice Price: Symphony No. 3 - The Mississippi River - Ethiopia's Shadow in America.</a> John Jeter, conductor; ORF Vienna Radio Symphony Orchestra. Naxos 8.559897, 2021.
 - <a href="https://www.deutschegrammophon.com/en/catalogue/products/price-symphonies-nos-1-3-nezet-seguin-12476" target="_blank">Florence Price: Symphonies Nos. 1 and 3.</a> Yannick Nézet-Séguin, conductor; Philadelphia Orchestra. Deutsche Grammophon 4862029, 2022.
 
@@ -60,3 +61,6 @@ permalink: /price-symphony-no3/
 3. Jackson, Barbara Garvey. "<a href="https://doi.org/10.2307/1214357" target="_blank">Florence Price, Composer.</a>" *The Black Perspective in Music* 5 (1977): 30&ndash;43.
 4. Shadle, Douglas. "<a href="https://newmusicusa.org/nmbx/plus-ca-change-florence-b-price-in-the-blacklivesmatter-era/" target="_blank">Plus Ça Change: Florence B. Price in the #BlackLivesMatter Era.</a>" *NewMusicBox*. February 20, 2019.
 {:.bibliography}
+
+## Entry History
+- Submitted June 25, 2024
