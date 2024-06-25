@@ -37,8 +37,8 @@ permalink: /price-ethiopias-shadow/
 
 ## Thematic Incipits
 <div id="notation">
-    <div class="mei-content" data-mei-ur="/assets/mei/price_ethiopias_shadow_mvt1.mei" style="margin-bottom: 20px"; "overload-x: auto">Movement I</div>
-    <div class="mei-content" data-mei-ur="/assets/mei/price_ethiopias_shadow_mvt1.mei" style="margin-bottom: 20px"; "overload-x: auto">Movement II</div>
+    <div class="mei-content" data-mei-url="/assets/mei/price_ethiopias_shadow_mvt1.mei" style="margin-bottom: 20px"; "overload-x: auto">Movement I</div>
+    <div class="mei-content" data-mei-url="/assets/mei/price_ethiopias_shadow_mvt1.mei" style="margin-bottom: 20px"; "overload-x: auto">Movement II</div>
 </div>
 
 - [Movement I](/price-ethiopias-shadow/mvt1)
