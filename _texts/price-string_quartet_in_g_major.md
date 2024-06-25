@@ -1,6 +1,6 @@
 ---
 layout: page
-title: String Quartet in G Major
+title: String Quartet (No. 1) in G Major
 author: Price, Florence B.
 inst: cham-inst
 permalink: /price-string-quartet-in-g-major/
