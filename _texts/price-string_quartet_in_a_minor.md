@@ -28,7 +28,7 @@ permalink: /price-string-quartet-in-a-minor/
 - Unknown
 
 ## Published Editions
-- <a href="https://www.wisemusicclassical.com/work/62723/Negro-Folk-Songs-in-Counterpoint/" target="_blank">*String Quartet No. 2 in A Minor.*</a> Edited by John Michael Cooper. New York, NY: G. Schirmer, Inc., 2019.
+- <a href="https://www.wisemusicclassical.com/work/60412/String-Quartet-No-2-in-A-Minor--Florence-Price/" target="_blank">*String Quartet No. 2 in A Minor.*</a> Edited by John Michael Cooper. New York, NY: G. Schirmer, Inc., 2019.
 
 ## Recordings
 - *Uncovered, Vol 2: Florence Price.* Catalyst Quartet. Azica Records Azica71346, 2022.
