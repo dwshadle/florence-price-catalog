@@ -58,9 +58,9 @@ permalink: /price-ethiopias-shadow/
 
       // Array of MEI file URLs
       const meiFiles = [
-        "/assets/mei/price_ethiopias_show_mvt1.mei",
-        "/assets/mei/price_ethiopias_show_mvt2.mei",
-        "/assets/mei/price_ethiopias_show_mvt3.mei",
+        "/assets/mei/price_ethiopias_shadow_mvt1.mei",
+        "/assets/mei/price_ethiopias_shadow_mvt2.mei",
+        "/assets/mei/price_ethiopias_shadow_mvt3.mei",
       ];
 
       // Fetch and render each MEI file
