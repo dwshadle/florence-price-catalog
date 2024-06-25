@@ -33,39 +33,13 @@ document: price_tittle_tattle.mei
 - <a href="https://www.albanyrecords.com/mm5/merchant.mvc?Screen=PROD&Product_Code=TROY1910-12" target="_black">*Bach to Black: Suites for Piano, Vol. II.*</a> Rochelle Sennet, piano. Albany Records TROY1910-12, 2022.
 
 ## Thematic Incipit
-<div>
-  <div id="app" class="panel" style="border: 1px solid lightblue; min-height: 200px;"></div>
-</div>
-
-<script type="module">
-  import 'https://www.verovio.org/javascript/app/verovio-app.js';
-
-  const options = {
-      defaultView: 'responsive', // default is 'responsive', alternative is 'document'
-      defaultZoom: 3, // 0-7, default is 4
-      enableResponsive: true, // default is true
-      enableDocument: true, // default is true
-  }
-
-  // Create the app - here with an empty option object
-  const app = new Verovio.App(document.getElementById("app"), options);
-
-  // Load a file (MEI or MusicXML)
-  fetch("{{site.baseurl}}/assets/mei/{{page.document}}")
-      .then(function(response) {
-          return response.text();
-      })
-      .then(function(text) {
-          app.loadData(text);
-      });
-</script>
+<div id="notation" style="overflow-x: auto"></div>
 
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
 {:.bibliography}
 
 ---
-
 ## Notes
 [^fn1]: This score is the fourth in a series of numbered pieces. Number 3 ("Hard Problems") is dated October 9, 1927. The next piece in the collection ("In Romance Land") is unnumbered and dated October 24&ndash;25, 1927.
 

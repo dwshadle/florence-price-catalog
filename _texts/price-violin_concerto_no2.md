@@ -49,38 +49,13 @@ document: price_violin_concerto_no2.mei
 - <a href="https://www.cedillerecords.org/albums/violin-concertos-by-black-composers-through-the-centuries-25th-anniversary-edition/" target="_blank">Violin Concertos by Black Composers Through the Centuries</a> (Twenty-Fifth Anniversary Edition). Rachel Barton Pine, violin; Jonathon Heyward, conductor; Royal Scottish National Orchestra. Cedille Records CDR 90000 214, 2022.
 
 ## Thematic Incipits
-<div>
-  <div id="app" class="panel" style="border: 1px solid lightblue; min-height: 200px;"></div>
-</div>
-
-<script type="module">
-  import 'https://www.verovio.org/javascript/app/verovio-app.js';
-
-  const options = {
-      defaultView: 'responsive', // default is 'responsive', alternative is 'document'
-      defaultZoom: 3, // 0-7, default is 4
-      enableResponsive: true, // default is true
-      enableDocument: true, // default is true
-  }
-
-  // Create the app - here with an empty option object
-  const app = new Verovio.App(document.getElementById("app"), options);
-
-  // Load a file (MEI or MusicXML)
-  fetch("{{site.baseurl}}/assets/mei/{{page.document}}")
-      .then(function(response) {
-          return response.text();
-      })
-      .then(function(text) {
-          app.loadData(text);
-      });
-
-</script>
+<div id="notation" style="overflow-x: auto"></div>
 
 ## Bibliography
 1. Baranello, Micaela. "<a href="https://www.nytimes.com/2018/02/09/arts/music/florence-price-arkansas-symphony-concerto.html" target="_blank">Welcoming a Black Female Composer into the Canon. Finally.</a>" *New York Times*, February 9, 2018.
 2. Hill, Alexandra Kori. "<a href="https://doi.org/10.17615/gfr5-2h70" target="_blank">Make the Familiar New: New Negro Modernism in the Concertos of Florence B. Price.</a>" PhD diss., University of North Carolina-Chapel Hill, 2022.
 {:.bibliography}
 
+---
 ## Notes
 [^fn1]: According to the *Chicago Tribune* (November 1, 1953), Henline performed as a pianist at the concert, but the article does not indicate if she accompanied Jernberg specifically.

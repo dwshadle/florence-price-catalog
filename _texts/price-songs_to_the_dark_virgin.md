@@ -50,33 +50,7 @@ document: price_songs_to_the_dark_virgin.mei
 - Under Construction
 
 ## Thematic Incipits
-<div>
-  <div id="app" class="panel" style="border: 1px solid lightblue; min-height: 300px;"></div>
-</div>
-
-<script type="module">
-  import 'https://www.verovio.org/javascript/app/verovio-app.js';
-
-  const options = {
-      defaultView: 'responsive', // default is 'responsive', alternative is 'document'
-      defaultZoom: 3, // 0-7, default is 4
-      enableResponsive: true, // default is true
-      enableDocument: true, // default is true
-  }
-
-  // Create the app - here with an empty option object
-  const app = new Verovio.App(document.getElementById("app"), options);
-
-  // Load a file (MEI or MusicXML)
-  fetch("{{site.baseurl}}/assets/mei/{{page.document}}")
-      .then(function(response) {
-          return response.text();
-      })
-      .then(function(text) {
-          app.loadData(text);
-      });
-
-</script>
+<div id="notation" style="overflow-x: auto"></div>
 
 ## Bibliography
 1. Brown, Rae Linda. <a href="https://www.worldcat.org/title/1122800180" target="_blank">*The Heart of a Woman: The Life and Music of Florence B. Price*</a>. Music in American Life. Urbana: University of Illinois Press, 2020.
@@ -90,8 +64,7 @@ document: price_songs_to_the_dark_virgin.mei
 9. Smith, Bethany Jo. "<a href="http://rave.ohiolink.edu/etdc/view?acc_num=ucin1186770755" target="_blank">'Song to the Dark Virgin': Race and Gender in Five Art Songs of Florence B. Price.</a>" MM thesis, University of Cincinnati, College-Conservatory of Music, 2007.
 {:.bibliography}
 
------
-
+---
 ## Notes
 [^fn1]: Some commentators erroneously refer to this piece as *Song to the Dark Virgin*. The first word should be plural.
 [^fn2]: This piece is bound with "My Dream," "Ardella," and "Dream Ships."
