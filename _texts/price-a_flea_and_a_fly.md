@@ -14,10 +14,10 @@ document: price_a_flea_and_a_fly.mei
 - 
 
 ## Instrumentation
-- 
+- Piano and high voice
 
 ## Length
-- 
+- 20 sec.
 
 ## Lyricist and Source
 - Anonymous
@@ -32,7 +32,8 @@ document: price_a_flea_and_a_fly.mei
 - 
 
 ## Published Editions
-- 
+- Heard, Richard, ed. <a href="https://www.classicalvocalrep.com/products/44-Art-Songs-and-Spirituals-by-Florence-B-Price-for-Medium-High-Voice-and-Piano-Richard-Heard-205398.html" target="_blank">*44 Art Songs and Spirituals by Florence Price.*</a> Fayetteville, AR: ClarNan Editions, 2015.
+    * OCLC: <a href="https://www.worldcat.org/title/902815587" target="_blank">902815587</a>
 
 ## Recordings
 - 
