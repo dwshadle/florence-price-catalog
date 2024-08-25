@@ -23,7 +23,8 @@ permalink: /price-the-broken-bowl/
 - "Death." [*Opportunity: A Journal of Negro Life*](https://books.google.com/books?id=Wf0qAAAAMAA) 4 (Sep. 1926): 284.
 
 ## Manuscripts
-- 
+- MC988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
+    * Box 13, Folder 36
 
 ## Premiere Performance
 - Illinois Host House, July 1933
