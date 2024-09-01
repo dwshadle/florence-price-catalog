@@ -23,7 +23,8 @@ document: price_the_moon_bridge.mei
 - Mary Rolofson Gamble
 
 ## Manuscripts
-- 
+- MC 988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
+    * Box 14, Folder 14
 
 ## Premiere Performance
 - 
