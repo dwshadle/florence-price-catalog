@@ -24,7 +24,8 @@ permalink: /price-my-november-guest/
      * OCLC: <a href="https://search.worldcat.org/title/869355" target="_blank">869355</a>
 
 ## Manuscripts
-- 
+- MC 988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
+    * Box 16, Folder 2
 
 ## Premiere Performance
 - 
