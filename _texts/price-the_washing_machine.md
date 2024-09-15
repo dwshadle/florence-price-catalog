@@ -20,7 +20,8 @@ document: price_the_washing_machine.mei
 - 
 
 ## Manuscripts
-- 
+- MC 988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
+    * Box 17, Folder 8
 
 ## Premiere Performance
 - Unknown
