@@ -13,7 +13,7 @@ permalink: /price-scenes-in-tin-can-alley/
 - 
 
 ## Instrumentation
-- 
+- Solo piano
 
 ## Length
 - 
