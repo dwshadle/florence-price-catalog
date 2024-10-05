@@ -22,6 +22,8 @@ permalink: /price-im-going-to-lay-down-my-heavy-load/
 - Spiritual
 
 ## Manuscripts
+- MC 988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
+    * Box 12, Folder 29
 - MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
     * Bound score, complete: Box 59, Folder 1411[^fn1]
 
