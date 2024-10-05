@@ -23,6 +23,9 @@ permalink: /price-my-dream/
 - "Dream Variation." [*The Crisis*.](https://books.google.com/books?id=dFoEAAAAMBAJ) 28, no. 3 (July 1924): 128.
 
 ## Manuscripts
+- MC 988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
+    * Box 13, Folder 10
+    * Box 14, Folder 11
 - MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
     * Score, complete (April 26, 1935): Box 5B, Folder 28
 - MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
