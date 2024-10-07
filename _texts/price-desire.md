@@ -16,7 +16,7 @@ permalink: /price-desire/
 - July 29, 1959, Florence B. Price and E.P. Taylor, EU587304
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
