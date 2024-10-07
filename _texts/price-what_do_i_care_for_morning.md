@@ -22,6 +22,8 @@ permalink: /price-what-do-i-care-for-morning/
 - Helene Johnson
 
 ## Manuscripts
+- MC 988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
+    * Box 14, Folder 10
 - MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
     * Score, complete (April 26, 1941): Box 1A, Folder 7[^fn1]
     * Score, complete (undated): Box 1A, Folder 7
