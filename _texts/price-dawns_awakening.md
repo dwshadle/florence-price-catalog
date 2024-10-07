@@ -14,7 +14,7 @@ document: price_dawns_awakening.mei
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
