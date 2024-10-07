@@ -13,7 +13,7 @@ permalink: /price-dont-you-tell-me-no/
 - 
 
 ## Instrumentation
-- 
+- Piano and solo voice
 
 ## Length
 - 
