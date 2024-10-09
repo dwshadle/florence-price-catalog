@@ -13,7 +13,7 @@ permalink: /price-after-the-winter/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
