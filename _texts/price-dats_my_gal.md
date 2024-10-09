@@ -13,7 +13,7 @@ permalink: /price-dats-my-gal/
 - 1935
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
