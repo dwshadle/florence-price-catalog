@@ -13,7 +13,7 @@ permalink: /price-day/
 - 1937
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
