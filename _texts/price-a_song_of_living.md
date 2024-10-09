@@ -13,7 +13,7 @@ permalink: /price-a-song-of-living/
 - 1945
 
 ## Instrumentation
-- Solo piano and high voice
+- Piano and high voice
 
 ## Length
 - 
