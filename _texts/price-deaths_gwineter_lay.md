@@ -14,7 +14,7 @@ document: price_deaths_gwineter_lay.mei
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
