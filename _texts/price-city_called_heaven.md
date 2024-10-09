@@ -13,7 +13,7 @@ permalink: /price-city-called-heaven/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
