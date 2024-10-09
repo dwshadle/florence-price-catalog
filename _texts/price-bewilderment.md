@@ -14,7 +14,7 @@ document: price_bewilderment.mei
 - 1946
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
