@@ -14,7 +14,7 @@ document: price_because.mei
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
