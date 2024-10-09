@@ -13,7 +13,7 @@ permalink: /price-day-dawns/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
