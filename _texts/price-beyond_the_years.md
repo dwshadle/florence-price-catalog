@@ -13,7 +13,7 @@ permalink: /price-beyond-the-years/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
