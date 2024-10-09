@@ -13,7 +13,7 @@ permalink: /price-bright-be-the-place/
 - 1942 (rev. 1944 and 1945)
 
 ## Instrumentation
-- Solo piano and medium voice
+- Piano and medium voice
 
 ## Length
 - 
