@@ -14,7 +14,7 @@ document: price_come_come.mei
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 30 sec
