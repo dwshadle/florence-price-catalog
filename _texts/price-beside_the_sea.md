@@ -14,7 +14,7 @@ document: price_beside_the_sea.mei
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
