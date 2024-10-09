@@ -13,7 +13,7 @@ permalink: /price-brown-arms/
 - 
 
 ## Instrumentation
-- Solo piano and low voice 
+- Piano and low voice 
 
 ## Length
 - 
