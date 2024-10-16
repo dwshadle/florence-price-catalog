@@ -13,7 +13,7 @@ permalink: /price-foggy-night/
 - 1946
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
