@@ -13,7 +13,7 @@ permalink: /price-interim/
 - 
 
 ## Instrumentation
-- Solo piano and high voice
+- Piano and high voice
 
 ## Length
 - 
