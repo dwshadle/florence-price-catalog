@@ -13,7 +13,7 @@ permalink: /price-my-dream/
 - 1935
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
