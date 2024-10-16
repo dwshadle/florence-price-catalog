@@ -13,7 +13,7 @@ permalink: /price-rhapsody/
 - 1941
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
