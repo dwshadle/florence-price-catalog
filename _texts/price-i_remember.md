@@ -13,7 +13,7 @@ permalink: /price-i-remember/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
