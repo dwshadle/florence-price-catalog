@@ -13,7 +13,7 @@ permalink: /price-my-little-dreams/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
