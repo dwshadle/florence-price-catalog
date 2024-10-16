@@ -13,7 +13,7 @@ permalink: /price-pittance/
 - 194?
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
