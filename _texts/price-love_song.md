@@ -13,7 +13,7 @@ permalink: /price-love-song/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
