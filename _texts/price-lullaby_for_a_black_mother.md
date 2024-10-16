@@ -13,7 +13,7 @@ permalink: /price-lullaby-for-a-black-mother/
 - 1945
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
