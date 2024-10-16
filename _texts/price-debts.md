@@ -13,7 +13,7 @@ permalink: /price-debts/
 - 1948
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
