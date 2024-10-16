@@ -13,7 +13,7 @@ permalink: /price-easy-goin/
 - 1935
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
