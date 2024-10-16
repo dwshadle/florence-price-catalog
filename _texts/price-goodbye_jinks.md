@@ -13,7 +13,7 @@ permalink: /price-goodbye-jinks/
 - 1935
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
