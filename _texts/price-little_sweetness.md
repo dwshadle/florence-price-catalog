@@ -13,7 +13,7 @@ permalink: /price-little-sweetness/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
