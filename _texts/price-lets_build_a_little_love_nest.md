@@ -16,7 +16,7 @@ permalink: /price-lets-build-a-little-love-nest/
 - January 25, 1930, Florence B. Price and Sal Janeway Carroll, E unp. 16181
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
