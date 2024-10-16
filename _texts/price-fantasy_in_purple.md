@@ -13,7 +13,7 @@ permalink: /price-fantasy-in-purple/
 - 1940
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
