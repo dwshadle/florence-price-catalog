@@ -13,7 +13,7 @@ permalink: /price-my-soul-and-i/
 - 1947
 
 ## Instrumentation
-- Solo piano and low voice 
+- Piano and low voice 
 
 ## Length
 - 
