@@ -13,7 +13,7 @@ permalink: /price-my-neighbor/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
