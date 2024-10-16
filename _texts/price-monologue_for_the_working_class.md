@@ -13,7 +13,7 @@ permalink: /price-monologue-for-the-working-class/
 - 1941
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
