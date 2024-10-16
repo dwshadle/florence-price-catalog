@@ -13,7 +13,7 @@ permalink: /price-i-know-that-any-weed-can-tell/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
