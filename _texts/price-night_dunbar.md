@@ -13,7 +13,7 @@ permalink: /price-night-dunbar/
 - 1936
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
