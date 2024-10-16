@@ -14,7 +14,7 @@ document: price_hold_fast_to_dreams.mei
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
