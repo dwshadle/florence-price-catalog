@@ -13,7 +13,7 @@ permalink: /price-dream-ships/
 - 1935
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
