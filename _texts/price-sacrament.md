@@ -13,7 +13,7 @@ permalink: /price-sacrament/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
