@@ -16,7 +16,7 @@ permalink: /price-just-a-dream/
 - June 29, 1928, Frank H. Blaha and Florence B. Price, E 693843 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
