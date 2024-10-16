@@ -14,7 +14,7 @@ document: price_feet_o_jesus.mei
 - 1944
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
