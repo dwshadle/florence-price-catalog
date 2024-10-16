@@ -13,7 +13,7 @@ permalink: /price-little-things/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
