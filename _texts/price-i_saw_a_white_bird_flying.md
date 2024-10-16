@@ -13,7 +13,7 @@ permalink: /price-i-saw-a-white-bird-flying/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
