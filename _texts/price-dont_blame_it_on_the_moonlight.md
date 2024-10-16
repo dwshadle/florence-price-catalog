@@ -13,7 +13,7 @@ permalink: /price-dont-blame-it-on-the-moonlight/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
