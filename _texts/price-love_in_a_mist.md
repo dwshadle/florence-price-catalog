@@ -14,7 +14,7 @@ document: price_love_in_a_mist.mei
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
