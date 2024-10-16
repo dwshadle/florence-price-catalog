@@ -13,7 +13,7 @@ permalink: /price-love-nights/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
