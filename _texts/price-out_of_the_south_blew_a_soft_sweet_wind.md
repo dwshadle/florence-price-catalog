@@ -16,7 +16,7 @@ permalink: /price-out-of-the-south-blew-a-soft-sweet-wind/
 - June 5, 1946, Edward B. Marks Music Corporation, EP7626
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
