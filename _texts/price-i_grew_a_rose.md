@@ -13,7 +13,7 @@ permalink: /price-i-grew-a-rose/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
