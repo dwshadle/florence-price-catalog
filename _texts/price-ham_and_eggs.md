@@ -13,7 +13,7 @@ permalink: /price-ham-and-eggs/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
