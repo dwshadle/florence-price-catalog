@@ -13,7 +13,7 @@ permalink: /price-on-the-height/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
