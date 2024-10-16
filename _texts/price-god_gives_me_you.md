@@ -16,7 +16,7 @@ permalink: /price-god-gives-me-you/
 - January 18, 1946, Florence B. Price, EU8021
 
 ## Instrumentation
-- 
+- Piano and medium voice
 
 ## Length
 - 
