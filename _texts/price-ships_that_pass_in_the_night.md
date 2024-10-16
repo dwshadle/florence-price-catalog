@@ -13,7 +13,7 @@ permalink: /price-ships-that-pass-in-the-night/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
