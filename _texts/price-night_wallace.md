@@ -17,7 +17,7 @@ document: price_night_wallace.mei
 - June 5, 1946, Edward B. Marks Music Corporation, EP7627 
 
 ## Instrumentation
-- 
+- Piano and medium voice
 
 ## Length
 - 
