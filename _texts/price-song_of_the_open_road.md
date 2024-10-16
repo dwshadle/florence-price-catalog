@@ -14,7 +14,7 @@ document: price_song_of_the_open_road.mei
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
