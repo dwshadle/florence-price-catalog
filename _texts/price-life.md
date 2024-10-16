@@ -13,7 +13,7 @@ permalink: /price-life/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
