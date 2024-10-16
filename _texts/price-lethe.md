@@ -13,7 +13,7 @@ permalink: /price-lethe/
 - 1940
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
