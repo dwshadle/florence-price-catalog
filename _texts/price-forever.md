@@ -13,7 +13,7 @@ permalink: /price-forever/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
