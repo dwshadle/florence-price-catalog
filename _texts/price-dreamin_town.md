@@ -13,7 +13,7 @@ permalink: /price-dreamin-town/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
