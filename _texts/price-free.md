@@ -13,7 +13,7 @@ permalink: /price-free/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
