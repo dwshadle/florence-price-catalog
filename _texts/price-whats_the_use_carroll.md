@@ -16,7 +16,7 @@ permalink: /price-whats-the-use-carroll/
 - January 25, 1930, Florence B. Price and Sal Janeway Carroll, E unp. 16180
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
