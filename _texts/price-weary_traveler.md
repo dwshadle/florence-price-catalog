@@ -16,7 +16,7 @@ permalink: /price-weary-traveler/
 - July 29, 1959, Florence B. Price, EU 587305
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
