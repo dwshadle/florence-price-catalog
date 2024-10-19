@@ -13,7 +13,7 @@ permalink: /price-the-heart-of-a-woman/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
