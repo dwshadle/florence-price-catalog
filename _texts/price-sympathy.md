@@ -14,7 +14,7 @@ document: price_sympathy.mei
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
