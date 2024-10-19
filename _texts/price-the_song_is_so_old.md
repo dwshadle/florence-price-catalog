@@ -13,7 +13,7 @@ permalink: /price-the-song-is-so-old/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
