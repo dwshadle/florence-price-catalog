@@ -14,7 +14,7 @@ document: price_the_moon_bridge.mei
 - 
 
 ## Instrumentation
-- Solo piano and high voice
+- Piano and high voice
 
 ## Length
 - 
