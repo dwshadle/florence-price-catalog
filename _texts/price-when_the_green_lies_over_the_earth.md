@@ -13,7 +13,7 @@ permalink: /price-when-the-green-lies-over-the-earth/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
