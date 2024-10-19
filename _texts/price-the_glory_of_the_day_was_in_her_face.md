@@ -14,7 +14,7 @@ document: price_the_glory_of_the_day_was_in_her_face.mei
 - 1935
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
