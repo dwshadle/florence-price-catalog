@@ -13,7 +13,7 @@ permalink: /price-the-daisy/
 - 1946
 
 ## Instrumentation
-- Solo piano and medium or high voice
+- Piano and medium or high voice
 
 ## Length
 - 
