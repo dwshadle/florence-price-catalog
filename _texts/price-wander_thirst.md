@@ -13,7 +13,7 @@ permalink: /price-wander-thirst/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
