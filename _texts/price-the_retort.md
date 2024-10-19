@@ -13,7 +13,7 @@ permalink: /price-the-retort/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
