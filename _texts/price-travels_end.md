@@ -13,7 +13,7 @@ permalink: /price-travels-end/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
