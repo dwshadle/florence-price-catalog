@@ -13,7 +13,7 @@ permalink: /price-your-leafy-voice/
 - 1946 or after
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
