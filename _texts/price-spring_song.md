@@ -13,7 +13,7 @@ permalink: /price-spring-song/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
