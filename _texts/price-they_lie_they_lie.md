@@ -13,7 +13,7 @@ permalink: /price-they-lie-they-lie/
 - 1946
 
 ## Instrumentation
-- Piano and medium or high voice
+- Piano and medium voice
 
 ## Length
 - 
