@@ -13,7 +13,7 @@ permalink: /price-who-grope-with-love-for-hands/
 - 1948
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
