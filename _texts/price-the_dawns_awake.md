@@ -13,7 +13,7 @@ permalink: /price-the-dawns-awake/
 - 1935
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
