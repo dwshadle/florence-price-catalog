@@ -13,7 +13,7 @@ permalink: /price-the-meeting-waters/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
