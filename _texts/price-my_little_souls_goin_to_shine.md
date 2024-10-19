@@ -13,7 +13,7 @@ permalink: /price-my-little-souls-goin-to-shine/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
