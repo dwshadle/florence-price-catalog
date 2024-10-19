@@ -13,7 +13,7 @@ permalink: /price-youth/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
