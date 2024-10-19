@@ -13,7 +13,7 @@ permalink: /price-summah-night/
 - 1935
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
