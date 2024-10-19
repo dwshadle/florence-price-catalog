@@ -17,7 +17,7 @@ document: price_my_souls_been_anchored.mei
 - August 12, 1937, Gamble Hinged Music Co., E pub. 63815
 
 ## Instrumentation
-- Solo piano and medium or high voice
+- Piano and medium or high voice
 
 ## Length
 - 
