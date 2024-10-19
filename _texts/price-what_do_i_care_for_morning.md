@@ -13,7 +13,7 @@ permalink: /price-what-do-i-care-for-morning/
 - 
 
 ## Instrumentation
-- Solo piano and tenor or baritone
+- Piano and tenor or baritone
 
 ## Length
 - 
