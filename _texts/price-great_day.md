@@ -13,7 +13,7 @@ permalink: /price-great-day/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
