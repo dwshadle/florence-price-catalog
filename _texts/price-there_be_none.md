@@ -13,7 +13,7 @@ permalink: /price-there-be-none/
 - 1942
 
 ## Instrumentation
-- Solo piano and medium or high voice
+- Piano and medium or high voice
 
 ## Length
 - 
