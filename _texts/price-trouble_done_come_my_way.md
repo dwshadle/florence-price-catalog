@@ -16,7 +16,7 @@ permalink: /price-trouble-done-come-my-way/
 - July 20, 1964, Florence B. Price, EU844756
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
