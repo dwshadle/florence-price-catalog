@@ -14,7 +14,7 @@ document: price_the_washerwoman.mei
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
