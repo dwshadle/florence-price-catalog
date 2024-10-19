@@ -13,7 +13,7 @@ permalink: /price-save-me-lord-save-me/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
