@@ -13,7 +13,7 @@ permalink: /price-the-crescent-moon/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
