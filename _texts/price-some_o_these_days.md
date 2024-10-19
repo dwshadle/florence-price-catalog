@@ -13,7 +13,7 @@ permalink: /price-some-o-these-days/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
