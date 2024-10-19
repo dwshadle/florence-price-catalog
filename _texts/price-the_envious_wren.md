@@ -13,7 +13,7 @@ permalink: /price-the-envious-wren/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
