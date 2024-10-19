@@ -13,7 +13,7 @@ permalink: /price-go-down-moses/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
