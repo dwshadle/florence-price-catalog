@@ -13,7 +13,7 @@ permalink: /price-rise-mourners/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
