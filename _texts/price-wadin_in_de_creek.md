@@ -13,7 +13,7 @@ permalink: /price-wadin-in-de-creek/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
