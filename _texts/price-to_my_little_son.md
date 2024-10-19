@@ -17,7 +17,7 @@ document: price_to_my_little_son.mei
 - February 16, 1959, Florence B. Price, EU565744
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
