@@ -13,7 +13,7 @@ permalink: /price-you-wont-find-a-man-like-jesus/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
