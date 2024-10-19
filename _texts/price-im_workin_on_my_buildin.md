@@ -14,7 +14,7 @@ document: price_im_workin_on_my_buildin.mei
 - 
 
 ## Instrumentation
-- 
+- Piano and violin
 
 ## Length
 - 
