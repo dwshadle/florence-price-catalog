@@ -13,7 +13,7 @@ permalink: /price-on-the-other-shore/
 - 
 
 ## Instrumentation
-- Solo piano and medium voice
+- Piano and medium voice
 
 ## Length
 - 
