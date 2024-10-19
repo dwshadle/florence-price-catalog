@@ -13,7 +13,7 @@ permalink: /price-when-i-gits-home/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
