@@ -16,7 +16,7 @@ permalink: /price-the-island-of-my-dreams/
 - June 21, 1928, Linley Music House, E694900
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
