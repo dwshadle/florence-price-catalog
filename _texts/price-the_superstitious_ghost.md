@@ -13,7 +13,7 @@ permalink: /price-the-superstitious-ghost/
 - 1946
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
