@@ -14,7 +14,7 @@ document: price_tobacco.mei
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
