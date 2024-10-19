@@ -13,7 +13,7 @@ permalink: /price-string-stars-for-pearls/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
