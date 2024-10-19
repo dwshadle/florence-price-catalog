@@ -13,7 +13,7 @@ permalink: /price-the-sum/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
