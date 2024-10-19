@@ -13,7 +13,7 @@ permalink: /price-peter-go-ring-dem-bells/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
