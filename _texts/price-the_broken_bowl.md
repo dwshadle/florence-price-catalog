@@ -13,7 +13,7 @@ permalink: /price-the-broken-bowl/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
