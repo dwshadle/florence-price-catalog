@@ -13,7 +13,7 @@ permalink: /price-spring/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
