@@ -13,7 +13,7 @@ permalink: /price-why-forget/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
