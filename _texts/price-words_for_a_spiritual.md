@@ -13,7 +13,7 @@ permalink: /price-words-for-a-spiritual/
 - 1948
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
