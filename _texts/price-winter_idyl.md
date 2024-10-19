@@ -13,7 +13,7 @@ permalink: /price-winter-idyl/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
