@@ -13,7 +13,7 @@ permalink: /price-strange-borders/
 - 
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
