@@ -13,7 +13,7 @@ permalink: /price-im-going-to-lay-down-my-heavy-load/
 - 1926
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
