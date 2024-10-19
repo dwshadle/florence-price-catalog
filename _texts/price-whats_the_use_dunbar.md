@@ -13,7 +13,7 @@ permalink: /price-whats-the-use-dunbar/
 - 1937
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
