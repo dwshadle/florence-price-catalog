@@ -13,7 +13,7 @@ permalink: /price-the-poet-and-his-song/
 - 1940
 
 ## Instrumentation
-- 
+- Piano and voice
 
 ## Length
 - 
