@@ -24,6 +24,9 @@ document: price_hold_fast_to_dreams.mei
 - "Dreams." [*The World Tomorrow*](https://catalog.hathitrust.org/Record/008956003) 6, no. 5 (May 1923): 147.
 
 ## Manuscripts
+- MC 988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
+    * Box 12, Folder 24
+    * Box 14, Folder 1
 - MS Coll. 199: <a href="https://www.library.upenn.edu/detail/collection/marian-anderson-collection" target="_blank">Marian Anderson Collection of Music Manuscripts</a>, Kislak Center for Special Collections, Van Pelt Library, University of Pennsylvania
     * Bound score, complete (undated): <a href="https://franklin.library.upenn.edu/catalog/FRANKLIN_9923566753503681" target="_blank">Box 61, Folder 1432</a>[^fn2]
 
