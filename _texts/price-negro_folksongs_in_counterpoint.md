@@ -13,7 +13,7 @@ permalink: /price-negro-folksongs-in-counterpoint/
 - ca. 1946
 
 ## Instrumentation
-- String quartet (2 vln, vla, vcl)
+- String quartet (2 vln, vla, vlc)
 
 ## Length
 - 10 min.
