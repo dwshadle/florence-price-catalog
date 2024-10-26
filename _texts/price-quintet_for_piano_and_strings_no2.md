@@ -13,7 +13,7 @@ permalink: /price-quintet-for-piano-and-strings-no2/
 - 
 
 ## Instrumentation
-- 2 vln, vla, vcl, pno
+- 2 vln, vla, vlc, pno
 
 ## Length
 - 9 min
