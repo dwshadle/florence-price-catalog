@@ -13,7 +13,7 @@ permalink: /price-string-quartet-in-a-minor/
 - 1935
 
 ## Instrumentation
-- String quartet (2 vln, vla, vcl)
+- String quartet (2 vln, vla, vlc)
 
 ## Length
 - 26 min.
