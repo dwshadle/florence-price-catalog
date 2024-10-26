@@ -13,7 +13,7 @@ permalink: /price-string-quartet-in-g-major/
 - 1929
 
 ## Instrumentation
-- String quartet (2 vln, vla, vcl)
+- String quartet (2 vln, vla, vlc)
 
 ## Length
 - 16 min.
