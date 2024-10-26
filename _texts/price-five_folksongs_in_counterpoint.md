@@ -13,7 +13,7 @@ permalink: /price-five-folksongs-in-counterpoint/
 - 1951
 
 ## Instrumentation
-- String quartet (2 vln, vla, vcl)
+- String quartet (2 vln, vla, vlc)
 
 ## Length
 - 18 min.
