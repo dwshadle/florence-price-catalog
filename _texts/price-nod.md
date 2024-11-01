@@ -16,7 +16,7 @@ permalink: /price-nod/
 - TTBB (a cappella)
 
 ## Length
-- 2 min
+- 2 min.
 
 ## Lyricist and Source
 - Walter de la Mare (1873&ndash;1956)
