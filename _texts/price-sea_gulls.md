@@ -19,7 +19,7 @@ permalink: /price-sea-gulls/
 - 
 
 ## Lyricist and Source
-- 
+- Nora Holland
 
 ## Manuscripts
 - MC 988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
