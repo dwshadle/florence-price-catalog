@@ -13,7 +13,7 @@ permalink: /price-ode-to-man/
 - 
 
 ## Instrumentation
-- SATB; piano; organ
+- SATB, piano, organ
 
 ## Length
 - 6 min.
