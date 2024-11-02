@@ -16,7 +16,7 @@ permalink: /price-juba-dance/
 - 
 
 ## Length
-- 4 min
+- 4 min.
 
 ## Manuscripts
 - N/A
