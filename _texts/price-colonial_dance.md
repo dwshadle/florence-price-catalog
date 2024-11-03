@@ -14,7 +14,7 @@ document: price_colonial_dance.mei
 - In or before 1942[^fn1]
 
 ## Instrumentation
-- 2+pic.2.2.2 - 4.2.3.1 - timp.2perc - str
+- 2+pic.2.2.2 - 4.2.3.1 - timp.2perc - strings
 
 ## Length
 - 6 min.
