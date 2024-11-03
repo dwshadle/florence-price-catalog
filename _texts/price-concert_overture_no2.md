@@ -14,7 +14,7 @@ document: price_concert_overture_no2.mei
 - 1943
 
 ## Instrumentation
-- 3+pic.2+ca.2+bcl.2 - 4.3.3.1 - timp.3perc - hp - str 
+- 3+pic.2+ca.2+bcl.2 - 4.3.3.1 - timp.3perc - hp - strings 
 
 ## Length
 - 15 min.
