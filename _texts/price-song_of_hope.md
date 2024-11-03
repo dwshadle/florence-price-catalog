@@ -13,10 +13,10 @@ permalink: /price-song-of-hope/
 - 1930
 
 ## Instrumentation
-- SATB; 2.2.2.2 - 4.2.3.1 - [timp.perc][^fn1] - org - str
+- SATB; 2.2.2.2 - 4.2.3.1 - [timp.perc][^fn1] - org - strings
 
 ## Length
-- 11 min
+- 11 min.
 
 ## Lyricist and Source
 - Florence B. Price
