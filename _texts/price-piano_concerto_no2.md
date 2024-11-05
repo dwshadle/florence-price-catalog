@@ -13,7 +13,7 @@ permalink: /price-piano-concerto-no2/
 - 1938 (incomplete)
 
 ## Instrumentation
-- 3.2+Eng.2.2 - 4.3.3.1 - timp.perc - str
+- 3.2+Eng.2.2 - 4.3.3.1 - timp.perc - strings
 
 ## Length
 - N/A
