@@ -14,7 +14,7 @@ document: price_violin_concerto_no2.mei
 - 1952
 
 ## Instrumentation
-- 2.1+ca.2.2-4.2.3.1-timp.3perc-hp.pf-strings 
+- 2.1+ca.2.2 - 4.2.3.1 - timp.3perc - hp.pf - strings 
 
 ## Length
 - 14 min.
