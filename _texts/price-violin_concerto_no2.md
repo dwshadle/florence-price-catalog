@@ -36,7 +36,7 @@ document: price_violin_concerto_no2.mei
     * Piano reduction, complete (May 1952): Box 4, Folder 6
 
 ## Premiere Performance
-- Violin and piano: November, 2, 1953; Curtiss Hall, Fine Arts Building (410 S. Michigan Ave.), Chicago. Musicians Club of Women. Minnie Cedargreen Jernberg, violin, and Florence Henline, piano.[^fn1]
+- Violin and piano: November 2, 1953; Curtiss Hall, Fine Arts Building (410 S. Michigan Ave.), Chicago. Musicians Club of Women. Minnie Cedargreen Jernberg, violin, and Florence Henline, piano.[^fn1]
 - Full orchestra: February 17, 2018; Arend Arts Center, Bentonville, Arkansas; Arkansas Philharmonic Orchestra; Er-Gene Kahng, violin; Steven Byess, conductor.
 
 ## Published Editions
