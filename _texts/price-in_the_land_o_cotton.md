@@ -1,6 +1,6 @@
 ---
 layout: page
-title: In the Land o' Cotton
+title: In the Land O' Cotton
 author: Price, Florence B.
 inst: piano-char
 permalink: /price-in-the-land-o-cotton/
