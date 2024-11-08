@@ -13,7 +13,7 @@ permalink: /price-in-the-land-o-cotton/
 - 
 
 ## Instrumentation
-- 
+- Solo piano
 
 ## Length
 - 
