@@ -10,7 +10,7 @@ permalink: /price-my-souls-been-anchored-orch/
 - See also "[My Soul's Been Anchored in the Lord](/price-my-souls-been-anchored/)" (solo voice and piano)
 
 ## Composition Year
-- 
+- 1931
 
 ## Instrumentation
 - Velt: 1 piccolo/flute, 2 flutes, 2 oboes, 2 Bb clar., 2 bassoon, 4 horns in F, 2 Bb trumpets, 3 trombones, 1 tuba, timpani, harp, strings
