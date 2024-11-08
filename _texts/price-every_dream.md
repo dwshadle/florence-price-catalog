@@ -27,6 +27,8 @@ permalink: /price-every-dream/
 ## Manuscripts
 - MC 988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
     * Box 1, Folder 4
+- MC988b: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/696/" target="_blank">Florence Beatrice Smith Price Papers Second Addendum</a>, Special Collections, Mullins Library, University of Arkansas
+    * Box 11, Folder 6
 
 ## Premiere Performance
 - 
