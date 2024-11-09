@@ -13,10 +13,10 @@ permalink: /price-fantasy-no1/
 - 1933
 
 ## Instrumentation
-- Violin and Piano
+- Violin and piano
 
 ## Length
-- 5 min
+- 5 min.
 
 ## Manuscripts
 - 
