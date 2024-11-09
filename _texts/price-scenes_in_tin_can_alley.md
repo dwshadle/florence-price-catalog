@@ -7,7 +7,7 @@ permalink: /price-scenes-in-tin-can-alley/
 ---
 
 ## Alternate Title
-- 
+- Alley Scenes, in Large City
 
 ## Composition Year
 - 
