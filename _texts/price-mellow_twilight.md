@@ -29,7 +29,7 @@ document: price_mellow_twilight.mei
 - Unknown
 
 ## Published Editions
-- 
+- McKinley Music Company. Chicago, Illinois, 1930.
 
 ## Recordings
 - 
