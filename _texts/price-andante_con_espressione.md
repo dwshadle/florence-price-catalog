@@ -16,7 +16,7 @@ permalink: /price-andante-con-espressione/
 - Violin and piano
 
 ## Length
-- 4 min
+- 4 min.
 
 ## Manuscripts
 - 
