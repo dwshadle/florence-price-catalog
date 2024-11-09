@@ -13,7 +13,7 @@ permalink: /price-andante-con-espressione/
 - 
 
 ## Instrumentation
-- Violin and Piano
+- Violin and piano
 
 ## Length
 - 4 min
