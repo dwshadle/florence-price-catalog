@@ -10,7 +10,7 @@ permalink: /price-the-island-of-my-dreams/
 - 
 
 ## Composition Year
-- 
+- ca. 1928
 
 ## Copyright Information
 - June 21, 1928, Linley Music House, E694900
@@ -22,17 +22,17 @@ permalink: /price-the-island-of-my-dreams/
 - 
 
 ## Lyricist and Source
-- 
+- Grace Linley
+- The Island of My Dreams, lyrics by Grace Linley. Linley Music House Chicago, 1928
 
 ## Manuscripts
-- MC 988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
-    * Box 14, Folder 16
+-
 
 ## Premiere Performance
 - 
 
 ## Published Editions
-- 
+- Linley Music House, Chicago, 1928
 
 ## Recordings
 - 
