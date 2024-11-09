@@ -13,7 +13,7 @@ permalink: /price-elfentanz/
 - 
 
 ## Instrumentation
-- Violin and Piano
+- Violin and piano
 
 ## Length
 - 4 min, 15 s
