@@ -13,7 +13,7 @@ permalink: /price-fantasy-no2/
 - 
 
 ## Instrumentation
-- Violin and Piano
+- Violin and piano
 
 ## Length
 - 5 min, 30 s
