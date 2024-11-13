@@ -7,10 +7,10 @@ permalink: /price-out-of-the-south-blew-a-soft-sweet-wind/
 ---
 
 ## Alternate Title
-- 
+- Out of the South Blew a Wind
 
 ## Composition Year
-- 
+- 1946
 
 ## Copyright Information
 - June 5, 1946, Edward B. Marks Music Corporation, EP7626
@@ -27,6 +27,7 @@ permalink: /price-out-of-the-south-blew-a-soft-sweet-wind/
 ## Manuscripts
 - MC 988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
     * Box 13, Folder 15
+    * Box 14, Folder 10
 
 ## Premiere Performance
 - 
