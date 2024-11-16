@@ -17,7 +17,7 @@ document: price_come_come.mei
 - Piano and voice
 
 ## Length
-- 30 sec
+- 30 sec.
 
 ## Lyricist and Source
 - Thomas Moore (1779&ndash;1852)[^fn2]
