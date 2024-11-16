@@ -19,7 +19,7 @@ permalink: /price-day-dawns/
 - 
 
 ## Lyricist and Source
-- Louise Charlotte Wallace (1902-1973)
+- Louise Charlotte Wallace (1902&ndash;1973)
 
 ## Manuscripts
 - MC 988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
