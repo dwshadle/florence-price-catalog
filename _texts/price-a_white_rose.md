@@ -17,7 +17,7 @@ document: price_a_white_rose.mei
 - Piano and high voice
 
 ## Length
-- 1 min 30 sec
+- 1 min, 30 s
 
 ## Lyricist and Source
 - John Boyle O'Reilly (1844&ndash;1890)
