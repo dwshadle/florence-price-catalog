@@ -20,7 +20,7 @@ document: price_an_april_day.mei
 - Piano and high voice
 
 ## Length
-- 1 min, 30 sec
+- 1 min, 30 s
 
 ## Lyricist and Source
 - Joseph Seamon Cotter, Jr. (1895&ndash;1919)[^fn1]
