@@ -19,7 +19,7 @@ permalink: /price-foggy-night/
 - 
 
 ## Lyricist and Source
-- Sjanna Solum
+- Sjanna Solum (1905&ndash;1963)
 - *American Mercury* Apr. 1946 according to score (may be Dec. 1945?)
 
 ## Manuscripts
