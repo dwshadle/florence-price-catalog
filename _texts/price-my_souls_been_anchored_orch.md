@@ -17,7 +17,7 @@ permalink: /price-my-souls-been-anchored-orch/
 - Price: 3 flutes, 2 oboes, 2 Bb clar., 2 bassoon, 4 horns in F, 3 Bb trumpets, 3 trombones, tuba, timpani, strings
 
 ## Length
-- Two minutes, five seconds
+- Two minutes
 
 ## Lyricist and Source
 - Spiritual
