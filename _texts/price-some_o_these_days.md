@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Some o' These Days
+title: Some O' These Days
 author: Price, Florence B.
 inst: pno-voice-arr
 permalink: /price-some-o-these-days/
