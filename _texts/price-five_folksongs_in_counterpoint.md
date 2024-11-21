@@ -16,7 +16,7 @@ permalink: /price-five-folksongs-in-counterpoint/
 - String quartet (2 vln, vla, vlc)
 
 ## Length
-- 18 min.
+- 18 minutes
 
 ## Manuscripts
 - MC988: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1419" target="_blank">Florence Beatrice Smith Price Collection</a>, Special Collections, Mullins Library, University of Arkansas
