@@ -8,7 +8,7 @@ document: price_because.mei
 ---
 
 ## Alternate Title
-- N/A[^fn1]
+- None[^fn1]
 
 ## Composition Year
 - 
