@@ -10,7 +10,7 @@ permalink: /price-i-know-that-any-weed-can-tell/
 - None[^fn1]
 
 ## Composition Year
-- 
+- 1947
 
 ## Instrumentation
 - Piano and voice
