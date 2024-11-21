@@ -7,7 +7,7 @@ permalink: /price-a-song-of-living/
 ---
 
 ## Alternate Title
-- N/A
+- None
 
 ## Composition Year
 - 1945
