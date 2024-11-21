@@ -7,7 +7,7 @@ permalink: /price-easy-goin/
 ---
 
 ## Alternate Title
-- None[^fn1]
+- Easy Goin' Feller[^fn1]
 
 ## Composition Year
 - 1935
