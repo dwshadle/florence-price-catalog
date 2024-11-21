@@ -11,7 +11,7 @@ document: price_love_in_a_mist.mei
 - 
 
 ## Composition Year
-- 
+- 1930
 
 ## Instrumentation
 - Piano and voice
