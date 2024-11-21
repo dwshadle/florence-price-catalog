@@ -7,7 +7,7 @@ permalink: /price-my-soul-and-i/
 ---
 
 ## Alternate Title
-- N/A
+- None
 
 ## Composition Year
 - 1947
