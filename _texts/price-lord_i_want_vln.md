@@ -7,7 +7,7 @@ permalink: /price-lord-i-want-vln/
 ---
 
 ## Alternate Title
-- N/A
+- None
 
 ## Composition Year
 - 1933
@@ -16,7 +16,7 @@ permalink: /price-lord-i-want-vln/
 - Violin and piano
 
 ## Length
-- 4 min.
+- 4 minuntes
 
 ## Manuscripts
 - MC988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
