@@ -10,7 +10,7 @@ permalink: /price-little-things/
 - 
 
 ## Composition Year
-- 
+- 1946
 
 ## Instrumentation
 - Piano and voice
@@ -19,7 +19,7 @@ permalink: /price-little-things/
 - 
 
 ## Lyricist and Source
-- 
+- Jas. Stephens (1880&ndash;1950)
 
 ## Manuscripts
 - MC 988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
