@@ -10,7 +10,7 @@ permalink: /price-spring/
 - 
 
 ## Composition Year
-- 
+- ca. 1913
 
 ## Instrumentation
 - Piano and voice
