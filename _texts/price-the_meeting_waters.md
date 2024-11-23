@@ -10,7 +10,7 @@ permalink: /price-the-meeting-waters/
 - 
 
 ## Composition Year
-- 
+- 1940
 
 ## Instrumentation
 - Piano and voice
