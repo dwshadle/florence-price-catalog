@@ -20,7 +20,7 @@ document: price_songs_to_the_dark_virgin.mei
 - Piano and medium or high voice
 
 ## Length
-- 2 min.
+- 2 minutes
 
 ## Lyricist and Source
 - Langston Hughes (1901&ndash;1967)
