@@ -10,7 +10,7 @@ permalink: /price-pittance/
 - 
 
 ## Composition Year
-- 194?
+- 1948?
 
 ## Instrumentation
 - Piano and voice
