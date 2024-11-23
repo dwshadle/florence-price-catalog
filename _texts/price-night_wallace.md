@@ -11,7 +11,7 @@ document: price_night_wallace.mei
 - 
 
 ## Composition Year
-- 
+- 1946
 
 ## Copyright Information
 - June 5, 1946, Edward B. Marks Music Corporation, EP7627 
@@ -20,10 +20,10 @@ document: price_night_wallace.mei
 - Piano and medium voice
 
 ## Length
-- 
+- 2 minutes
 
 ## Lyricist and Source
-- Louise C. Wallace
+- Louise C. Wallace (1902&ndash;1973)
 
 ## Manuscripts
 - MC 988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
