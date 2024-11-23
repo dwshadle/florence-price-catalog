@@ -10,7 +10,7 @@ permalink: /price-string-stars-for-pearls/
 - 
 
 ## Composition Year
-- 
+- 1951
 
 ## Instrumentation
 - Piano and voice
