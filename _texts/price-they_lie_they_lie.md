@@ -19,7 +19,7 @@ permalink: /price-they-lie-they-lie/
 - 
 
 ## Lyricist and Source
-- David Morton
+- David Morton (1886&ndash;1957)
 - *American Mercury* April 1946
 
 ## Manuscripts
