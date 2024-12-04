@@ -19,7 +19,7 @@ permalink: /price-travels-end/
 - 
 
 ## Lyricist and Source
-- Julia May Folwell Hoisington[^fn1]
+- Julia May Folwell Hoisington[^fn1] (1874&ndash;1955)
 - "Travel's End." [*The Step Ladder*](https://books.google.com/books?id=NGDPAAAAMAAJ) 12, no. 2 (July 1926): 28.
 
 ## Manuscripts
