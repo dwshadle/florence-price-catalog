@@ -20,7 +20,7 @@ permalink: /price-wadin-in-de-creek/
 
 ## Lyricist and Source
 - Paul Laurence Dunbar (1872&ndash;1906)
-- - [*Lyrics of Sunshine and Shadow*.](https://books.google.com/books?id=fT4RAAAAYAAJ) New York: Dodd, Mead, and Company, 1905.
+- [*Lyrics of Sunshine and Shadow*.](https://books.google.com/books?id=fT4RAAAAYAAJ) New York: Dodd, Mead, and Company, 1905.
      * OCLC: <a href="https://search.worldcat.org/title/3711815" target="_blank">3711815</a>
 
 ## Manuscripts
