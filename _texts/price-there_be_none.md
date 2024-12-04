@@ -19,7 +19,7 @@ permalink: /price-there-be-none/
 - 
 
 ## Lyricist and Source
-- George Gordon, Lord Byron
+- George Gordon, Lord Byron (1788&ndash;1824)
 - Price's Source: Humphrey Milford, OUP, 1930 (?)
 
 ## Manuscripts
