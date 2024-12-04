@@ -11,7 +11,7 @@ document: price_the_washerwoman.mei
 - 
 
 ## Composition Year
-- 
+- 1941
 
 ## Instrumentation
 - Piano and voice
