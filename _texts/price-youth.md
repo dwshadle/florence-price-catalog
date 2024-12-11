@@ -10,7 +10,7 @@ permalink: /price-youth/
 - 
 
 ## Composition Year
-- 
+- 1941
 
 ## Instrumentation
 - Piano and voice
