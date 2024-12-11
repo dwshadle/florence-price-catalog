@@ -19,7 +19,7 @@ permalink: /price-what-do-i-care-for-morning/
 - 
 
 ## Lyricist and Source
-- Helene Johnson
+- Helene Johnson (1906&ndash;1995)
 
 ## Manuscripts
 - MC 988a: <a href="https://uark.as.atlas-sys.com/repositories/2/resources/1522" target="_blank">Florence Beatrice Smith Price Papers Addendum</a>, Special Collections, Mullins Library, University of Arkansas
