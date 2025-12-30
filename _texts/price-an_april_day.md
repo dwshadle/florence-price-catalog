@@ -8,7 +8,7 @@ document: price_an_april_day.mei
 ---
 
 ## Alternate Title
-- A Mayday
+- None
 
 ## Composition Year
 - 1940[?]
